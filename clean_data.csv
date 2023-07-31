@@ -1,0 +1,335 @@
+Date,Time,CheckInTime,AppoitmentTime,StudentID,Name,Email,Major1st,Major2nd,ClassLevel,CareerCenterService,MeetingFormat,AppointmentLength,Counselor,Approved,AppointmentCancelled,WalkInAppointment
+2023-01-06,10:02,2023-01-06T16:02:00Z,NA,1345458,Luciana Scuderi,lls5576@truman.edu,Mathematics,Unrecorded,Junior,Unrecorded,In-Person,Unrecorded,Unrecorded,Yes,No,Walk-In
+2023-01-10,13:48,2023-01-10T19:48:00Z,NA,1363476,Johnnie Mehl,jcm7268@truman.edu,Exercise Science,Unrecorded,Senior,Unrecorded,In-Person,Unrecorded,Unrecorded,Yes,No,Walk-In
+2023-01-10,11:00,NA,2023-01-10T17:00:00Z,1370721,Lily Fisher,laf1456@truman.edu,Design,Unrecorded,Senior,Job/Internship Search Strategy,In-Person,60,Dave Lusk,Yes,No,Appointment
+2023-01-17,10:20,2023-01-17T16:20:00Z,NA,1361717,Sophie Oxandale,slo2415@truman.edu,Nursing,Unrecorded,Senior,Unrecorded,In-Person,Unrecorded,Unrecorded,Yes,No,Walk-In
+2023-01-17,13:14,2023-01-17T19:14:00Z,NA,1372529,Thad Meadows,tcm5152@truman.edu,Economics,Mathematics,Senior,Unrecorded,In-Person,Unrecorded,Unrecorded,Yes,No,Walk-In
+2023-01-18,13:59,2023-01-18T19:59:00Z,NA,1357679,Biwansh Khatri,bk5485@truman.edu,Physics,Unrecorded,Senior,Unrecorded,In-Person,Unrecorded,Unrecorded,Yes,No,Walk-In
+2023-01-19,12:03,2023-01-19T18:03:00Z,NA,Unrecorded,Paul D Keiser,pdk6774@truman.edu,Computer Science,Unrecorded,Senior,Unrecorded,In-Person,Unrecorded,Unrecorded,Yes,No,Walk-In
+2023-01-19,13:34,2023-01-19T19:34:00Z,NA,1378917,Maria Pareja Avalos,mfp7734@truman.edu,Political Sci & Intl Relations,Unrecorded,Junior,Unrecorded,In-Person,Unrecorded,Unrecorded,Yes,No,Walk-In
+2023-01-19,15:26,2023-01-19T21:26:00Z,NA,1361928,Rebecca Keasey,rjk7164@truman.edu,Computer Science,Unrecorded,Senior,Unrecorded,In-Person,Unrecorded,Unrecorded,Yes,No,Walk-In
+2023-01-19,12:45,NA,2023-01-19T18:45:00Z,Unrecorded,Tyler Allen Wyatt,tw5387@truman.edu,Data Sci & Analytic Storytell,Unrecorded,Graduate Student,Resume/CV/Cover Letter Review,Virtual,15,University Career Center,Yes,No,Appointment
+2023-01-19,14:45,NA,2023-01-19T20:45:00Z,1390287,Pujan Gauli,ts48152@truman.edu,Business Administration,Unrecorded,Freshman,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,Appointment
+2023-01-20,15:44,2023-01-20T21:44:00Z,NA,1360745,Sammy Stoecklein,sms2733@truman.edu,Business Administration,Unrecorded,Senior,Unrecorded,In-Person,Unrecorded,Unrecorded,Yes,No,Walk-In
+2023-01-20,9:30,NA,2023-01-20T15:30:00Z,1378190,Nathan Shaw,ncs6387@truman.edu,Physics,Unrecorded,Junior,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,Appointment
+2023-01-20,12:00,NA,2023-01-20T18:00:00Z,1361669,Lillian Selligman,lgs2647@truman.edu,Biology,Unrecorded,Senior,Personal Statement Creation/Final Draft,In-Person,60,Dave Lusk,Yes,No,Appointment
+2023-01-20,11:30,NA,2023-01-20T17:30:00Z,1368576,Xuanqian Ye,xy2383@truman.edu,English,Unrecorded,Junior,Job/Internship Search Strategy,In-Person,60,Bryce Cardwell,Yes,No,Appointment
+2023-01-20,15:45,NA,2023-01-20T21:45:00Z,1382268,Maddie Jackson,mcj8733@truman.edu,Psychology,Unrecorded,Sophomore,Career Coaching/Counseling,In-Person,60,Bryce Cardwell,Yes,No,Appointment
+2023-01-23,12:30,2023-01-23T18:26:00Z,2023-01-23T18:30:00Z,1361352,Evelyn Schmidt,eas4875@truman.edu,Computer Science,Unrecorded,Senior,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,Appointment
+2023-01-23,15:30,2023-01-23T21:28:00Z,2023-01-23T21:30:00Z,1381089,Alex Potter,ajp8365@truman.edu,English,Unrecorded,Junior,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,Appointment
+2023-01-23,16:00,NA,2023-01-23T22:00:00Z,1250343,Rachel Downey,rd1747@truman.edu,Science,Unrecorded,Graduate,Personal Statement Creation/Final Draft,In-Person,60,Dave Lusk,Yes,No,Appointment
+2023-01-23,10:30,NA,2023-01-23T16:30:00Z,1362895,Lukas Hudson,ljh8387@truman.edu,Political Sci & Intl Relations,Pre-Law,Senior,Personal Statement Creation/Final Draft,In-Person,60,Unrecorded,Yes,No,Appointment
+2023-01-23,16:45,NA,2023-01-23T22:45:00Z,1365859,Yang Sun,ys6728@truman.edu,Elementary Education,Unrecorded,Graduate,Resume/CV/Cover Letter Review,Virtual,15,Unrecorded,Yes,Yes,Appointment
+2023-01-24,8:56,2023-01-24T14:56:00Z,NA,1003474,Maddy Baugh,mb1724@truman.edu,Psychology,Unrecorded,Senior,Unrecorded,In-Person,Unrecorded,Unrecorded,Yes,No,Walk-In
+2023-01-24,10:58,2023-01-24T16:58:00Z,NA,Unrecorded,Eliana S Steinman,ess4218@truman.edu,Undeclared,Unknown,Freshman,Unrecorded,In-Person,Unrecorded,Unrecorded,Yes,No,Walk-In
+2023-01-24,12:30,2023-01-24T18:30:00Z,2023-01-24T18:30:00Z,1103960,Teagan Wilson,tsw1851@truman.edu,Elementary Education,Unrecorded,Graduate,Personal Statement Creation/Final Draft,In-Person,60,Dave Lusk,Yes,No,Appointment
+2023-01-24,13:15,2023-01-24T19:15:00Z,NA,1361113,Kinsey Keller,kk3413@truman.edu,Psychology,Unrecorded,Senior,Unrecorded,In-Person,Unrecorded,Unrecorded,Yes,No,Walk-In
+2023-01-24,10:45,NA,2023-01-24T16:45:00Z,1103960,Teagan Wilson,tsw1851@truman.edu,Elementary Education,Unrecorded,Graduate,Resume/CV/Cover Letter Review,Virtual,15,University Career Center,Yes,No,Appointment
+2023-01-24,16:45,NA,2023-01-24T22:45:00Z,1365859,Yang Sun,ys6728@truman.edu,Elementary Education,Unrecorded,Graduate,Resume/CV/Cover Letter Review,Virtual,15,Dave Lusk,Yes,No,Appointment
+2023-01-24,12:00,NA,2023-01-24T18:00:00Z,Unrecorded,Paul D Keiser,pdk6774@truman.edu,Computer Science,Unrecorded,Senior,Career Coaching/Counseling,In-Person,60,Bryce Cardwell,Yes,No,Appointment
+2023-01-24,16:45,NA,2023-01-24T22:45:00Z,1365859,Yang Sun,ys6728@truman.edu,Elementary Education,Unrecorded,Graduate,Resume/CV/Cover Letter Review,Virtual,15,Unrecorded,Yes,Yes,Appointment
+2023-01-25,9:02,2023-01-25T15:02:00Z,NA,1361385,Murray Pringle,mrp6684@truman.edu,Justice Systems,Psychology,Senior,Unrecorded,In-Person,Unrecorded,Unrecorded,Yes,No,Walk-In
+2023-01-25,11:30,NA,2023-01-25T17:30:00Z,1362380,Abby Rolen,alr2534@truman.edu,Biology,Unrecorded,Senior,Career Coaching/Counseling,In-Person,60,Unrecorded,Yes,No,Appointment
+2023-01-25,14:30,NA,2023-01-25T20:30:00Z,1120221,Molly Wease,mlw6732@truman.edu,Science,Unrecorded,Graduate,Personal Statement Creation/Final Draft,In-Person,60,Dave Lusk,Yes,No,Appointment
+2023-01-26,10:50,2023-01-26T16:50:00Z,NA,1386817,Evan Caito,eh84576@truman.edu,Physics,Unrecorded,Freshman,Unrecorded,In-Person,Unrecorded,Unrecorded,Yes,No,Walk-In
+2023-01-26,15:33,2023-01-26T21:33:00Z,NA,1396550,Beamlak Tekle,nh86628@truman.edu,Computer Science,Unrecorded,Sophomore,Unrecorded,In-Person,Unrecorded,Unrecorded,Yes,No,Walk-In
+2023-01-26,16:33,2023-01-26T22:33:00Z,NA,1369958,David Thomas,djt3624@truman.edu,Liberal Studies (archived),Unrecorded,Sophomore,Unrecorded,In-Person,Unrecorded,Unrecorded,Yes,No,Walk-In
+2023-01-26,12:15,NA,2023-01-26T18:15:00Z,1389228,Grace Schnelle,ou74267@truman.edu,Accounting,Unrecorded,Junior,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,Appointment
+2023-01-26,8:30,NA,2023-01-26T14:30:00Z,1385771,Fran Parise,fmp2332@truman.edu,Elementary Education,Unrecorded,Graduate,Personal Statement Creation/Final Draft,In-Person,60,Unrecorded,Yes,No,Appointment
+2023-01-26,13:30,NA,2023-01-26T19:30:00Z,1387096,Kyra Ray,ra52634@truman.edu,Applied Linguistics,Unrecorded,Sophomore,Career Coaching/Counseling,In-Person,60,Joel Brumfield,Yes,No,Appointment
+2023-01-26,13:15,NA,2023-01-26T19:15:00Z,1380592,Anthony Sarullo,aws2676@truman.edu,Psychology,Unrecorded,Junior,Room Reservation,In-Person,60,Dave Lusk,Yes,No,Appointment
+2023-01-26,10:00,NA,2023-01-26T16:00:00Z,1388457,Abby Perzan,yd74445@truman.edu,Political Sci & Intl Relations,Pre-Law,Sophomore,Career Coaching/Counseling,In-Person,60,Bryce Cardwell,Yes,Yes,Appointment
+2023-01-27,10:00,2023-01-27T15:56:00Z,2023-01-27T16:00:00Z,1385339,Yuho Kasuga,yk8163@truman.edu,Business Administration,Unrecorded,Junior,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,Appointment
+2023-01-27,13:32,2023-01-27T19:32:00Z,NA,1357679,Biwansh Khatri,bk5485@truman.edu,Physics,Unrecorded,Senior,Unrecorded,In-Person,Unrecorded,Unrecorded,Yes,No,Walk-In
+2023-01-27,14:50,2023-01-27T20:50:00Z,NA,1396799,Raesha K C,ot24356@truman.edu,Computer Science,Unrecorded,Freshman,Unrecorded,In-Person,Unrecorded,Unrecorded,Yes,No,Walk-In
+2023-01-27,14:50,2023-01-27T20:50:00Z,NA,1395738,Rejina Mahat,hc62454@truman.edu,Exercise Science,Unrecorded,Freshman,Unrecorded,In-Person,Unrecorded,Unrecorded,Yes,No,Walk-In
+2023-01-27,13:00,NA,2023-01-27T19:00:00Z,1248700,Abigail Bidwell,aab4236@truman.edu,Elementary Education,Unrecorded,Graduate,Personal Statement Creation/Final Draft,In-Person,60,Dave Lusk,Yes,No,Appointment
+2023-01-30,13:00,NA,2023-01-30T19:00:00Z,1360993,Elana Freesmeier,elf6426@truman.edu,Liberal Studies (archived),Unrecorded,Senior,Resume/CV/Cover Letter Review,Virtual,15,University Career Center,Yes,No,Appointment
+2023-01-30,12:45,NA,2023-01-30T18:45:00Z,1248700,Abigail Bidwell,aab4236@truman.edu,Elementary Education,Unrecorded,Graduate,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,Appointment
+2023-01-30,11:45,NA,2023-01-30T17:45:00Z,Unrecorded,Emily L Giannotti,emilygiannotti27@gmail.com,English,Unrecorded,Alumnus,Mock Interview,Virtual,45,Genna Tlustos,Yes,No,Appointment
+2023-01-31,10:15,2023-01-31T16:15:00Z,NA,1003474,Maddy Baugh,mb1724@truman.edu,Psychology,Unrecorded,Senior,Unrecorded,In-Person,Unrecorded,Unrecorded,Yes,No,Walk-In
+2023-01-31,10:15,NA,2023-01-31T16:15:00Z,1132193,Keegan Bird,kb2128@truman.edu,Mathematics,Psychology,Senior,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,Appointment
+2023-01-31,10:30,NA,2023-01-31T16:30:00Z,1132193,Keegan Bird,kb2128@truman.edu,Mathematics,Psychology,Senior,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,Appointment
+2023-01-31,10:45,NA,2023-01-31T16:45:00Z,1132193,Keegan Bird,kb2128@truman.edu,Mathematics,Psychology,Senior,Personal Statement Creation/Final Draft,In-Person,60,Unrecorded,Yes,No,Appointment
+2023-02-01,9:05,2023-02-01T15:05:00Z,NA,Unrecorded,Eliana S Steinman,ess4218@truman.edu,Undeclared,Unknown,Freshman,Unrecorded,In-Person,Unrecorded,Unrecorded,Yes,No,Walk-In
+2023-02-01,15:30,2023-02-01T21:27:00Z,2023-02-01T21:30:00Z,1362666,Lilly Ohlsen,lmo4127@truman.edu,Psychology,Unrecorded,Senior,Mock Interview,Virtual,45,Ellie Bindner,Yes,No,Appointment
+2023-02-01,15:54,2023-02-01T21:54:00Z,NA,1371351,Georgia Hollingsworth,grh6882@truman.edu,Biochemistry & Molecular Biol,Unrecorded,Senior,Unrecorded,In-Person,Unrecorded,Unrecorded,Yes,No,Walk-In
+2023-02-01,16:00,NA,2023-02-01T22:00:00Z,1388208,Leann Woodring,sp22374@truman.edu,Accounting,Unrecorded,Sophomore,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,Appointment
+2023-02-01,13:30,NA,2023-02-01T19:30:00Z,1371351,Georgia Hollingsworth,grh6882@truman.edu,Biochemistry & Molecular Biol,Unrecorded,Senior,Mock Interview,In-Person,45,Genna Tlustos,Yes,No,Appointment
+2023-02-01,11:45,NA,2023-02-01T17:45:00Z,1362877,Nirapada Rengsomboon,nr4638@truman.edu,Biology,Unrecorded,Senior,Personal Statement Creation/Final Draft,In-Person,60,Dave Lusk,Yes,No,Appointment
+2023-02-01,11:30,NA,2023-02-01T17:30:00Z,1362877,Nirapada Rengsomboon,nr4638@truman.edu,Biology,Unrecorded,Senior,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,Appointment
+2023-02-03,11:45,2023-02-03T17:41:00Z,2023-02-03T17:45:00Z,1372551,Maggie Wayman,mmw7623@truman.edu,Economics,Pre-Law,Senior,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,Appointment
+2023-02-03,12:00,NA,2023-02-03T18:00:00Z,1356377,Nick Wheatley,ngw7782@truman.edu,Biology,Pre-Medical,Senior,Job/Internship Search Strategy,In-Person,60,Bryce Cardwell,Yes,No,Appointment
+2023-02-03,12:30,NA,2023-02-03T18:30:00Z,1363157,Em Smith,ems7485@truman.edu,Interdisciplinary Studies,Unrecorded,Senior,Mock Interview,In-Person,45,Genna Tlustos,Yes,No,Appointment
+2023-02-06,13:30,2023-02-06T19:30:00Z,2023-02-06T19:30:00Z,1370619,Katherine Parsons,ksp7883@truman.edu,Business Administration,Unrecorded,Senior,Career Coaching/Counseling,In-Person,60,Bryce Cardwell,Yes,No,Appointment
+2023-02-06,14:28,2023-02-06T20:28:00Z,NA,Unrecorded,Eliana S Steinman,ess4218@truman.edu,Undeclared,Unknown,Freshman,Unrecorded,In-Person,Unrecorded,Dave Lusk,Yes,No,Walk-In
+2023-02-06,15:52,2023-02-06T21:52:00Z,NA,1387762,Saron Gebremichael,fa45177@truman.edu,Computer Science,Unrecorded,Freshman,Unrecorded,In-Person,Unrecorded,Dave Lusk,Yes,No,Walk-In
+2023-02-06,15:53,2023-02-06T21:53:00Z,NA,1387787,Nahom Jember,cr64444@truman.edu,Business Administration,Pre-Athletic Training,Freshman,Unrecorded,In-Person,Unrecorded,Dave Lusk,Yes,No,Walk-In
+2023-02-06,12:00,NA,2023-02-06T18:00:00Z,Unrecorded,Ian J Whitsitt,ianjwhitsitt@gmail.com,English,Unrecorded,Senior,Career Coaching/Counseling,In-Person,60,Unrecorded,Yes,No,Appointment
+2023-02-07,11:30,NA,2023-02-07T17:30:00Z,1379342,Gracie LaFoe,gdl7816@truman.edu,Biology,Pre-Medical,Junior,Resume/CV/Cover Letter Review,Virtual,15,University Career Center,Yes,No,Appointment
+2023-02-07,13:30,NA,2023-02-07T19:30:00Z,1363157,Em Smith,ems7485@truman.edu,Interdisciplinary Studies,Unrecorded,Senior,Mock Interview,In-Person,45,Victoria Lin,Yes,No,Appointment
+2023-02-09,9:00,2023-02-09T14:57:00Z,2023-02-09T15:00:00Z,1386758,Molly Schaedler,ax28685@truman.edu,Biology,Unrecorded,Sophomore,Career Coaching/Counseling,In-Person,60,Bryce Cardwell,Yes,No,Appointment
+2023-02-09,10:55,2023-02-09T16:55:00Z,NA,1386817,Evan Caito,eh84576@truman.edu,Physics,Unrecorded,Freshman,Unrecorded,In-Person,Unrecorded,Dave Lusk,Yes,No,Walk-In
+2023-02-09,14:45,2023-02-09T20:45:00Z,2023-02-09T20:45:00Z,1382854,Jessica Alvarado Brenes,jma5138@truman.edu,Music,Unrecorded,Graduate,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,Appointment
+2023-02-09,15:02,2023-02-09T21:02:00Z,NA,1357679,Biwansh Khatri,bk5485@truman.edu,Physics,Unrecorded,Senior,Unrecorded,In-Person,Unrecorded,Bryce Cardwell,Yes,No,Walk-In
+2023-02-09,10:45,NA,2023-02-09T16:45:00Z,1337723,Hannah Zimmerman,hcz7782@truman.edu,Biology,Pre-Medical,Senior,Mock Interview,In-Person,45,Kayla Cook,Yes,No,Appointment
+2023-02-09,11:45,NA,2023-02-09T17:45:00Z,1379342,Gracie LaFoe,gdl7816@truman.edu,Biology,Pre-Medical,Junior,Resume/CV/Cover Letter Review,Virtual,15,University Career Center,Yes,No,Appointment
+2023-02-09,8:30,NA,2023-02-09T14:30:00Z,1361928,Rebecca Keasey,rjk7164@truman.edu,Computer Science,Unrecorded,Senior,Room Reservation,In-Person,60,VI Suite,Yes,No,Appointment
+2023-02-09,9:30,NA,2023-02-09T15:30:00Z,1361928,Rebecca Keasey,rjk7164@truman.edu,Computer Science,Unrecorded,Senior,Room Reservation,In-Person,60,VI Suite,Yes,No,Appointment
+2023-02-09,15:00,NA,2023-02-09T21:00:00Z,1382484,Adam Woo,jw8266@truman.edu,Philosophy & Religion,Political Sci & Intl Relations,Sophomore,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,Appointment
+2023-02-10,12:00,2023-02-10T17:51:00Z,2023-02-10T18:00:00Z,1372551,Maggie Wayman,mmw7623@truman.edu,Economics,Pre-Law,Senior,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,Appointment
+2023-02-10,13:00,2023-02-10T18:57:00Z,2023-02-10T19:00:00Z,1363157,Em Smith,ems7485@truman.edu,Interdisciplinary Studies,Unrecorded,Senior,Room Reservation,In-Person,60,VI Suite,Yes,No,Appointment
+2023-02-10,14:54,2023-02-10T20:54:00Z,NA,1365818,Namuna Sunar,ns3255@truman.edu,Nursing,Unrecorded,Senior,Unrecorded,In-Person,Unrecorded,Dave Lusk,Yes,No,Walk-In
+2023-02-10,10:00,NA,2023-02-10T16:00:00Z,1350154,Hunter Randall,hcr4321@truman.edu,Accounting,Unrecorded,Senior,Resume/CV/Cover Letter Review,Virtual,15,University Career Center,Yes,No,Appointment
+2023-02-10,14:00,NA,2023-02-10T20:00:00Z,1363157,Em Smith,ems7485@truman.edu,Interdisciplinary Studies,Unrecorded,Senior,Room Reservation,In-Person,60,VI Suite,Yes,No,Appointment
+2023-02-10,13:00,NA,2023-02-10T19:00:00Z,1350640,Ethan Kershaw,erk8226@truman.edu,Interdisciplinary Studies,Unrecorded,Senior,Job/Internship Search Strategy,In-Person,60,Bryce Cardwell,Yes,No,Appointment
+2023-02-13,10:00,NA,2023-02-13T16:00:00Z,1392621,Emma Lewis,dr16471@truman.edu,Psychology,Theatre,Sophomore,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,Appointment
+2023-02-13,11:00,NA,2023-02-13T17:00:00Z,Unrecorded,Ian J Whitsitt,ianjwhitsitt@gmail.com,English,Unrecorded,Senior,Career Coaching/Counseling,In-Person,60,Bryce Cardwell,Yes,No,Appointment
+2023-02-13,11:45,NA,2023-02-13T17:45:00Z,1361669,Lillian Selligman,lgs2647@truman.edu,Biology,Unrecorded,Senior,Mock Interview,Virtual,45,Genna Tlustos,Yes,No,Appointment
+2023-02-13,8:15,NA,2023-02-13T14:15:00Z,1380592,Anthony Sarullo,aws2676@truman.edu,Psychology,Unrecorded,Junior,Room Reservation,In-Person,60,Unrecorded,Yes,Yes,Appointment
+2023-02-14,15:00,NA,2023-02-14T21:00:00Z,1360993,Elana Freesmeier,elf6426@truman.edu,Liberal Studies (archived),Unrecorded,Senior,Resume/CV/Cover Letter Review,Virtual,15,University Career Center,Yes,No,Appointment
+2023-02-14,8:45,NA,2023-02-14T14:45:00Z,1103625,Kate Speak,kes8327@truman.edu,Linguistics,Unrecorded,Senior,Mock Interview,Virtual,45,Unrecorded,Yes,No,Appointment
+2023-02-15,9:00,2023-02-15T15:00:00Z,NA,Unrecorded,Eliana S Steinman,ess4218@truman.edu,Undeclared,Unknown,Freshman,Unrecorded,In-Person,Unrecorded,Dave Lusk,Yes,No,Walk-In
+2023-02-15,14:01,2023-02-15T20:01:00Z,NA,1357679,Biwansh Khatri,bk5485@truman.edu,Physics,Unrecorded,Senior,Unrecorded,In-Person,Unrecorded,Bryce Cardwell,Yes,No,Walk-In
+2023-02-15,14:30,2023-02-15T20:23:00Z,2023-02-15T20:30:00Z,1381862,Johanna Schramm,jus1821@truman.edu,Secondary,History,Sophomore,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,Appointment
+2023-02-16,10:53,2023-02-16T16:53:00Z,NA,1386817,Evan Caito,eh84576@truman.edu,Physics,Unrecorded,Freshman,Unrecorded,In-Person,Unrecorded,Dave Lusk,Yes,No,Walk-In
+2023-02-16,15:35,2023-02-16T21:35:00Z,NA,1368576,Xuanqian Ye,xy2383@truman.edu,English,Unrecorded,Junior,Unrecorded,In-Person,Unrecorded,Bryce Cardwell,Yes,No,Walk-In
+2023-02-16,8:30,NA,2023-02-16T14:30:00Z,1386759,Ashton Stuber,nf36623@truman.edu,Elementary,Psychology,Sophomore,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,Appointment
+2023-02-16,9:00,NA,2023-02-16T15:00:00Z,1393352,Rachel Ecute,cq47113@truman.edu,Business Administration,Unrecorded,Freshman,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,Appointment
+2023-02-17,15:29,2023-02-17T21:29:00Z,NA,1369958,David Thomas,djt3624@truman.edu,Liberal Studies (archived),Unrecorded,Sophomore,Unrecorded,In-Person,Unrecorded,Dave Lusk,Yes,No,Walk-In
+2023-02-17,13:15,NA,2023-02-17T19:15:00Z,1388642,Kate Yates,te17686@truman.edu,Accounting,Business Administration,Sophomore,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,Appointment
+2023-02-17,10:30,NA,2023-02-17T16:30:00Z,1364088,Yasmine Ghenima,yg2612@truman.edu,Political Sci & Intl Relations,Unrecorded,Senior,Mock Interview,In-Person,45,Kayla Cook,Yes,No,Appointment
+2023-02-17,11:45,NA,2023-02-17T17:45:00Z,1379196,Symphony Weston,smw8428@truman.edu,Biology,Unrecorded,Junior,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,Appointment
+2023-02-20,13:30,2023-02-20T19:26:00Z,2023-02-20T19:30:00Z,1388168,Elias Theall,vn61124@truman.edu,Communication,Pre-Law,Freshman,Career Coaching/Counseling,In-Person,60,Bryce Cardwell,Yes,No,Appointment
+2023-02-20,14:56,2023-02-20T20:56:00Z,NA,Unrecorded,Eliana S Steinman,ess4218@truman.edu,Undeclared,Unknown,Freshman,Unrecorded,In-Person,Unrecorded,Dave Lusk,Yes,No,Walk-In
+2023-02-20,11:30,NA,2023-02-20T17:30:00Z,1368314,Owen Smith,ons1751@truman.edu,Economics,Unrecorded,Senior,Resume/CV/Cover Letter Review,In-Person,15,Unrecorded,Yes,No,Appointment
+2023-02-20,15:00,NA,2023-02-20T21:00:00Z,1386965,Cole Mullins,bk23324@truman.edu,Secondary,History,Sophomore,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,Appointment
+2023-02-20,13:30,NA,2023-02-20T19:30:00Z,1389005,Bethlehem Alebachew,tk76886@truman.edu,Nursing,Unrecorded,Freshman,Personal Statement Creation/Final Draft,In-Person,60,Unrecorded,Yes,No,Appointment
+2023-02-21,13:45,2023-02-21T19:45:00Z,NA,1370733,Charlotte Liao,sl3841@truman.edu,Economics,Unrecorded,Senior,Unrecorded,In-Person,Unrecorded,Bryce Cardwell,Yes,No,Walk-In
+2023-02-21,14:04,2023-02-21T20:04:00Z,NA,1357679,Biwansh Khatri,bk5485@truman.edu,Physics,Unrecorded,Senior,Unrecorded,In-Person,Unrecorded,Bryce Cardwell,Yes,No,Walk-In
+2023-02-21,12:30,NA,2023-02-21T18:30:00Z,1390512,Mariah Murphy,rd15348@truman.edu,Elementary,Psychology,Freshman,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,Appointment
+2023-02-21,15:15,NA,2023-02-21T21:15:00Z,1255514,Emma Rohrbach,er5223@truman.edu,Economics,Political Sci & Intl Relations,Senior,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,Appointment
+2023-02-21,10:45,NA,2023-02-21T16:45:00Z,1337723,Hannah Zimmerman,hcz7782@truman.edu,Biology,Pre-Medical,Senior,Mock Interview,In-Person,45,Kayla Cook,Yes,No,Appointment
+2023-02-22,8:00,NA,2023-02-22T14:00:00Z,1361228,Iva Welbourne,ilw3281@truman.edu,Agricultural Science,Unrecorded,Senior,Room Reservation,In-Person,60,VI Suite,Yes,No,Appointment
+2023-02-24,11:45,2023-02-24T17:58:00Z,2023-02-24T17:45:00Z,1365827,Caleb Van Horn,cmv4626@truman.edu,Art,Unrecorded,Senior,Career Coaching/Counseling,In-Person,60,Unrecorded,Yes,No,Appointment
+2023-02-24,16:00,2023-02-24T21:59:00Z,2023-02-24T22:00:00Z,1375814,Brianna Dotson,bmd2775@truman.edu,Music (Pre-Certification),Unrecorded,Junior,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,Appointment
+2023-02-24,9:00,NA,2023-02-24T15:00:00Z,1390287,Pujan Gauli,ts48152@truman.edu,Business Administration,Unrecorded,Freshman,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,Appointment
+2023-02-24,10:00,NA,2023-02-24T16:00:00Z,1379947,Bryndal Miller,brm6637@truman.edu,Elementary,Psychology,Sophomore,Resume/CV/Cover Letter Review,Virtual,15,University Career Center,Yes,No,Appointment
+2023-02-24,11:45,NA,2023-02-24T17:45:00Z,1379196,Symphony Weston,smw8428@truman.edu,Biology,Unrecorded,Junior,Mock Interview,In-Person,45,Genna Tlustos,Yes,No,Appointment
+2023-02-24,13:30,NA,2023-02-24T19:30:00Z,1138306,Adam Schmitz,ahs8287@truman.edu,Foreign Language,Unrecorded,Graduate,Room Reservation,In-Person,60,Unrecorded,Yes,No,Appointment
+2023-02-24,12:15,NA,2023-02-24T18:15:00Z,1386759,Ashton Stuber,nf36623@truman.edu,Elementary,Psychology,Sophomore,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,Appointment
+2023-02-24,13:30,NA,2023-02-24T19:30:00Z,1388100,McKenna Ledgerwood,hr32767@truman.edu,Secondary,Biology,Sophomore,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,Appointment
+2023-02-24,12:45,NA,2023-02-24T18:45:00Z,1381365,Lauren Munns,lem1877@truman.edu,Elementary,English,Sophomore,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,Appointment
+2023-02-24,11:30,NA,2023-02-24T17:30:00Z,1372392,Emma Whittenburg,ecw8883@truman.edu,Secondary,Biology,Junior,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,Appointment
+2023-02-27,13:29,2023-02-27T19:29:00Z,NA,1388168,Elias Theall,vn61124@truman.edu,Communication,Pre-Law,Freshman,Unrecorded,In-Person,Unrecorded,Bryce Cardwell,Yes,No,Walk-In
+2023-02-27,15:00,NA,2023-02-27T21:00:00Z,1387711,Hermella Assefa,sf18661@truman.edu,Statistics,Unrecorded,Freshman,Career Coaching/Counseling,In-Person,60,Unrecorded,Yes,No,Appointment
+2023-02-28,10:30,2023-02-28T16:28:00Z,2023-02-28T16:30:00Z,1388758,Samantha Dotson,bn36348@truman.edu,Political Sci & Intl Relations,Unrecorded,Sophomore,Career Coaching/Counseling,In-Person,60,Unrecorded,Yes,No,Appointment
+2023-03-01,10:00,2023-03-01T15:56:00Z,2023-03-01T16:00:00Z,1375273,Aubrie Grubbs,ag1756@truman.edu,Communication Disorders,Unrecorded,Junior,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,Appointment
+2023-03-01,10:58,2023-03-01T16:58:00Z,NA,1384436,Emily Wagner,ew3455@truman.edu,Communication Disorders,Unrecorded,Graduate,Unrecorded,In-Person,Unrecorded,Bryce Cardwell,Yes,No,Walk-In
+2023-03-01,13:25,2023-03-01T19:25:00Z,NA,1381861,Will Murdock,wcm4551@truman.edu,Economics,Political Sci & Intl Relations,Junior,Unrecorded,In-Person,Unrecorded,Bryce Cardwell,Yes,No,Walk-In
+2023-03-01,14:45,NA,2023-03-01T20:45:00Z,1380540,Megan Cluck,mbc5651@truman.edu,Biology,Unrecorded,Junior,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,Appointment
+2023-03-01,13:45,NA,2023-03-01T19:45:00Z,1382484,Adam Woo,jw8266@truman.edu,Philosophy & Religion,Political Sci & Intl Relations,Sophomore,Career Coaching/Counseling,In-Person,60,Bryce Cardwell,Yes,No,Appointment
+2023-03-01,12:00,NA,2023-03-01T18:00:00Z,1381861,Will Murdock,wcm4551@truman.edu,Economics,Political Sci & Intl Relations,Junior,Career Coaching/Counseling,In-Person,60,Bryce Cardwell,Yes,No,Appointment
+2023-03-02,9:30,2023-03-02T15:25:00Z,2023-03-02T15:30:00Z,1378917,Maria Pareja Avalos,mfp7734@truman.edu,Political Sci & Intl Relations,Unrecorded,Junior,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,Appointment
+2023-03-02,15:30,2023-03-02T21:27:00Z,2023-03-02T21:30:00Z,1364581,Ethan Strawn,eds5438@truman.edu,Undeclared,Unrecorded,Sophomore,Career Coaching/Counseling,In-Person,60,Bryce Cardwell,Yes,No,Appointment
+2023-03-02,12:00,NA,2023-03-02T18:00:00Z,1381598,Abby Raymond,alr1457@truman.edu,Interdisciplinary Studies,Unrecorded,Sophomore,Resume/CV/Cover Letter Review,Virtual,15,Unrecorded,Yes,No,Appointment
+2023-03-02,15:45,NA,2023-03-02T21:45:00Z,1363157,Em Smith,ems7485@truman.edu,Interdisciplinary Studies,Unrecorded,Senior,Room Reservation,In-Person,60,VI Suite,Yes,No,Appointment
+2023-03-02,9:00,NA,2023-03-02T15:00:00Z,1370193,Karsen Mauney,kgm7887@truman.edu,Communication,Unrecorded,Senior,Resume/CV/Cover Letter Review,Virtual,15,University Career Center,Yes,No,Appointment
+2023-03-02,9:45,NA,2023-03-02T15:45:00Z,1378288,Haley Wilson,hmw6212@truman.edu,Psychology,Unrecorded,Junior,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,Appointment
+2023-03-02,11:30,NA,2023-03-02T17:30:00Z,1384699,Natalie Summers,ns6547@truman.edu,Communication Disorders,Unrecorded,Graduate,Mock Interview,Virtual,45,Kayla Cook,Yes,No,Appointment
+2023-03-02,13:30,NA,2023-03-02T19:30:00Z,1387567,Kaidince Edwards,vr62418@truman.edu,Elementary,English,Sophomore,Job/Internship Search Strategy,In-Person,60,Bryce Cardwell,Yes,No,Appointment
+2023-03-03,13:15,2023-03-03T19:15:00Z,2023-03-03T19:15:00Z,1387711,Hermella Assefa,sf18661@truman.edu,Statistics,Unrecorded,Freshman,Career Coaching/Counseling,In-Person,60,Bryce Cardwell,Yes,No,Appointment
+2023-03-03,14:00,NA,2023-03-03T20:00:00Z,1384096,Brooke Chapman,bac5245@truman.edu,Communication Disorders,Unrecorded,Graduate,Resume/CV/Cover Letter Review,Virtual,15,University Career Center,Yes,No,Appointment
+2023-03-03,14:45,NA,2023-03-03T20:45:00Z,1336723,Tori Strege,vas7822@truman.edu,Communication Disorders,Unrecorded,Graduate,Mock Interview,Virtual,45,Emilia Angulo,Yes,No,Appointment
+2023-03-03,11:15,NA,2023-03-03T17:15:00Z,1255743,Nina Thomas,nat2151@truman.edu,History,Unrecorded,Junior,Resume/CV/Cover Letter Review,Virtual,15,University Career Center,Yes,No,Appointment
+2023-03-03,9:00,NA,2023-03-03T15:00:00Z,1385983,Jayelynn Duvall,jd8435@truman.edu,Secondary,English,Sophomore,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,Appointment
+2023-03-03,10:15,NA,2023-03-03T16:15:00Z,1102676,Brad Lay,bsl6361@truman.edu,Exercise Science,Unrecorded,Senior,Personal Statement Creation/Final Draft,In-Person,60,Unrecorded,Yes,No,Appointment
+2023-03-03,15:00,NA,2023-03-03T21:00:00Z,1386159,Trenton Clardy,og56314@truman.edu,Secondary,History,Freshman,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,Appointment
+2023-03-03,8:30,NA,2023-03-03T14:30:00Z,1393803,Gabi Cook,vh36842@truman.edu,Secondary,Art,Sophomore,Resume/CV/Cover Letter Review,In-Person,15,Unrecorded,Yes,No,Appointment
+2023-03-03,15:30,NA,2023-03-03T21:30:00Z,1336698,Kelly Stiles,kjs2328@truman.edu,Communication Disorders,Unrecorded,Graduate,Mock Interview,In-Person,45,Emilia Angulo,Yes,No,Appointment
+2023-03-03,10:30,NA,2023-03-03T16:30:00Z,1250846,Kristen Weber,knw6276@truman.edu,Communication Disorders,Unrecorded,Graduate,Mock Interview,In-Person,45,Kayla Cook,Yes,No,Appointment
+2023-03-03,11:30,NA,2023-03-03T17:30:00Z,1388299,Jenna Messer,ya81127@truman.edu,Elementary,Communication Disorders,Sophomore,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,Appointment
+2023-03-03,10:00,NA,2023-03-03T16:00:00Z,1361796,Jacob Kolb,jak3713@truman.edu,Linguistics,Unrecorded,Senior,Career Coaching/Counseling,In-Person,30,Dave Lusk,Yes,No,Appointment
+2023-03-03,12:30,NA,2023-03-03T18:30:00Z,1354736,Audrey Thompson,alt2724@truman.edu,Health Science,Unrecorded,Senior,Mock Interview,In-Person,45,Unrecorded,Yes,Yes,Appointment
+2023-03-06,8:26,2023-03-06T14:26:00Z,NA,1361570,Amy Puzniak,arp7174@truman.edu,English,Unrecorded,Graduate,Unrecorded,In-Person,Unrecorded,Dave Lusk,Yes,No,Walk-In
+2023-03-06,16:14,2023-03-06T22:14:00Z,NA,1360417,Caity Sarin,cas2883@truman.edu,Health Science,Unrecorded,Senior,Unrecorded,In-Person,Unrecorded,Dave Lusk,Yes,No,Walk-In
+2023-03-06,16:15,2023-03-06T22:15:00Z,NA,Unrecorded,Eliana S Steinman,ess4218@truman.edu,Undeclared,Unknown,Freshman,Unrecorded,In-Person,Unrecorded,Dave Lusk,Yes,No,Walk-In
+2023-03-06,12:30,NA,2023-03-06T18:30:00Z,1351681,Leah Caputo,lmc2443@truman.edu,Communication Disorders,Unrecorded,Graduate,Mock Interview,Virtual,45,Genna Tlustos,Yes,No,Appointment
+2023-03-06,11:45,NA,2023-03-06T17:45:00Z,1360123,Hannah Belanger,hrb6657@truman.edu,Exercise Science,Pre-Dietetics,Senior,Mock Interview,Virtual,45,Genna Tlustos,Yes,No,Appointment
+2023-03-06,14:45,NA,2023-03-06T20:45:00Z,1351237,Carissa Riney,cab2736@truman.edu,Communication Disorders,Unrecorded,Graduate,Mock Interview,Virtual,45,Unrecorded,Yes,No,Appointment
+2023-03-06,9:45,NA,2023-03-06T15:45:00Z,1380510,Josh Ryan,jwr4671@truman.edu,Secondary,Music (Pre-Certification),Junior,Room Reservation,In-Person,15,University Career Center,Yes,No,Appointment
+2023-03-06,12:00,NA,2023-03-06T18:00:00Z,1377972,Paige Snyder,pls5513@truman.edu,Elementary,Interdisciplinary Studies,Senior,Personal Statement Creation/Final Draft,In-Person,60,Unrecorded,Yes,No,Appointment
+2023-03-06,10:30,NA,2023-03-06T16:30:00Z,1389433,Sophia Zarrillo,eq13251@truman.edu,Elementary,Psychology,Sophomore,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,Appointment
+2023-03-06,14:00,NA,2023-03-06T20:00:00Z,1363517,Danielle Illy,dei4267@truman.edu,Biology,Unrecorded,Senior,Resume/CV/Cover Letter Review,In-Person,15,Unrecorded,Yes,Yes,Appointment
+2023-03-06,8:30,NA,2023-03-06T14:30:00Z,1351237,Carissa Riney,cab2736@truman.edu,Communication Disorders,Unrecorded,Graduate,Resume/CV/Cover Letter Review,Virtual,15,Unrecorded,Yes,Yes,Appointment
+2023-03-07,8:30,2023-03-07T14:26:00Z,2023-03-07T14:30:00Z,1364999,Casey Voichahoske,cv4426@truman.edu,Secondary,History,Senior,Career Coaching/Counseling,In-Person,60,Dave Lusk,Yes,No,Appointment
+2023-03-07,16:27,2023-03-07T22:27:00Z,NA,1372665,Megan Ford,mjf5817@truman.edu,Political Sci & Intl Relations,Pre-Law,Senior,Unrecorded,In-Person,Unrecorded,Dave Lusk,Yes,No,Walk-In
+2023-03-07,10:00,NA,2023-03-07T16:00:00Z,1392654,Tessa Keeton,ca48366@truman.edu,Communication Disorders,Unrecorded,Graduate,Resume/CV/Cover Letter Review,Virtual,15,Unrecorded,Yes,No,Appointment
+2023-03-07,14:45,NA,2023-03-07T20:45:00Z,1352785,Claire Russotto,ccr2365@truman.edu,Communication Disorders,Unrecorded,Graduate,Mock Interview,Virtual,45,Unrecorded,Yes,No,Appointment
+2023-03-07,10:45,NA,2023-03-07T16:45:00Z,1380444,Sophia Seibert,scs5314@truman.edu,Agricultural Science,Pre-Veterinary,Junior,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,Appointment
+2023-03-07,11:30,NA,2023-03-07T17:30:00Z,1379342,Gracie LaFoe,gdl7816@truman.edu,Biology,Pre-Medical,Junior,Mock Interview,Virtual,45,Kayla Cook,Yes,No,Appointment
+2023-03-07,10:00,NA,2023-03-07T16:00:00Z,1364999,Casey Voichahoske,cv4426@truman.edu,Secondary,History,Senior,Room Reservation,In-Person,60,VI Suite,Yes,No,Appointment
+2023-03-08,13:31,2023-03-08T19:31:00Z,NA,1363031,Hoang Nguyen,mdn5357@truman.edu,Philosophy & Religion,Psychology,Senior,Unrecorded,In-Person,Unrecorded,Dave Lusk,Yes,No,Walk-In
+2023-03-08,10:45,NA,2023-03-08T16:45:00Z,1393034,Bethany Jackson,aq83315@truman.edu,Communication Disorders,Unrecorded,Graduate,Resume/CV/Cover Letter Review,In-Person,15,Unrecorded,Yes,No,Appointment
+2023-03-08,14:45,NA,2023-03-08T20:45:00Z,1386342,Kennedy Jones,mh48346@truman.edu,Accounting,Unrecorded,Sophomore,Mock Interview,In-Person,45,Ellie Bindner,Yes,No,Appointment
+2023-03-08,13:30,NA,2023-03-08T19:30:00Z,1351631,Amanda Rericker,amr4167@truman.edu,Communication Disorders,Unrecorded,Graduate,Mock Interview,In-Person,45,Unrecorded,Yes,No,Appointment
+2023-03-08,12:45,NA,2023-03-08T18:45:00Z,1351596,Paige Devening,ped1283@truman.edu,Communication Disorders,Unrecorded,Graduate,Mock Interview,Virtual,45,Genna Tlustos,Yes,No,Appointment
+2023-03-08,12:30,NA,2023-03-08T18:30:00Z,1370250,Nicole Galarza Guilarte,sng7321@truman.edu,Business Administration,Unrecorded,Junior,Room Reservation,In-Person,60,Unrecorded,Yes,No,Appointment
+2023-03-09,9:24,2023-03-09T15:24:00Z,NA,1363476,Johnnie Mehl,jcm7268@truman.edu,Exercise Science,Unrecorded,Senior,Unrecorded,In-Person,Unrecorded,Dave Lusk,Yes,No,Walk-In
+2023-03-09,10:00,2023-03-09T16:02:00Z,2023-03-09T16:00:00Z,1368317,Zixian Jiang,zj8358@truman.edu,English,Unrecorded,Senior,Career Coaching/Counseling,In-Person,60,Unrecorded,Yes,No,Appointment
+2023-03-09,10:44,2023-03-09T16:44:00Z,NA,1386817,Evan Caito,eh84576@truman.edu,Physics,Unrecorded,Freshman,Unrecorded,In-Person,Unrecorded,Dave Lusk,Yes,No,Walk-In
+2023-03-09,13:56,2023-03-09T19:56:00Z,NA,Unrecorded,Grant Gouwens,xl56248@truman.edu,Psychology,Unrecorded,Freshman,Unrecorded,In-Person,Unrecorded,Dave Lusk,Yes,No,Walk-In
+2023-03-09,14:27,2023-03-09T20:27:00Z,NA,1372665,Megan Ford,mjf5817@truman.edu,Political Sci & Intl Relations,Pre-Law,Senior,Unrecorded,In-Person,Unrecorded,Dave Lusk,Yes,No,Walk-In
+2023-03-09,16:05,2023-03-09T22:05:00Z,NA,1388168,Elias Theall,vn61124@truman.edu,Communication,Pre-Law,Freshman,Unrecorded,In-Person,Unrecorded,Bryce Cardwell,Yes,No,Walk-In
+2023-03-09,12:00,NA,2023-03-09T18:00:00Z,1387798,Ben Taylor,in62545@truman.edu,Business Administration,Unrecorded,Freshman,Resume/CV/Cover Letter Review,Virtual,15,Unrecorded,Yes,No,Appointment
+2023-03-09,14:45,NA,2023-03-09T20:45:00Z,1390287,Pujan Gauli,ts48152@truman.edu,Business Administration,Unrecorded,Freshman,Career Coaching/Counseling,In-Person,60,Unrecorded,Yes,No,Appointment
+2023-03-09,14:00,NA,2023-03-09T20:00:00Z,1372529,Thad Meadows,tcm5152@truman.edu,Economics,Mathematics,Senior,Room Reservation,In-Person,60,University Career Center,Yes,No,Appointment
+2023-03-09,10:15,NA,2023-03-09T16:15:00Z,1389005,Bethlehem Alebachew,tk76886@truman.edu,Nursing,Unrecorded,Freshman,Career Coaching/Counseling,In-Person,60,Unrecorded,Yes,No,Appointment
+2023-03-09,13:45,NA,2023-03-09T19:45:00Z,1368547,Nellea Dovin,ncd4435@truman.edu,Science,Unrecorded,Graduate,Personal Statement Creation/Final Draft,In-Person,60,Unrecorded,Yes,No,Appointment
+2023-03-09,10:45,NA,2023-03-09T16:45:00Z,1354004,Tucker Murry,tmm3867@truman.edu,Communication Disorders,Unrecorded,Graduate,Mock Interview,Virtual,45,Kayla Cook,Yes,No,Appointment
+2023-03-10,11:44,2023-03-10T17:44:00Z,NA,1382484,Adam Woo,jw8266@truman.edu,Philosophy & Religion,Political Sci & Intl Relations,Sophomore,Unrecorded,In-Person,Unrecorded,Bryce Cardwell,Yes,No,Walk-In
+2023-03-10,9:45,NA,2023-03-10T15:45:00Z,1351111,Ashley Cichon,aac7765@truman.edu,Communication Disorders,Unrecorded,Graduate,Mock Interview,In-Person,45,Kayla Cook,Yes,No,Appointment
+2023-03-10,12:30,NA,2023-03-10T18:30:00Z,1354736,Audrey Thompson,alt2724@truman.edu,Health Science,Unrecorded,Senior,Mock Interview,In-Person,45,Genna Tlustos,Yes,No,Appointment
+2023-03-10,9:15,NA,2023-03-10T15:15:00Z,1360555,Taryn Gough,tlg6375@truman.edu,Communication Disorders,Unrecorded,Graduate,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,Appointment
+2023-03-15,14:45,NA,2023-03-15T19:45:00Z,1371373,Thomas Schodl,tjs7846@truman.edu,Biochemistry & Molecular Biol,Pre-Medical,Senior,Mock Interview,In-Person,45,Unrecorded,Yes,No,Appointment
+2023-03-15,14:30,NA,2023-03-15T19:30:00Z,1371373,Thomas Schodl,tjs7846@truman.edu,Biochemistry & Molecular Biol,Pre-Medical,Senior,Resume/CV/Cover Letter Review,In-Person,15,Unrecorded,Yes,No,Appointment
+2023-03-20,13:30,NA,2023-03-20T18:30:00Z,1368577,Myranda Anthes,mka5214@truman.edu,Elementary,English,Junior,Resume/CV/Cover Letter Review,Virtual,15,University Career Center,Yes,No,Appointment
+2023-03-20,11:45,NA,2023-03-20T16:45:00Z,1372603,Cael Aldridge,cra7782@truman.edu,Exercise Science,Unrecorded,Senior,Mock Interview,In-Person,45,Genna Tlustos,Yes,No,Appointment
+2023-03-20,14:00,NA,2023-03-20T19:00:00Z,1365051,Murtuza Taqi,mst3288@truman.edu,Physics,Unrecorded,Senior,Job/Internship Search Strategy,In-Person,60,Dave Lusk,Yes,No,Appointment
+2023-03-21,8:26,2023-03-21T13:26:00Z,NA,1364999,Casey Voichahoske,cv4426@truman.edu,Secondary,History,Senior,Unrecorded,In-Person,Unrecorded,Dave Lusk,Yes,No,Walk-In
+2023-03-21,12:45,2023-03-21T17:37:00Z,2023-03-21T17:45:00Z,1371175,Sydnie Freese,saf5232@truman.edu,Health Science,Pre-Physical Therapy,Senior,Mock Interview,In-Person,45,Victoria Lin,Yes,No,Appointment
+2023-03-21,15:00,2023-03-21T19:57:00Z,2023-03-21T20:00:00Z,1382484,Adam Woo,jw8266@truman.edu,Philosophy & Religion,Political Sci & Intl Relations,Sophomore,Career Coaching/Counseling,In-Person,60,Bryce Cardwell,Yes,No,Appointment
+2023-03-21,10:45,NA,2023-03-21T15:45:00Z,1380444,Sophia Seibert,scs5314@truman.edu,Agricultural Science,Pre-Veterinary,Junior,Mock Interview,In-Person,45,Kayla Cook,Yes,No,Appointment
+2023-03-22,13:58,2023-03-22T18:58:00Z,NA,1365051,Murtuza Taqi,mst3288@truman.edu,Physics,Unrecorded,Senior,Unrecorded,In-Person,Unrecorded,Dave Lusk,Yes,No,Walk-In
+2023-03-22,13:30,NA,2023-03-22T18:30:00Z,1102676,Brad Lay,bsl6361@truman.edu,Exercise Science,Unrecorded,Senior,Mock Interview,Virtual,45,Genna Tlustos,Yes,No,Appointment
+2023-03-22,14:45,NA,2023-03-22T19:45:00Z,1362244,Morgan Tait,mtt7464@truman.edu,Exercise Science,Unrecorded,Senior,Mock Interview,In-Person,45,Ellie Bindner,Yes,No,Appointment
+2023-03-23,8:03,2023-03-23T13:03:00Z,NA,1360417,Caity Sarin,cas2883@truman.edu,Health Science,Unrecorded,Senior,Unrecorded,In-Person,Unrecorded,Dave Lusk,Yes,No,Walk-In
+2023-03-23,8:57,2023-03-23T13:57:00Z,NA,1003474,Maddy Baugh,mb1724@truman.edu,Psychology,Unrecorded,Senior,Unrecorded,In-Person,Unrecorded,Dave Lusk,Yes,No,Walk-In
+2023-03-23,14:00,NA,2023-03-23T19:00:00Z,1345860,Sophie Moore,sam1871@truman.edu,Biology,Pre-Medical,Freshman,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,Appointment
+2023-03-24,8:00,2023-03-24T13:00:00Z,NA,694617,Ed Gonzalez,egonzalez@truman.edu,Data Science Certificate,Unrecorded,Graduate,Unrecorded,In-Person,Unrecorded,Dave Lusk,Yes,No,Walk-In
+2023-03-24,10:30,2023-03-24T15:47:00Z,2023-03-24T15:30:00Z,1394003,Elssy Urena,hk67832@truman.edu,Business Administration,Unrecorded,Freshman,Career Coaching/Counseling,In-Person,60,Bryce Cardwell,Yes,No,Appointment
+2023-03-24,13:00,2023-03-24T17:58:00Z,2023-03-24T18:00:00Z,1389840,Luke Hinton,mc42173@truman.edu,Psychology,Unrecorded,Freshman,Career Coaching/Counseling,In-Person,60,Bryce Cardwell,Yes,No,Appointment
+2023-03-24,14:01,2023-03-24T19:01:00Z,NA,1365051,Murtuza Taqi,mst3288@truman.edu,Physics,Unrecorded,Senior,Unrecorded,In-Person,Unrecorded,Dave Lusk,Yes,No,Walk-In
+2023-03-24,9:45,NA,2023-03-24T14:45:00Z,1343459,Miranda Forbes,mlf5265@truman.edu,Foreign Language,Unrecorded,Graduate,Resume/CV/Cover Letter Review,Virtual,15,University Career Center,Yes,No,Appointment
+2023-03-24,8:45,NA,2023-03-24T13:45:00Z,1360741,Kara Pruett,knp8136@truman.edu,Communication Disorders,Psychology,Senior,Resume/CV/Cover Letter Review,Virtual,15,University Career Center,Yes,No,Appointment
+2023-03-24,8:30,NA,2023-03-24T13:30:00Z,1360741,Kara Pruett,knp8136@truman.edu,Communication Disorders,Psychology,Senior,Resume/CV/Cover Letter Review,Virtual,15,University Career Center,Yes,No,Appointment
+2023-03-27,13:00,2023-03-27T17:53:00Z,2023-03-27T18:00:00Z,1389508,Emaleigh Kennedy,pq62456@truman.edu,Undeclared,Unrecorded,Freshman,Assessment Interpretation,In-Person,60,Bryce Cardwell,Yes,No,Appointment
+2023-03-27,14:26,2023-03-27T19:26:00Z,NA,Unrecorded,Eliana S Steinman,ess4218@truman.edu,Undeclared,Unknown,Freshman,Unrecorded,In-Person,Unrecorded,Dave Lusk,Yes,No,Walk-In
+2023-03-27,11:45,NA,2023-03-27T16:45:00Z,1388068,Calli Hepfinger,zo71161@truman.edu,Secondary,Undeclared,Sophomore,Assessment Interpretation,In-Person,60,Bryce Cardwell,Yes,No,Appointment
+2023-03-28,10:36,2023-03-28T15:36:00Z,NA,1394003,Elssy Urena,hk67832@truman.edu,Business Administration,Unrecorded,Freshman,Unrecorded,In-Person,Unrecorded,Bryce Cardwell,Yes,No,Walk-In
+2023-03-28,10:58,2023-03-28T15:58:00Z,NA,1003474,Maddy Baugh,mb1724@truman.edu,Psychology,Unrecorded,Senior,Unrecorded,In-Person,Unrecorded,Dave Lusk,Yes,No,Walk-In
+2023-03-28,11:53,2023-03-28T16:53:00Z,NA,1360417,Caity Sarin,cas2883@truman.edu,Health Science,Unrecorded,Senior,Unrecorded,In-Person,Unrecorded,Dave Lusk,Yes,No,Walk-In
+2023-03-28,14:58,2023-03-28T19:58:00Z,NA,1382484,Adam Woo,jw8266@truman.edu,Philosophy & Religion,Political Sci & Intl Relations,Sophomore,Unrecorded,In-Person,Unrecorded,Bryce Cardwell,Yes,No,Walk-In
+2023-03-29,11:30,NA,2023-03-29T16:30:00Z,1373089,Robert Hartsell,rwh6174@truman.edu,Health Science,Pre-Medical,Junior,Personal Statement Creation/Final Draft,In-Person,60,Dave Lusk,Yes,No,Appointment
+2023-03-29,16:15,NA,2023-03-29T21:15:00Z,1375569,Josh Perlman,jfp4173@truman.edu,Linguistics,Unrecorded,Junior,Career Coaching/Counseling,In-Person,60,Unrecorded,Yes,No,Appointment
+2023-03-29,8:30,NA,2023-03-29T13:30:00Z,1360741,Kara Pruett,knp8136@truman.edu,Communication Disorders,Psychology,Senior,Room Reservation,In-Person,60,VI Suite,Yes,No,Appointment
+2023-03-30,7:58,2023-03-30T12:58:00Z,NA,Unrecorded,Eliana S Steinman,ess4218@truman.edu,Undeclared,Unknown,Freshman,Unrecorded,In-Person,Unrecorded,Dave Lusk,Yes,No,Walk-In
+2023-03-30,11:30,NA,2023-03-30T16:30:00Z,1370831,Kolton Piva,kmp2468@truman.edu,Biology,Pre-Medical,Senior,Room Reservation,In-Person,60,VI Suite,Yes,No,Appointment
+2023-03-30,11:45,NA,2023-03-30T16:45:00Z,1361065,Shane Hawkins,sth7126@truman.edu,Health Science,Unrecorded,Senior,Resume/CV/Cover Letter Review,Virtual,15,University Career Center,Yes,No,Appointment
+2023-03-30,10:30,NA,2023-03-30T15:30:00Z,1370831,Kolton Piva,kmp2468@truman.edu,Biology,Pre-Medical,Senior,Room Reservation,In-Person,60,VI Suite,Yes,No,Appointment
+2023-03-31,12:30,NA,2023-03-31T17:30:00Z,1380540,Megan Cluck,mbc5651@truman.edu,Biology,Unrecorded,Junior,Mock Interview,In-Person,45,Genna Tlustos,Yes,No,Appointment
+2023-03-31,11:30,NA,2023-03-31T16:30:00Z,1388068,Calli Hepfinger,zo71161@truman.edu,Secondary,Undeclared,Sophomore,Assessment Interpretation,In-Person,60,Dave Lusk,Yes,No,Appointment
+2023-03-31,9:45,NA,2023-03-31T14:45:00Z,1371373,Thomas Schodl,tjs7846@truman.edu,Biochemistry & Molecular Biol,Pre-Medical,Senior,Mock Interview,In-Person,45,Unrecorded,Yes,Yes,Appointment
+2023-04-03,8:58,2023-04-03T13:58:00Z,NA,1359405,Bryce Lewin,bl7881@truman.edu,Creative Writing,Unrecorded,Senior,Unrecorded,In-Person,Unrecorded,Bryce Cardwell,Yes,No,Walk-In
+2023-04-03,13:28,2023-04-03T18:28:00Z,NA,1365051,Murtuza Taqi,mst3288@truman.edu,Physics,Unrecorded,Senior,Unrecorded,In-Person,Unrecorded,Dave Lusk,Yes,No,Walk-In
+2023-04-03,14:29,2023-04-03T19:29:00Z,NA,Unrecorded,Eliana S Steinman,ess4218@truman.edu,Undeclared,Unknown,Freshman,Unrecorded,In-Person,Unrecorded,Dave Lusk,Yes,No,Walk-In
+2023-04-03,12:30,NA,2023-04-03T17:30:00Z,1371373,Thomas Schodl,tjs7846@truman.edu,Biochemistry & Molecular Biol,Pre-Medical,Senior,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,Appointment
+2023-04-03,11:00,NA,2023-04-03T16:00:00Z,1381009,Hunter King,hak4338@truman.edu,Secondary,History,Sophomore,Room Reservation,In-Person,60,Dave Lusk,Yes,No,Appointment
+2023-04-03,11:00,NA,2023-04-03T16:00:00Z,1359311,Hannah Kirchner,hnk3236@truman.edu,Anthropology,Unrecorded,Senior,Job/Internship Search Strategy,In-Person,60,Bryce Cardwell,Yes,No,Appointment
+2023-04-03,14:45,NA,2023-04-03T19:45:00Z,1371373,Thomas Schodl,tjs7846@truman.edu,Biochemistry & Molecular Biol,Pre-Medical,Senior,Mock Interview,In-Person,45,Ellie Bindner,Yes,No,Appointment
+2023-04-04,11:01,2023-04-04T16:01:00Z,NA,1368317,Zixian Jiang,zj8358@truman.edu,English,Unrecorded,Senior,Unrecorded,In-Person,Unrecorded,Dave Lusk,Yes,No,Walk-In
+2023-04-04,13:06,2023-04-04T18:06:00Z,NA,1373027,Jeongmin Hong,jh6415@truman.edu,Computer Science,Unrecorded,Sophomore,Unrecorded,In-Person,Unrecorded,Dave Lusk,Yes,No,Walk-In
+2023-04-04,13:33,2023-04-04T18:33:00Z,NA,1382484,Adam Woo,jw8266@truman.edu,Philosophy & Religion,Political Sci & Intl Relations,Sophomore,Unrecorded,In-Person,Unrecorded,Bryce Cardwell,Yes,No,Walk-In
+2023-04-04,14:55,2023-04-04T19:55:00Z,NA,1394003,Elssy Urena,hk67832@truman.edu,Business Administration,Unrecorded,Freshman,Unrecorded,In-Person,Unrecorded,Bryce Cardwell,Yes,No,Walk-In
+2023-04-04,11:30,NA,2023-04-04T16:30:00Z,1379342,Gracie LaFoe,gdl7816@truman.edu,Biology,Pre-Medical,Junior,Mock Interview,Virtual,45,Kayla Cook,Yes,No,Appointment
+2023-04-05,8:27,2023-04-05T13:27:00Z,NA,1389005,Bethlehem Alebachew,tk76886@truman.edu,Nursing,Unrecorded,Freshman,Unrecorded,In-Person,Unrecorded,Dave Lusk,Yes,No,Walk-In
+2023-04-05,12:57,2023-04-05T17:57:00Z,NA,1379441,Dalton Lodge,dll2522@truman.edu,Anthropology,Unrecorded,Junior,Unrecorded,In-Person,Unrecorded,Dave Lusk,Yes,No,Walk-In
+2023-04-05,10:00,NA,2023-04-05T15:00:00Z,1362847,Grace Edgar,gee1886@truman.edu,Anthropology,Unrecorded,Junior,Job/Internship Search Strategy,In-Person,60,Bryce Cardwell,Yes,No,Appointment
+2023-04-06,8:10,2023-04-06T13:10:00Z,NA,1373027,Jeongmin Hong,jh6415@truman.edu,Computer Science,Unrecorded,Sophomore,Unrecorded,In-Person,Unrecorded,Dave Lusk,Yes,No,Walk-In
+2023-04-06,10:57,2023-04-06T15:57:00Z,NA,1365947,Kayla Cook,kc3116@truman.edu,Communication Disorders,Unrecorded,Senior,Unrecorded,In-Person,Unrecorded,Dave Lusk,Yes,No,Walk-In
+2023-04-06,10:57,2023-04-06T15:57:00Z,NA,1386817,Evan Caito,eh84576@truman.edu,Physics,Unrecorded,Freshman,Unrecorded,In-Person,Unrecorded,Dave Lusk,Yes,No,Walk-In
+2023-04-06,14:27,2023-04-06T19:27:00Z,NA,1380154,Mel Eaton,mre8641@truman.edu,Secondary,Creative Writing,Senior,Unrecorded,In-Person,Unrecorded,Dave Lusk,Yes,No,Walk-In
+2023-04-06,8:30,NA,2023-04-06T13:30:00Z,1372797,Haley Wells,hew7183@truman.edu,Biochemistry & Molecular Biol,Unrecorded,Senior,Resume/CV/Cover Letter Review,Virtual,15,University Career Center,Yes,No,Appointment
+2023-04-06,16:00,NA,2023-04-06T21:00:00Z,1363517,Danielle Illy,dei4267@truman.edu,Biology,Unrecorded,Senior,Room Reservation,In-Person,60,VI Suite,Yes,No,Appointment
+2023-04-07,8:57,2023-04-07T13:57:00Z,NA,1359138,Nicole Dorn,nmd2256@truman.edu,Biology,Unrecorded,Senior,Unrecorded,In-Person,Unrecorded,Dave Lusk,Yes,No,Walk-In
+2023-04-07,10:36,2023-04-07T15:36:00Z,NA,Unrecorded,Bethel Samuel Abebe,sm51556@truman.edu,Business Administration,Unrecorded,Freshman,Unrecorded,In-Person,Unrecorded,Dave Lusk,Yes,No,Walk-In
+2023-04-07,11:31,2023-04-07T16:31:00Z,NA,1388068,Calli Hepfinger,zo71161@truman.edu,Secondary,Undeclared,Sophomore,Unrecorded,In-Person,Unrecorded,Dave Lusk,Yes,No,Walk-In
+2023-04-07,9:45,NA,2023-04-07T14:45:00Z,1361602,Emma Richardson,edr1145@truman.edu,Economics,Unrecorded,Senior,Mock Interview,In-Person,45,University Career Center,Yes,No,Appointment
+2023-04-07,15:45,NA,2023-04-07T20:45:00Z,1365327,Laura Gainza,llg7154@truman.edu,Business Administration,Pre-Law,Senior,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,Appointment
+2023-04-11,9:30,2023-04-11T15:01:00Z,2023-04-11T14:30:00Z,1385339,Yuho Kasuga,yk8163@truman.edu,Business Administration,Unrecorded,Junior,Job/Internship Search Strategy,In-Person,60,Bryce Cardwell,Yes,No,Appointment
+2023-04-11,10:02,2023-04-11T15:02:00Z,NA,1368317,Zixian Jiang,zj8358@truman.edu,English,Unrecorded,Senior,Unrecorded,In-Person,Unrecorded,Dave Lusk,Yes,No,Walk-In
+2023-04-11,10:54,2023-04-11T15:54:00Z,NA,1003474,Maddy Baugh,mb1724@truman.edu,Psychology,Unrecorded,Senior,Unrecorded,In-Person,Unrecorded,Dave Lusk,Yes,No,Walk-In
+2023-04-11,12:00,2023-04-11T16:58:00Z,2023-04-11T17:00:00Z,Unrecorded,Bethel Samuel Abebe,sm51556@truman.edu,Business Administration,Unrecorded,Freshman,Career Coaching/Counseling,In-Person,60,Bryce Cardwell,Yes,No,Appointment
+2023-04-11,15:09,2023-04-11T20:09:00Z,NA,1394003,Elssy Urena,hk67832@truman.edu,Business Administration,Unrecorded,Freshman,Unrecorded,In-Person,Unrecorded,Bryce Cardwell,Yes,No,Walk-In
+2023-04-11,11:00,NA,2023-04-11T16:00:00Z,1361065,Shane Hawkins,sth7126@truman.edu,Health Science,Unrecorded,Senior,Resume/CV/Cover Letter Review,Virtual,15,University Career Center,Yes,No,Appointment
+2023-04-12,13:00,2023-04-12T17:53:00Z,2023-04-12T18:00:00Z,1365556,Jason Niffen,jjn2582@truman.edu,Physics,Unrecorded,Senior,Career Coaching/Counseling,In-Person,60,Unrecorded,Yes,No,Appointment
+2023-04-12,14:30,2023-04-12T19:27:00Z,2023-04-12T19:30:00Z,1359311,Hannah Kirchner,hnk3236@truman.edu,Anthropology,Unrecorded,Senior,Job/Internship Search Strategy,In-Person,60,Bryce Cardwell,Yes,No,Appointment
+2023-04-13,8:02,2023-04-13T13:02:00Z,NA,1359138,Nicole Dorn,nmd2256@truman.edu,Biology,Unrecorded,Senior,Unrecorded,In-Person,Unrecorded,Dave Lusk,Yes,No,Walk-In
+2023-04-13,10:45,NA,2023-04-13T15:45:00Z,1385594,Justin Watson,jpw2155@truman.edu,Business Administration,Unrecorded,Senior,Mock Interview,In-Person,45,Kayla Cook,Yes,No,Appointment
+2023-04-13,8:30,NA,2023-04-13T13:30:00Z,1371351,Georgia Hollingsworth,grh6882@truman.edu,Biochemistry & Molecular Biol,Unrecorded,Senior,Resume/CV/Cover Letter Review,Virtual,15,Unrecorded,Yes,No,Appointment
+2023-04-13,14:30,NA,2023-04-13T19:30:00Z,1364650,Olivia Pinkowski,otp6257@truman.edu,Biology,Unrecorded,Sophomore,Mock Interview,In-Person,45,Victoria Lin,Yes,No,Appointment
+2023-04-13,11:30,NA,2023-04-13T16:30:00Z,1365327,Laura Gainza,llg7154@truman.edu,Business Administration,Pre-Law,Senior,Resume/CV/Cover Letter Review,Virtual,15,University Career Center,Yes,No,Appointment
+2023-04-14,9:59,2023-04-14T14:59:00Z,NA,1368317,Zixian Jiang,zj8358@truman.edu,English,Unrecorded,Senior,Unrecorded,In-Person,Unrecorded,Dave Lusk,Yes,No,Walk-In
+2023-04-14,11:31,2023-04-14T16:31:00Z,NA,1388068,Calli Hepfinger,zo71161@truman.edu,Secondary,Undeclared,Sophomore,Unrecorded,In-Person,Unrecorded,Dave Lusk,Yes,No,Walk-In
+2023-04-14,13:26,2023-04-14T18:26:00Z,NA,1381009,Hunter King,hak4338@truman.edu,Secondary,History,Sophomore,Unrecorded,In-Person,Unrecorded,Dave Lusk,Yes,No,Walk-In
+2023-04-14,13:30,NA,2023-04-14T18:30:00Z,1360829,Madison Post,mpp2313@truman.edu,Communication,Unrecorded,Senior,Personal Statement Creation/Final Draft,In-Person,60,Unrecorded,Yes,No,Appointment
+2023-04-17,9:45,2023-04-17T14:43:00Z,2023-04-17T14:45:00Z,1394210,Laila Elbakkal,jk12678@truman.edu,Health Science,Pre-Dental,Sophomore,Room Reservation,In-Person,60,Unrecorded,Yes,No,Appointment
+2023-04-17,12:59,2023-04-17T17:59:00Z,NA,1365556,Jason Niffen,jjn2582@truman.edu,Physics,Unrecorded,Senior,Unrecorded,In-Person,Unrecorded,Bryce Cardwell,Yes,No,Walk-In
+2023-04-17,14:27,2023-04-17T19:27:00Z,NA,1360829,Madison Post,mpp2313@truman.edu,Communication,Unrecorded,Senior,Unrecorded,In-Person,Unrecorded,Dave Lusk,Yes,No,Walk-In
+2023-04-17,15:25,2023-04-17T20:25:00Z,NA,1381009,Hunter King,hak4338@truman.edu,Secondary,History,Sophomore,Unrecorded,In-Person,Unrecorded,Dave Lusk,Yes,No,Walk-In
+2023-04-17,9:30,NA,2023-04-17T14:30:00Z,1387929,Avery Warlen,bt67717@truman.edu,Health Science,Pre-Dental,Sophomore,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,Appointment
+2023-04-18,8:00,2023-04-18T13:00:00Z,NA,1388068,Calli Hepfinger,zo71161@truman.edu,Secondary,Undeclared,Sophomore,Unrecorded,In-Person,Unrecorded,Dave Lusk,Yes,No,Walk-In
+2023-04-18,8:57,2023-04-18T13:57:00Z,NA,1373027,Jeongmin Hong,jh6415@truman.edu,Computer Science,Unrecorded,Sophomore,Unrecorded,In-Person,Unrecorded,Dave Lusk,Yes,No,Walk-In
+2023-04-18,9:30,2023-04-18T14:28:00Z,2023-04-18T14:30:00Z,1387796,Hanna Ritter,za67664@truman.edu,Health Science,Pre-Physical Therapy,Freshman,Mock Interview,In-Person,45,Norah Kovac,Yes,No,Appointment
+2023-04-18,9:30,2023-04-18T14:30:00Z,NA,1360417,Caity Sarin,cas2883@truman.edu,Health Science,Unrecorded,Senior,Unrecorded,In-Person,Unrecorded,Dave Lusk,Yes,No,Walk-In
+2023-04-18,13:26,2023-04-18T18:26:00Z,NA,1382484,Adam Woo,jw8266@truman.edu,Philosophy & Religion,Political Sci & Intl Relations,Sophomore,Unrecorded,In-Person,Unrecorded,Bryce Cardwell,Yes,No,Walk-In
+2023-04-18,14:14,2023-04-18T19:14:00Z,NA,1346346,Drew Smiser,dts5457@truman.edu,Exercise Science,Unrecorded,Senior,Unrecorded,In-Person,Unrecorded,Dave Lusk,Yes,No,Walk-In
+2023-04-18,10:45,NA,2023-04-18T15:45:00Z,1385720,Adelaide Reaser,asr1327@truman.edu,Accounting,Unrecorded,Sophomore,Mock Interview,In-Person,45,Kayla Cook,Yes,No,Appointment
+2023-04-18,12:45,NA,2023-04-18T17:45:00Z,1373156,Alexis Henrikson,alh1866@truman.edu,Exercise Science,Pre-Medical,Senior,Mock Interview,In-Person,45,Victoria Lin,Yes,No,Appointment
+2023-04-18,11:45,NA,2023-04-18T16:45:00Z,1379342,Gracie LaFoe,gdl7816@truman.edu,Biology,Pre-Medical,Junior,Resume/CV/Cover Letter Review,Virtual,15,VI Suite,Yes,No,Appointment
+2023-04-18,15:30,NA,2023-04-18T20:30:00Z,1365327,Laura Gainza,llg7154@truman.edu,Business Administration,Pre-Law,Senior,Job/Internship Search Strategy,In-Person,60,Bryce Cardwell,Yes,No,Appointment
+2023-04-18,14:45,NA,2023-04-18T19:45:00Z,1387472,Anna Capellari,ce64574@truman.edu,Exercise Science,Pre-Physical Therapy,Sophomore,Mock Interview,In-Person,45,Namuna Sunar,Yes,No,Appointment
+2023-04-18,13:30,NA,2023-04-18T18:30:00Z,1389338,Abigail Eberwine,yl56856@truman.edu,Communication Disorders,Unrecorded,Sophomore,Mock Interview,In-Person,45,Victoria Lin,Yes,No,Appointment
+2023-04-19,11:45,NA,2023-04-19T16:45:00Z,1381247,Elizabeth Mosher,erm8144@truman.edu,Art,Unrecorded,Sophomore,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,Appointment
+2023-04-20,11:30,2023-04-20T16:23:00Z,2023-04-20T16:30:00Z,1386001,Addie VandeWalle,aav5174@truman.edu,Biology,Pre-Veterinary,Freshman,Career Coaching/Counseling,In-Person,60,Bryce Cardwell,Yes,No,Appointment
+2023-04-20,9:45,NA,2023-04-20T14:45:00Z,1388352,Quentin Perry,cu36248@truman.edu,Nursing,Unrecorded,Sophomore,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,Appointment
+2023-04-20,10:30,NA,2023-04-20T15:30:00Z,1255320,Blaine DeVolld,brd8381@truman.edu,Exercise Science,Pre-Physical Therapy,Senior,Personal Statement Creation/Final Draft,In-Person,60,Unrecorded,Yes,No,Appointment
+2023-04-20,9:00,NA,2023-04-20T14:00:00Z,1371351,Georgia Hollingsworth,grh6882@truman.edu,Biochemistry & Molecular Biol,Unrecorded,Senior,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,Appointment
+2023-04-20,14:30,NA,2023-04-20T19:30:00Z,1371876,Brennan Fortel,bmf7426@truman.edu,Biology,Pre-Veterinary,Senior,Mock Interview,Virtual,45,Victoria Lin,Yes,No,Appointment
+2023-04-20,12:30,NA,2023-04-20T17:30:00Z,1392874,Ritika Lama,mo77828@truman.edu,Computer Science,Unrecorded,Freshman,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,Appointment
+2023-04-20,15:30,NA,2023-04-20T20:30:00Z,1380642,Spencer Duffendack,sjd6884@truman.edu,Biology,Unrecorded,Junior,Mock Interview,In-Person,45,Gabby Winterboer,Yes,Yes,Appointment
+2023-04-21,12:30,NA,2023-04-21T17:30:00Z,1387708,Grace Wolford,nm53571@truman.edu,Elementary,Communication,Freshman,Mock Interview,In-Person,45,Genna Tlustos,Yes,No,Appointment
+2023-04-21,10:45,NA,2023-04-21T15:45:00Z,1388500,Lucas Manalang,vb17533@truman.edu,Political Sci & Intl Relations,Pre-Law,Freshman,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,Appointment
+2023-04-21,9:15,NA,2023-04-21T14:15:00Z,1390287,Pujan Gauli,ts48152@truman.edu,Business Administration,Unrecorded,Freshman,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,Appointment
+2023-04-21,13:00,NA,2023-04-21T18:00:00Z,1389144,Grace Nicholl,sx16812@truman.edu,Health Science,Pre-Law,Freshman,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,Appointment
+2023-04-24,11:00,NA,2023-04-24T16:00:00Z,1362241,Isaac Saathoff,ids4175@truman.edu,Exercise Science,Pre-Medical,Senior,Personal Statement Creation/Final Draft,In-Person,60,Unrecorded,Yes,No,Appointment
+2023-04-25,11:15,NA,2023-04-25T16:15:00Z,1387851,Bryson Randolph,yy37676@truman.edu,Health Science,Pre-Physical Therapy,Freshman,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,Appointment
+2023-04-26,14:45,NA,2023-04-26T19:45:00Z,1378190,Nathan Shaw,ncs6387@truman.edu,Physics,Unrecorded,Junior,Mock Interview,In-Person,45,Ellie Bindner,Yes,No,Appointment
+2023-04-27,9:45,2023-04-27T14:45:00Z,NA,1337141,Zachary Zerwig,ztz5553@truman.edu,Leadership,Unrecorded,Graduate,Unrecorded,In-Person,Unrecorded,Dave Lusk,Yes,No,Walk-In
+2023-04-27,14:30,2023-04-27T19:30:00Z,NA,1360417,Caity Sarin,cas2883@truman.edu,Health Science,Unrecorded,Senior,Unrecorded,In-Person,Unrecorded,Dave Lusk,Yes,No,Walk-In
+2023-04-27,12:45,NA,2023-04-27T17:45:00Z,1362234,Ian Esteban,ire6571@truman.edu,Psychology,Unrecorded,Senior,Personal Statement Creation/Final Draft,In-Person,60,Dave Lusk,Yes,No,Appointment
+2023-05-01,15:30,NA,2023-05-01T20:30:00Z,1380642,Spencer Duffendack,sjd6884@truman.edu,Biology,Unrecorded,Junior,Mock Interview,In-Person,45,Ellie Bindner,Yes,No,Appointment
+2023-05-02,10:30,NA,2023-05-02T15:30:00Z,1362241,Isaac Saathoff,ids4175@truman.edu,Exercise Science,Pre-Medical,Senior,Personal Statement Creation/Final Draft,In-Person,60,Dave Lusk,Yes,No,Appointment
+2023-05-02,14:45,NA,2023-05-02T19:45:00Z,1374989,Chase Jones,crj2646@truman.edu,Secondary,Exercise Science,Junior,Mock Interview,In-Person,45,University Career Center,Yes,No,Appointment
+2023-05-02,9:00,NA,2023-05-02T14:00:00Z,1380642,Spencer Duffendack,sjd6884@truman.edu,Biology,Unrecorded,Junior,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,Appointment
+2023-05-02,14:45,NA,2023-05-02T19:45:00Z,1359138,Nicole Dorn,nmd2256@truman.edu,Biology,Unrecorded,Senior,Mock Interview,In-Person,45,Namuna Sunar,Yes,No,Appointment
+2023-05-03,12:03,2023-05-03T17:03:00Z,NA,1388068,Calli Hepfinger,zo71161@truman.edu,Secondary,Undeclared,Sophomore,Unrecorded,In-Person,Unrecorded,Dave Lusk,Yes,No,Walk-In
+2023-05-03,13:35,2023-05-03T18:35:00Z,NA,1373027,Jeongmin Hong,jh6415@truman.edu,Computer Science,Unrecorded,Sophomore,Unrecorded,In-Person,Unrecorded,Dave Lusk,Yes,No,Walk-In
+2023-05-03,12:45,NA,2023-05-03T17:45:00Z,1387708,Grace Wolford,nm53571@truman.edu,Elementary,Communication,Freshman,Mock Interview,In-Person,45,Genna Tlustos,Yes,No,Appointment
+2023-05-04,13:30,NA,2023-05-04T18:30:00Z,1387567,Kaidince Edwards,vr62418@truman.edu,Elementary,English,Sophomore,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,Appointment
+2023-05-04,14:30,NA,2023-05-04T19:30:00Z,894322,Nathan Chrisman,nsc5567@truman.edu,Design,Unrecorded,Senior,Mock Networking,Virtual,15,Unrecorded,Yes,No,Appointment
+2023-05-05,13:45,NA,2023-05-05T18:45:00Z,1382241,Collin Hudgens,crh2354@truman.edu,Music (Pre-Certification),Unrecorded,Sophomore,Resume/CV/Cover Letter Review,In-Person,15,Joel Brumfield,Yes,No,Appointment
+2023-05-05,15:30,NA,2023-05-05T20:30:00Z,1362380,Abby Rolen,alr2534@truman.edu,Biology,Unrecorded,Senior,Mock Interview,In-Person,45,Unrecorded,Yes,No,Appointment
+2023-05-08,13:29,2023-05-08T18:29:00Z,NA,Unrecorded,Eliana S Steinman,ess4218@truman.edu,Undeclared,Unknown,Freshman,Unrecorded,In-Person,Unrecorded,Dave Lusk,Yes,No,Walk-In
+2023-05-09,10:00,2023-05-09T15:00:00Z,NA,1249168,Lauri Klump,ltk1124@truman.edu,Anthropology,Unrecorded,Senior,Unrecorded,In-Person,Unrecorded,Dave Lusk,Yes,No,Walk-In
+2023-05-09,10:57,2023-05-09T15:57:00Z,NA,1380154,Mel Eaton,mre8641@truman.edu,Secondary,Creative Writing,Senior,Unrecorded,In-Person,Unrecorded,Dave Lusk,Yes,No,Walk-In
+2023-05-09,10:45,NA,2023-05-09T15:45:00Z,1372797,Haley Wells,hew7183@truman.edu,Biochemistry & Molecular Biol,Unrecorded,Senior,Mock Interview,Virtual,45,Norah Kovac,Yes,No,Appointment
+2023-05-10,16:15,NA,2023-05-10T21:15:00Z,1371876,Brennan Fortel,bmf7426@truman.edu,Biology,Pre-Veterinary,Senior,Resume/CV/Cover Letter Review,Virtual,15,University Career Center,Yes,No,Appointment
+2023-05-10,12:00,NA,2023-05-10T17:00:00Z,1354081,Sam Moulder,srm4257@truman.edu,Exercise Science,Pre-Medical,Alumnus,Resume/CV/Cover Letter Review,Virtual,15,University Career Center,Yes,No,Appointment
+2023-05-17,11:29,2023-05-17T16:29:00Z,NA,694617,Ed Gonzalez,egonzalez@truman.edu,Data Science Certificate,Unrecorded,Graduate,Unrecorded,In-Person,Unrecorded,Dave Lusk,Yes,No,Walk-In
+2023-05-18,9:30,NA,2023-05-18T14:30:00Z,1359405,Bryce Lewin,bl7881@truman.edu,Creative Writing,Unrecorded,Senior,Resume/CV/Cover Letter Review,Virtual,15,University Career Center,Yes,No,Appointment
+2023-05-22,8:00,NA,2023-05-22T13:00:00Z,Unrecorded,Timothy Maxwell Beard,maxb1915@gmail.com,Business Administration,Unrecorded,Graduate,Room Reservation,In-Person,60,Unrecorded,Yes,No,Appointment
+2023-05-25,16:30,NA,2023-05-25T21:30:00Z,Unrecorded,Corey Schmidt,crs2182@truman.edu,Social Science,Unrecorded,Alumnus,Resume/CV/Cover Letter Review,Virtual,15,Unrecorded,Yes,No,Appointment
+2023-05-30,8:28,2023-05-30T13:28:00Z,NA,1362210,Max Beard,tmb2857@truman.edu,Business Administration,Unrecorded,Senior,Unrecorded,In-Person,Unrecorded,Dave Lusk,Yes,No,Walk-In
+2023-05-30,10:07,2023-05-30T15:07:00Z,NA,1373027,Jeongmin Hong,jh6415@truman.edu,Computer Science,Unrecorded,Sophomore,Unrecorded,In-Person,Unrecorded,Dave Lusk,Yes,No,Walk-In
+2023-05-30,11:29,2023-05-30T16:29:00Z,NA,1380154,Mel Eaton,mre8641@truman.edu,Secondary,Creative Writing,Senior,Unrecorded,In-Person,Unrecorded,Dave Lusk,Yes,No,Walk-In

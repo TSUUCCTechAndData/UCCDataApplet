@@ -1,0 +1,246 @@
+## ----setup, include=FALSE---------------------------------------------------------------------------------------------------------------------------
+knitr::opts_chunk$set(echo = TRUE)
+
+
+## ---------------------------------------------------------------------------------------------------------------------------------------------------
+library(tidyverse)
+
+
+## ---------------------------------------------------------------------------------------------------------------------------------------------------
+raw_data <- read.csv("~/Desktop/UCC Data/S23 - Services Applet/Data Cleaning/Data Cleaning/Data/Living Report - Sheet1.csv")
+
+clean_data <- raw_data
+
+
+## ---------------------------------------------------------------------------------------------------------------------------------------------------
+clean_data <- clean_data[-(16:17)]
+
+
+## ---------------------------------------------------------------------------------------------------------------------------------------------------
+clean_data <- clean_data %>% rename(Counselor = Created.By..Counselor., 
+                                    CareerCenterService = Career.Coaching.Type,
+                                    Date = Appointment.Date,
+                                    Time = Appointment.Time,
+                                    CheckInTime = Kiosk.Check.In.Time,
+                                    StudentID = Student.ID,
+                                    ClassLevel = Class.Level,
+                                    MeetingFormat = Meeting.Format,
+                                    AppointmentLength = Appointment.Length,
+                                    AppointmentCancelled = Appointment.Cancelled,
+                                    WalkInAppointment = Walk.in.Appointment.
+                                    ) 
+
+
+## ---------------------------------------------------------------------------------------------------------------------------------------------------
+clean_data <- separate(clean_data, Major, into = c("Major1st", "Major2nd"), sep = ", ")
+
+
+
+## ---------------------------------------------------------------------------------------------------------------------------------------------------
+clean_data$AppointmentLength <- as.character(clean_data$AppointmentLength)
+clean_data[clean_data == ''] <- "Unrecorded"
+clean_data[is.na(clean_data)] <- "Unrecorded"
+
+
+## ---------------------------------------------------------------------------------------------------------------------------------------------------
+clean_data <- clean_data %>%
+  filter(Name != "Joel Brumfield") %>%
+  filter(Name != "Yoda AtestStudent")
+
+
+
+## ---------------------------------------------------------------------------------------------------------------------------------------------------
+clean_data <- clean_data %>%
+  mutate(MeetingFormat = case_when(
+    MeetingFormat == "Virtual" ~ "Virtual",
+    MeetingFormat == "In-Person" ~ "InPerson"
+  ))
+
+
+## ---------------------------------------------------------------------------------------------------------------------------------------------------
+clean_data$Major1st <- as.factor(clean_data$Major1st)
+clean_data$Major2nd <- as.factor(clean_data$Major2nd)
+clean_data$ClassLevel <- as.factor(clean_data$ClassLevel)
+clean_data$CareerCenterService <- as.factor(clean_data$CareerCenterService)
+clean_data$MeetingFormat <- as.factor(clean_data$MeetingFormat)
+clean_data$Counselor <- as.factor(clean_data$Counselor)
+clean_data$AppointmentLength <- as.factor(clean_data$AppointmentLength)
+clean_data$AppointmentCancelled <- as.factor(clean_data$AppointmentCancelled)
+clean_data$WalkInAppointment <- as.factor(clean_data$WalkInAppointment)
+
+
+## ---------------------------------------------------------------------------------------------------------------------------------------------------
+clean_data <- clean_data %>% 
+    replace(is.na(.), "Unrecorded")
+
+
+## ---------------------------------------------------------------------------------------------------------------------------------------------------
+# clean_data$Major <- factor(clean_data$Major, levels = c("Accountancy",
+#                                                         "Accounting",
+#                                                         "Advertising",
+#                                                         "Agricultural Science",
+#                                                         "Anthropology",
+#                                                         "Applied Behavior Analysis Cert",
+#                                                         "Applied Linguistics",
+#                                                         "Architecture/Urban Planning",
+#                                                         "Art",
+#                                                         "Art History",
+#                                                         "Athletic Training",
+#                                                         "Biochemistry & Molecular Biol",
+#                                                         "Biochemistry and Molecular Biology",
+#                                                         "Biology",
+#                                                         "Business",
+#                                                         "Business Administration",
+#                                                         "Chemical",
+#                                                         "Chemistry",
+#                                                         "Civil",
+#                                                         "Classics",
+#                                                         "Communication",
+#                                                         "Communication Disorders",
+#                                                         "Communications",
+#                                                         "Computer Science",
+#                                                         "Creative Writing",
+#                                                         "Data Sci & Analytic Storytell",
+#                                                         "Data Science Certificate",
+#                                                         "Design",
+#                                                         "Disability Stdy: Appl Behavior",
+#                                                         "Economics",
+#                                                         "Education",
+#                                                         "Electrical",
+#                                                         "Elementary",
+#                                                         "Elementary Education",
+#                                                         "Engineering",
+#                                                         "English",
+#                                                         "Environmental Design",
+#                                                         "Exercise Science",
+#                                                         "Finance",
+#                                                         "Fine Arts/Graphic Design",
+#                                                         "Foreign Language",
+#                                                         "French",
+#                                                         "German",
+#                                                         "Gifted Education",
+#                                                         "Health Science",
+#                                                         "Health Science, Pre-Physician Assistant",
+#                                                         "History",
+#                                                         "History/Social Science",
+#                                                         "Hotel and Restaurant Management",
+#                                                         "Interdisciplinary Studies",
+#                                                         "Justice Systems",
+#                                                         "Leadership",
+#                                                         "Liberal Studies",
+#                                                         "Liberal Studies (archived)",
+#                                                         "Linguistics",
+#                                                         "Management",
+#                                                         "Marketing",
+#                                                         "Math",
+#                                                         "Math/Physics Emphasis",
+#                                                         "Mathematics",
+#                                                         "Mechanical",
+#                                                         "Mental Health Counseling",
+#                                                         "Modern Language",
+#                                                         "Music",
+#                                                         "Music (General)",
+#                                                         "Music (Pre-Certification)",
+#                                                         "Music Business",
+#                                                         "Music Emphasis Groups (BM)",
+#                                                         "Music Therapy",
+#                                                         "Nursing",
+#                                                         "Nursing (Application Pending)",
+#                                                         "Philosophy & Religion",
+#                                                         "Physical/Life Sciences",
+#                                                         "Physics",
+#                                                         "Physics Emphasis",
+#                                                         "Political Sci & Intl Relations",
+#                                                         "Political Science",
+#                                                         "Pre-Accelerated BSN",
+#                                                         "Pre-Athletic Training",
+#                                                         "Pre-Chiropractic",
+#                                                         "Pre-Dental",
+#                                                         "Pre-Dietetics",
+#                                                         "Pre-Education",
+#                                                         "Pre-Education/Elementary",
+#                                                         "Pre-Education/Secondary",
+#                                                         "Pre-Education/Special Ed",
+#                                                         "Pre-Engineering",
+#                                                         "Pre-Law",
+#                                                         "Pre-Medical",
+#                                                         "Pre-Occupational Therapy",
+#                                                         "Pre-Optometry",
+#                                                         "Pre-Pharmacy",
+#                                                         "Pre-Physical Therapy",
+#                                                         "Pre-Physician Assistant",
+#                                                         "Pre-Veterinary",
+#                                                         "Psychology",
+#                                                         "Psychology & Sociology",
+#                                                         "Russian",
+#                                                         "School Counseling",
+#                                                         "Science",
+#                                                         "Secondary",
+#                                                         "Social Science",
+#                                                         "Sociology",
+#                                                         "Sociology/Anthropology",
+#                                                         "Spanish",
+#                                                         "Special Ed",
+#                                                         "Special Education",
+#                                                         "Statistics",
+#                                                         "Studio Art",
+#                                                         "Systems",
+#                                                         "Theatre",
+#                                                         "Undeclared",
+#                                                         "Unknown"))
+
+# Reordering levels of ClassLevel
+clean_data$ClassLevel <- factor(clean_data$ClassLevel, levels= c("Alumnus",
+                                                      "Graduate Student",
+                                                      "Graduate",
+                                                      "Senior",
+                                                      "Junior",
+                                                      "Sophomore",
+                                                      "Freshman"
+                                                      )
+                                )
+
+# Reordering levels of CareerCenterServices
+clean_data$AppointmentLength <- factor(clean_data$AppointmentLength, levels= c("15",
+                                                                               "30",
+                                                                               "45",
+                                                                               "60",
+                                                                               "Unrecorded"
+                                                                               )
+                                      )
+
+# Renaming levels in WalkInAppointment Var
+clean_data$WalkInAppointment <- recode_factor(clean_data$WalkInAppointment, No = "Appointment", 
+                                                                            Yes = "Walk-In")
+
+
+## ---------------------------------------------------------------------------------------------------------------------------------------------------
+# Check In Time
+clean_data <- clean_data %>%
+  mutate(CheckInTime = mdy_hm(CheckInTime, tz = "America/Chicago")) %>%
+  relocate(CheckInTime, .after = "Time")
+
+# Scheduled Appointment Time
+clean_data$Date1 <- clean_data$Date
+clean_data$Time1 <- clean_data$Time
+clean_data <- clean_data %>% 
+  unite(col="AppoitmentTime", Date1, Time1, sep=" ")
+
+clean_data <- clean_data %>%
+  mutate(AppoitmentTime = mdy_hm(AppoitmentTime, tz = "America/Chicago")) %>%
+  relocate(AppoitmentTime, .after = CheckInTime)
+
+clean_data <- clean_data %>%
+  mutate(DateTime = AppoitmentTime) %>%
+  relocate(DateTime, .before = Date)
+
+clean_data$AppoitmentTime[clean_data$WalkInAppointment == "Walk-In"] <- NA
+
+# Reformatting Date Column
+clean_data <- clean_data %>%
+  mutate(Date = mdy(Date))
+
+
+## ---------------------------------------------------------------------------------------------------------------------------------------------------
+save(clean_data, file = "UCCClean.RData")
+
