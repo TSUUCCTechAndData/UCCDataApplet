@@ -1,0 +1,520 @@
+Kiosk Check In Time,Appointment Date,Appointment Time,Student ID,Name,Email,Major,Class Level,Career Coaching Type,Meeting Format,Appointment Length,Created By (Counselor),Approved,Appointment Cancelled,Walk-in Appointment?,Name,Logins
+"Jan 06, 2023, 10:02 AM",1/6/23,10:02,1345458,Luciana Scuderi,lls5576@truman.edu,Mathematics,Junior,,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,10
+"Jan 10, 2023, 10:57 AM",1/10/23,11:00,1370721,Lily Fisher,laf1456@truman.edu,Design,Senior,Job/Internship Search Strategy,In-Person,60,Dave Lusk,Yes,No,No,,4
+"Jan 10, 2023, 1:48 PM",1/10/23,13:48,1363476,Johnnie Mehl,jcm7268@truman.edu,Exercise Science,Senior,,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,0
+"Jan 17, 2023, 10:20 AM",1/17/23,10:20,1361717,Sophie Oxandale,slo2415@truman.edu,Nursing,Senior,,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,1
+"Jan 17, 2023, 1:14 PM",1/17/23,13:14,1372529,Thad Meadows,tcm5152@truman.edu,"Economics, Mathematics",Senior,,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,12
+"Jan 18, 2023, 1:59 PM",1/18/23,13:59,1357679,Biwansh Khatri,bk5485@truman.edu,Physics,Senior,,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,10
+-,1/19/23,12:45,,Tyler Allen Wyatt,tw5387@truman.edu,Data Sci & Analytic Storytell,Graduate Student,Resume/CV/Cover Letter Review,Virtual,15,University Career Center,Yes,No,No,,6
+"Jan 19, 2023, 2:45 PM",1/19/23,14:45,1390287,Pujan Gauli,ts48152@truman.edu,Business Administration,Freshman,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,No,,15
+"Jan 19, 2023, 12:03 PM",1/19/23,12:03,,Paul D Keiser,pdk6774@truman.edu,Computer Science,Senior,,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,10
+"Jan 19, 2023, 1:34 PM",1/19/23,13:34,1378917,Maria Pareja Avalos,mfp7734@truman.edu,Political Sci & Intl Relations,Junior,,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,3
+"Jan 19, 2023, 3:26 PM",1/19/23,15:26,1361928,Rebecca Keasey,rjk7164@truman.edu,Computer Science,Senior,,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,7
+-,1/20/23,15:45,1382268,Maddie Jackson,mcj8733@truman.edu,Psychology,Sophomore,Career Coaching/Counseling,In-Person,60,Bryce Cardwell,Yes,No,No,,2
+-,1/20/23,11:30,1368576,Xuanqian Ye,xy2383@truman.edu,English,Junior,Job/Internship Search Strategy,In-Person,60,Bryce Cardwell,Yes,No,No,,6
+-,1/20/23,12:00,1361669,Lillian Selligman,lgs2647@truman.edu,Biology,Senior,Personal Statement Creation/Final Draft,In-Person,60,Dave Lusk,Yes,No,No,,14
+"Jan 20, 2023, 9:29 AM",1/20/23,9:30,1378190,Nathan Shaw,ncs6387@truman.edu,Physics,Junior,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,No,,2
+"Jan 20, 2023, 3:44 PM",1/20/23,15:44,1360745,Sammy Stoecklein,sms2733@truman.edu,Business Administration,Senior,,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,12
+"Jan 23, 2023, 4:00 PM",1/23/23,16:00,1250343,Rachel Downey,rd1747@truman.edu,Science,Graduate,Personal Statement Creation/Final Draft,In-Person,60,Dave Lusk,Yes,No,No,,5
+"Jan 23, 2023, 12:26 PM",1/23/23,12:30,1361352,Evelyn Schmidt,eas4875@truman.edu,Computer Science,Senior,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,No,Career Center Check-in Lobby,9
+"Jan 23, 2023, 3:28 PM",1/23/23,15:30,1381089,Alex Potter,ajp8365@truman.edu,English,Junior,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,No,Career Center Check-in Lobby,4
+"Jan 24, 2023, 8:20 AM",1/23/23,10:30,1362895,Lukas Hudson,ljh8387@truman.edu,"Political Sci & Intl Relations, Pre-Law",Senior,Personal Statement Creation/Final Draft,In-Person,60,,Yes,No,No,,2
+-,1/23/23,16:45,1365859,Yang Sun,ys6728@truman.edu,Elementary Education,Graduate,Resume/CV/Cover Letter Review,Virtual,15,,Yes,Yes,No,,3
+-,1/24/23,12:00,,Paul D Keiser,pdk6774@truman.edu,Computer Science,Senior,Career Coaching/Counseling,In-Person,60,Bryce Cardwell,Yes,No,No,,10
+"Jan 24, 2023, 12:30 PM",1/24/23,12:30,1103960,Teagan Wilson,tsw1851@truman.edu,Elementary Education,Graduate,Personal Statement Creation/Final Draft,In-Person,60,Dave Lusk,Yes,No,No,Career Center Check-in Lobby,11
+-,1/24/23,16:45,1365859,Yang Sun,ys6728@truman.edu,Elementary Education,Graduate,Resume/CV/Cover Letter Review,Virtual,15,Dave Lusk,Yes,No,No,,3
+-,1/24/23,10:45,1103960,Teagan Wilson,tsw1851@truman.edu,Elementary Education,Graduate,Resume/CV/Cover Letter Review,Virtual,15,University Career Center,Yes,No,No,,11
+-,1/24/23,16:45,1365859,Yang Sun,ys6728@truman.edu,Elementary Education,Graduate,Resume/CV/Cover Letter Review,Virtual,15,,Yes,Yes,No,,3
+"Jan 24, 2023, 8:56 AM",1/24/23,8:56,1003474,Maddy Baugh,mb1724@truman.edu,Psychology,Senior,,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,2
+"Jan 24, 2023, 10:58 AM",1/24/23,10:58,,Eliana S Steinman,ess4218@truman.edu,"Undeclared, Unknown",Freshman,,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,2
+"Jan 24, 2023, 1:15 PM",1/24/23,13:15,1361113,Kinsey Keller,kk3413@truman.edu,Psychology,Senior,,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,14
+-,1/25/23,14:30,1120221,Molly Wease,mlw6732@truman.edu,Science,Graduate,Personal Statement Creation/Final Draft,In-Person,60,Dave Lusk,Yes,No,No,,10
+-,1/25/23,11:30,1362380,Abby Rolen,alr2534@truman.edu,Biology,Senior,Career Coaching/Counseling,In-Person,60,,Yes,No,No,,5
+"Jan 25, 2023, 9:02 AM",1/25/23,9:02,1361385,Murray Pringle,mrp6684@truman.edu,"Justice Systems, Psychology",Senior,,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,17
+-,1/26/23,10:00,1388457,Abby Perzan,yd74445@truman.edu,"Political Sci & Intl Relations, Pre-Law",Sophomore,Career Coaching/Counseling,In-Person,60,Bryce Cardwell,Yes,Yes,No,,11
+-,1/26/23,13:15,1380592,Anthony Sarullo,aws2676@truman.edu,Psychology,Junior,Room Reservation,In-Person,60,Dave Lusk,Yes,No,No,,6
+-,1/26/23,13:30,1387096,Kyra Ray,ra52634@truman.edu,Applied Linguistics,Sophomore,Career Coaching/Counseling,In-Person,60,Joel Brumfield,Yes,No,No,,2
+"Jan 26, 2023, 12:16 PM",1/26/23,12:15,1389228,Grace Schnelle,ou74267@truman.edu,Accounting,Junior,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,No,,9
+-,1/26/23,8:30,1385771,Fran Parise,fmp2332@truman.edu,Elementary Education,Graduate,Personal Statement Creation/Final Draft,In-Person,60,,Yes,No,No,,1
+"Jan 26, 2023, 10:50 AM",1/26/23,10:50,1386817,Evan Caito,eh84576@truman.edu,Physics,Freshman,,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,0
+"Jan 26, 2023, 3:33 PM",1/26/23,15:33,1396550,Beamlak Tekle,nh86628@truman.edu,Computer Science,Sophomore,,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,0
+"Jan 26, 2023, 4:33 PM",1/26/23,16:33,1369958,David Thomas,djt3624@truman.edu,Liberal Studies (archived),Sophomore,,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,0
+-,1/27/23,13:00,1248700,Abigail Bidwell,aab4236@truman.edu,Elementary Education,Graduate,Personal Statement Creation/Final Draft,In-Person,60,Dave Lusk,Yes,No,No,,12
+"Jan 27, 2023, 9:56 AM",1/27/23,10:00,1385339,Yuho Kasuga,yk8163@truman.edu,Business Administration,Junior,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,No,Career Center Check-in Lobby,30
+"Jan 27, 2023, 1:32 PM",1/27/23,13:32,1357679,Biwansh Khatri,bk5485@truman.edu,Physics,Senior,,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,10
+"Jan 27, 2023, 2:50 PM",1/27/23,14:50,1396799,Raesha K C,ot24356@truman.edu,Computer Science,Freshman,,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,0
+"Jan 27, 2023, 2:50 PM",1/27/23,14:50,1395738,Rejina Mahat,hc62454@truman.edu,Exercise Science,Freshman,,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,1
+-,1/30/23,11:45,,Emily L Giannotti,emilygiannotti27@gmail.com,English,Alumnus,Mock Interview,Virtual,45,Genna Tlustos,Yes,No,No,,6
+-,1/30/23,13:00,1360993,Elana Freesmeier,elf6426@truman.edu,Liberal Studies (archived),Senior,Resume/CV/Cover Letter Review,Virtual,15,University Career Center,Yes,No,No,,3
+-,1/30/23,12:45,1248700,Abigail Bidwell,aab4236@truman.edu,Elementary Education,Graduate,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,No,,12
+"Jan 31, 2023, 10:11 AM",1/31/23,10:15,1132193,Keegan Bird,kb2128@truman.edu,"Mathematics, Psychology",Senior,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,No,,9
+-,1/31/23,10:30,1132193,Keegan Bird,kb2128@truman.edu,"Mathematics, Psychology",Senior,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,No,,9
+-,1/31/23,10:45,1132193,Keegan Bird,kb2128@truman.edu,"Mathematics, Psychology",Senior,Personal Statement Creation/Final Draft,In-Person,60,,Yes,No,No,,9
+"Jan 31, 2023, 10:15 AM",1/31/23,10:15,1003474,Maddy Baugh,mb1724@truman.edu,Psychology,Senior,,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,2
+-,2/1/23,11:45,1362877,Nirapada Rengsomboon,nr4638@truman.edu,Biology,Senior,Personal Statement Creation/Final Draft,In-Person,60,Dave Lusk,Yes,No,No,,10
+"Feb 01, 2023, 3:27 PM",2/1/23,15:30,1362666,Lilly Ohlsen,lmo4127@truman.edu,Psychology,Senior,Mock Interview,Virtual,45,Ellie Bindner,Yes,No,No,Career Center Check-in Virtual,1
+-,2/1/23,13:30,1371351,Georgia Hollingsworth,grh6882@truman.edu,Biochemistry & Molecular Biol,Senior,Mock Interview,In-Person,45,Genna Tlustos,Yes,No,No,,19
+-,2/1/23,16:00,1388208,Leann Woodring,sp22374@truman.edu,Accounting,Sophomore,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,No,,3
+-,2/1/23,11:30,1362877,Nirapada Rengsomboon,nr4638@truman.edu,Biology,Senior,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,No,,10
+"Feb 01, 2023, 9:05 AM",2/1/23,9:05,,Eliana S Steinman,ess4218@truman.edu,"Undeclared, Unknown",Freshman,,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,2
+"Feb 01, 2023, 3:54 PM",2/1/23,15:54,1371351,Georgia Hollingsworth,grh6882@truman.edu,Biochemistry & Molecular Biol,Senior,,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,19
+"Feb 02, 2023, 10:25 AM",2/2/23,10:25,,Joel Brumfield,jbrumfield@truman.edu,"English, Psychology",Alumnus,,In-Person,,Bryce Cardwell,Yes,No,Yes,Career Center Check-in Lobby,11
+"Feb 02, 2023, 10:13 AM",2/2/23,10:13,,Joel Brumfield,jbrumfield@truman.edu,"English, Psychology",Alumnus,,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,11
+-,2/3/23,12:00,1356377,Nick Wheatley,ngw7782@truman.edu,"Biology, Pre-Medical",Senior,Job/Internship Search Strategy,In-Person,60,Bryce Cardwell,Yes,No,No,,2
+"Feb 3, 2023, 12:28 PM",2/3/23,12:30,1363157,Em Smith,ems7485@truman.edu,Interdisciplinary Studies,Senior,Mock Interview,In-Person,45,Genna Tlustos,Yes,No,No,,11
+"Feb 03, 2023, 11:41 AM",2/3/23,11:45,1372551,Maggie Wayman,mmw7623@truman.edu,"Economics, Pre-Law",Senior,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,No,Career Center Check-in Lobby,10
+"Feb 06, 2023, 1:30 PM",2/6/23,13:30,1370619,Katherine Parsons,ksp7883@truman.edu,Business Administration,Senior,Career Coaching/Counseling,In-Person,60,Bryce Cardwell,Yes,No,No,Career Center Check-in Lobby,10
+"Feb 06, 2023, 2:28 PM",2/6/23,14:28,,Eliana S Steinman,ess4218@truman.edu,"Undeclared, Unknown",Freshman,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,2
+"Feb 06, 2023, 3:52 PM",2/6/23,15:52,1387762,Saron Gebremichael,fa45177@truman.edu,Computer Science,Freshman,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,1
+"Feb 06, 2023, 3:53 PM",2/6/23,15:53,1387787,Nahom Jember,cr64444@truman.edu,"Business Administration, Pre-Athletic Training",Freshman,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,1
+-,2/6/23,12:00,,Ian J Whitsitt,ianjwhitsitt@gmail.com,English,Senior,Career Coaching/Counseling,In-Person,60,,Yes,No,No,,9
+-,2/7/23,11:30,1379342,Gracie LaFoe,gdl7816@truman.edu,"Biology, Pre-Medical",Junior,Resume/CV/Cover Letter Review,Virtual,15,University Career Center,Yes,No,No,,9
+"Feb 7, 2023, 1:28 PM",2/7/23,13:30,1363157,Em Smith,ems7485@truman.edu,Interdisciplinary Studies,Senior,Mock Interview,In-Person,45,Victoria Lin,Yes,No,No,,11
+"Feb 09, 2023, 8:57 AM",2/9/23,9:00,1386758,Molly Schaedler,ax28685@truman.edu,Biology,Sophomore,Career Coaching/Counseling,In-Person,60,Bryce Cardwell,Yes,No,No,Career Center Check-in Lobby,4
+"Feb 09, 2023, 3:02 PM",2/9/23,15:02,1357679,Biwansh Khatri,bk5485@truman.edu,Physics,Senior,,In-Person,,Bryce Cardwell,Yes,No,Yes,Career Center Check-in Lobby,10
+"Feb 09, 2023, 10:55 AM",2/9/23,10:55,1386817,Evan Caito,eh84576@truman.edu,Physics,Freshman,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,0
+"Feb 9, 2023, 10:30 AM",2/9/23,10:45,1337723,Hannah Zimmerman,hcz7782@truman.edu,"Biology, Pre-Medical, Psychology",Senior,Mock Interview,In-Person,45,Kayla Cook,Yes,No,No,,8
+"Feb 09, 2023, 2:45 PM",2/9/23,14:45,1382854,Jessica Alvarado Brenes,jma5138@truman.edu,Music,Graduate,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,No,Career Center Check-in Lobby,5
+-,2/9/23,11:45,1379342,Gracie LaFoe,gdl7816@truman.edu,"Biology, Pre-Medical",Junior,Resume/CV/Cover Letter Review,Virtual,15,University Career Center,Yes,No,No,,9
+-,2/9/23,15:00,1382484,Adam Woo,jw8266@truman.edu,"Philosophy & Religion, Political Sci & Intl Relations",Sophomore,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,No,,12
+"Feb 9, 2023, 8:15 AM",2/9/23,8:30,1361928,Rebecca Keasey,rjk7164@truman.edu,Computer Science,Senior,Room Reservation,In-Person,60,VI Suite,Yes,No,No,,7
+-,2/9/23,9:30,1361928,Rebecca Keasey,rjk7164@truman.edu,Computer Science,Senior,Room Reservation,In-Person,60,VI Suite,Yes,No,No,,7
+-,2/10/23,13:00,1350640,Ethan Kershaw,erk8226@truman.edu,Interdisciplinary Studies,Senior,Job/Internship Search Strategy,In-Person,60,Bryce Cardwell,Yes,No,No,,23
+"Feb 10, 2023, 2:54 PM",2/10/23,14:54,1365818,Namuna Sunar,ns3255@truman.edu,Nursing,Senior,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,53
+"Feb 10, 2023, 11:51 AM",2/10/23,12:00,1372551,Maggie Wayman,mmw7623@truman.edu,"Economics, Pre-Law",Senior,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,No,Career Center Check-in Lobby,10
+-,2/10/23,10:00,1350154,Hunter Randall,hcr4321@truman.edu,Accounting,Senior,Resume/CV/Cover Letter Review,Virtual,15,University Career Center,Yes,No,No,,21
+"Feb 10, 2023, 12:57 PM",2/10/23,13:00,1363157,Em Smith,ems7485@truman.edu,Interdisciplinary Studies,Senior,Room Reservation,In-Person,60,VI Suite,Yes,No,No,Career Center Check-in Lobby,11
+-,2/10/23,14:00,1363157,Em Smith,ems7485@truman.edu,Interdisciplinary Studies,Senior,Room Reservation,In-Person,60,VI Suite,Yes,No,No,,11
+-,2/13/23,11:00,,Ian J Whitsitt,ianjwhitsitt@gmail.com,English,Senior,Career Coaching/Counseling,In-Person,60,Bryce Cardwell,Yes,No,No,,9
+-,2/13/23,11:45,1361669,Lillian Selligman,lgs2647@truman.edu,Biology,Senior,Mock Interview,Virtual,45,Genna Tlustos,Yes,No,No,,14
+"Feb 13, 2023, 10:02 AM",2/13/23,10:00,1392621,Emma Lewis,dr16471@truman.edu,"Psychology, Theatre",Sophomore,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,No,,1
+-,2/13/23,8:15,1380592,Anthony Sarullo,aws2676@truman.edu,Psychology,Junior,Room Reservation,In-Person,60,,Yes,Yes,No,,6
+-,2/14/23,15:00,1360993,Elana Freesmeier,elf6426@truman.edu,Liberal Studies (archived),Senior,Resume/CV/Cover Letter Review,Virtual,15,University Career Center,Yes,No,No,,3
+-,2/14/23,8:45,1103625,Kate Speak,kes8327@truman.edu,Linguistics,Senior,Mock Interview,Virtual,45,,Yes,No,No,,5
+"Feb 15, 2023, 2:01 PM",2/15/23,14:01,1357679,Biwansh Khatri,bk5485@truman.edu,Physics,Senior,,In-Person,,Bryce Cardwell,Yes,No,Yes,Career Center Check-in Lobby,10
+"Feb 15, 2023, 9:00 AM",2/15/23,9:00,,Eliana S Steinman,ess4218@truman.edu,"Undeclared, Unknown",Freshman,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,2
+"Feb 15, 2023, 2:23 PM",2/15/23,14:30,1381862,Johanna Schramm,jus1821@truman.edu,"Secondary, History",Sophomore,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,No,Career Center Check-in Lobby,3
+"Feb 16, 2023, 3:35 PM",2/16/23,15:35,1368576,Xuanqian Ye,xy2383@truman.edu,English,Junior,,In-Person,,Bryce Cardwell,Yes,No,Yes,Career Center Check-in Lobby,6
+"Feb 16, 2023, 10:53 AM",2/16/23,10:53,1386817,Evan Caito,eh84576@truman.edu,Physics,Freshman,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,0
+"Feb 16, 2023, 8:27 AM",2/16/23,8:30,1386759,Ashton Stuber,nf36623@truman.edu,"Elementary, Psychology",Sophomore,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,No,,9
+"Feb 16, 2023, 8:54 AM",2/16/23,9:00,1393352,Rachel Ecute,cq47113@truman.edu,Business Administration,Freshman,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,No,,1
+"Feb 17, 2023, 3:29 PM",2/17/23,15:29,1369958,David Thomas,djt3624@truman.edu,Liberal Studies (archived),Sophomore,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,0
+"Feb 17, 2023, 10:31 AM",2/17/23,10:30,1364088,Yasmine Ghenima,yg2612@truman.edu,Political Sci & Intl Relations,Senior,Mock Interview,In-Person,45,Kayla Cook,Yes,No,No,,15
+"Feb 17, 2023, 1:12 PM",2/17/23,13:15,1388642,Kate Yates,te17686@truman.edu,"Accounting, Business Administration",Sophomore,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,No,,3
+"Feb 17, 2023, 11:43 AM",2/17/23,11:45,1379196,Symphony Weston,smw8428@truman.edu,Biology,Junior,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,No,,2
+"Feb 20, 2023, 1:26 PM",2/20/23,13:30,1388168,Elias Theall,vn61124@truman.edu,"Communication, Pre-Law",Freshman,Career Coaching/Counseling,In-Person,60,Bryce Cardwell,Yes,No,No,Career Center Check-in Lobby,1
+"Feb 20, 2023, 2:56 PM",2/20/23,14:56,,Eliana S Steinman,ess4218@truman.edu,"Undeclared, Unknown",Freshman,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,2
+"Feb 20, 2023, 2:55 PM",2/20/23,15:00,1386965,Cole Mullins,bk23324@truman.edu,"Secondary, History",Sophomore,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,No,,1
+-,2/20/23,13:30,1389005,Bethlehem Alebachew,tk76886@truman.edu,Nursing,Freshman,Personal Statement Creation/Final Draft,In-Person,60,,Yes,No,No,,12
+"Feb 20, 2023, 11:27 AM",2/20/23,11:30,1368314,Owen Smith,ons1751@truman.edu,Economics,Senior,Resume/CV/Cover Letter Review,In-Person,15,,Yes,No,No,,9
+"Feb 21, 2023, 1:45 PM",2/21/23,13:45,1370733,Charlotte Liao,sl3841@truman.edu,Economics,Senior,,In-Person,,Bryce Cardwell,Yes,No,Yes,Career Center Check-in Lobby,2
+"Feb 21, 2023, 2:04 PM",2/21/23,14:04,1357679,Biwansh Khatri,bk5485@truman.edu,Physics,Senior,,In-Person,,Bryce Cardwell,Yes,No,Yes,Career Center Check-in Lobby,10
+"Feb 21, 2023, 10:32 AM",2/21/23,10:45,1337723,Hannah Zimmerman,hcz7782@truman.edu,"Biology, Pre-Medical, Psychology",Senior,Mock Interview,In-Person,45,Kayla Cook,Yes,No,No,,8
+"Feb 21, 2023, 12:31 PM",2/21/23,12:30,1390512,Mariah Murphy,rd15348@truman.edu,"Elementary, Psychology",Freshman,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,No,,3
+"Feb 21, 2023, 3:12 PM",2/21/23,15:15,1255514,Emma Rohrbach,er5223@truman.edu,"Economics, Political Sci & Intl Relations",Senior,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,No,,1
+-,2/22/23,8:00,1361228,Iva Welbourne,ilw3281@truman.edu,Agricultural Science,Senior,Room Reservation,In-Person,60,VI Suite,Yes,No,No,,5
+"Feb 24, 2023, 11:42 AM",2/24/23,11:45,1379196,Symphony Weston,smw8428@truman.edu,Biology,Junior,Mock Interview,In-Person,45,Genna Tlustos,Yes,No,No,,2
+"Feb 24, 2023, 3:59 PM",2/24/23,16:00,1375814,Brianna Dotson,bmd2775@truman.edu,Music (Pre-Certification),Junior,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,No,Career Center Check-in Lobby,1
+"Feb 24, 2023, 9:04 AM",2/24/23,9:00,1390287,Pujan Gauli,ts48152@truman.edu,Business Administration,Freshman,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,No,,15
+-,2/24/23,10:00,1379947,Bryndal Miller,brm6637@truman.edu,"Elementary, Psychology",Sophomore,Resume/CV/Cover Letter Review,Virtual,15,University Career Center,Yes,No,No,,4
+-,2/24/23,12:15,1386759,Ashton Stuber,nf36623@truman.edu,"Elementary, Psychology",Sophomore,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,No,,9
+"Feb 24, 2023, 1:49 PM",2/24/23,13:30,1388100,McKenna Ledgerwood,hr32767@truman.edu,"Secondary, Biology",Sophomore,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,No,,2
+-,2/24/23,12:45,1381365,Lauren Munns,lem1877@truman.edu,"Elementary, English",Sophomore,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,No,,4
+"Feb 24, 2023, 11:24 AM",2/24/23,11:30,1372392,Emma Whittenburg,ecw8883@truman.edu,"Secondary, Biology",Junior,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,No,,27
+"Feb 24, 2023, 11:58 AM",2/24/23,11:45,1365827,Caleb Van Horn,cmv4626@truman.edu,Art,Senior,Career Coaching/Counseling,In-Person,60,,Yes,No,No,Career Center Check-in Lobby,9
+-,2/24/23,13:30,1138306,Adam Schmitz,ahs8287@truman.edu,Foreign Language,Graduate,Room Reservation,In-Person,60,,Yes,No,No,,1
+"Feb 27, 2023, 1:29 PM",2/27/23,13:29,1388168,Elias Theall,vn61124@truman.edu,"Communication, Pre-Law",Freshman,,In-Person,,Bryce Cardwell,Yes,No,Yes,Career Center Check-in Lobby,1
+-,2/27/23,15:00,1387711,Hermella Assefa,sf18661@truman.edu,Statistics,Freshman,Career Coaching/Counseling,In-Person,60,,Yes,No,No,,8
+"Feb 28, 2023, 10:28 AM",2/28/23,10:30,1388758,Samantha Dotson,bn36348@truman.edu,Political Sci & Intl Relations,Sophomore,Career Coaching/Counseling,In-Person,60,,Yes,No,No,Career Center Check-in Lobby,2
+-,3/1/23,13:45,1382484,Adam Woo,jw8266@truman.edu,"Philosophy & Religion, Political Sci & Intl Relations",Sophomore,Career Coaching/Counseling,In-Person,60,Bryce Cardwell,Yes,No,No,,12
+-,3/1/23,12:00,1381861,Will Murdock,wcm4551@truman.edu,"Economics, Political Sci & Intl Relations",Junior,Career Coaching/Counseling,In-Person,60,Bryce Cardwell,Yes,No,No,,3
+"Mar 01, 2023, 10:58 AM",3/1/23,10:58,1384436,Emily Wagner,ew3455@truman.edu,Communication Disorders,Graduate,,In-Person,,Bryce Cardwell,Yes,No,Yes,Career Center Check-in Lobby,0
+"Mar 01, 2023, 1:25 PM",3/1/23,13:25,1381861,Will Murdock,wcm4551@truman.edu,"Economics, Political Sci & Intl Relations",Junior,,In-Person,,Bryce Cardwell,Yes,No,Yes,Career Center Check-in Lobby,3
+"Mar 01, 2023, 9:56 AM",3/1/23,10:00,1375273,Aubrie Grubbs,ag1756@truman.edu,Communication Disorders,Junior,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,No,Career Center Check-in Lobby,5
+"Mar 1, 2023, 2:38 PM",3/1/23,14:45,1380540,Megan Cluck,mbc5651@truman.edu,Biology,Junior,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,No,,5
+"Mar 02, 2023, 3:27 PM",3/2/23,15:30,1364581,Ethan Strawn,eds5438@truman.edu,Undeclared,Sophomore,Career Coaching/Counseling,In-Person,60,Bryce Cardwell,Yes,No,No,Career Center Check-in Lobby,3
+-,3/2/23,13:30,1387567,Kaidince Edwards,vr62418@truman.edu,"Elementary, English",Sophomore,Job/Internship Search Strategy,In-Person,60,Bryce Cardwell,Yes,No,No,,3
+-,3/2/23,11:30,1384699,Natalie Summers,ns6547@truman.edu,Communication Disorders,Graduate,Mock Interview,Virtual,45,Kayla Cook,Yes,No,No,,7
+"Mar 02, 2023, 9:25 AM",3/2/23,9:30,1378917,Maria Pareja Avalos,mfp7734@truman.edu,Political Sci & Intl Relations,Junior,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,No,Career Center Check-in Lobby,3
+-,3/2/23,9:00,1370193,Karsen Mauney,kgm7887@truman.edu,Communication,Senior,Resume/CV/Cover Letter Review,Virtual,15,University Career Center,Yes,No,No,,20
+"Mar 2, 2023, 9:41 AM",3/2/23,9:45,1378288,Haley Wilson,hmw6212@truman.edu,Psychology,Junior,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,No,,4
+,3/2/23,15:45,1363157,Em Smith,ems7485@truman.edu,Interdisciplinary Studies,Senior,Room Reservation,In-Person,60,VI Suite,Yes,No,No,,11
+-,3/2/23,12:00,1381598,Abby Raymond,alr1457@truman.edu,Interdisciplinary Studies,Sophomore,Resume/CV/Cover Letter Review,Virtual,15,,Yes,No,No,,5
+"Mar 03, 2023, 1:15 PM",3/3/23,13:15,1387711,Hermella Assefa,sf18661@truman.edu,Statistics,Freshman,Career Coaching/Counseling,In-Person,60,Bryce Cardwell,Yes,No,No,Career Center Check-in Lobby,8
+-,3/3/23,10:00,1361796,Jacob Kolb,jak3713@truman.edu,Linguistics,Senior,Career Coaching/Counseling,In-Person,30,Dave Lusk,Yes,No,No,,5
+-,3/3/23,14:45,1336723,Tori Strege,vas7822@truman.edu,Communication Disorders,Graduate,Mock Interview,Virtual,45,Emilia Angulo,Yes,No,No,,9
+"Mar 3, 2023, 3:21 PM",3/3/23,15:30,1336698,Kelly Stiles,kjs2328@truman.edu,Communication Disorders,Graduate,Mock Interview,In-Person,45,Emilia Angulo,Yes,No,No,,6
+"Mar 3, 2023, 10:31 AM",3/3/23,10:30,1250846,Kristen Weber,knw6276@truman.edu,Communication Disorders,Graduate,Mock Interview,In-Person,45,Kayla Cook,Yes,No,No,,3
+-,3/3/23,14:00,1384096,Brooke Chapman,bac5245@truman.edu,Communication Disorders,Graduate,Resume/CV/Cover Letter Review,Virtual,15,University Career Center,Yes,No,No,,2
+-,3/3/23,11:15,1255743,Nina Thomas,nat2151@truman.edu,History,Junior,Resume/CV/Cover Letter Review,Virtual,15,University Career Center,Yes,No,No,,3
+-,3/3/23,9:00,1385983,Jayelynn Duvall,jd8435@truman.edu,"Secondary, English",Sophomore,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,No,,1
+"Mar 3, 2023, 2:59 PM",3/3/23,15:00,1386159,Trenton Clardy,og56314@truman.edu,"Secondary, History",Freshman,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,No,,2
+"Mar 3, 2023, 11:22 AM",3/3/23,11:30,1388299,Jenna Messer,ya81127@truman.edu,"Elementary, Communication Disorders",Sophomore,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,No,,14
+-,3/3/23,12:30,1354736,Audrey Thompson,alt2724@truman.edu,Health Science,Senior,Mock Interview,In-Person,45,,Yes,Yes,No,,13
+-,3/3/23,10:15,1102676,Brad Lay,bsl6361@truman.edu,Exercise Science,Senior,Personal Statement Creation/Final Draft,In-Person,60,,Yes,No,No,,6
+-,3/3/23,8:30,1393803,Gabi Cook,vh36842@truman.edu,"Secondary, Art",Sophomore,Resume/CV/Cover Letter Review,In-Person,15,,Yes,No,No,,6
+"Mar 06, 2023, 8:26 AM",3/6/23,8:26,1361570,Amy Puzniak,arp7174@truman.edu,English,Graduate,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,14
+"Mar 06, 2023, 4:14 PM",3/6/23,16:14,1360417,Caity Sarin,cas2883@truman.edu,Health Science,Senior,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,4
+"Mar 06, 2023, 4:15 PM",3/6/23,16:15,,Eliana S Steinman,ess4218@truman.edu,"Undeclared, Unknown",Freshman,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,2
+-,3/6/23,12:30,1351681,Leah Caputo,lmc2443@truman.edu,Communication Disorders,Graduate,Mock Interview,Virtual,45,Genna Tlustos,Yes,No,No,,8
+-,3/6/23,11:45,1360123,Hannah Belanger,hrb6657@truman.edu,"Exercise Science, Pre-Dietetics",Senior,Mock Interview,Virtual,45,Genna Tlustos,Yes,No,No,,3
+"Mar 6, 2023, 10:27 AM",3/6/23,10:30,1389433,Sophia Zarrillo,eq13251@truman.edu,"Elementary, Psychology",Sophomore,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,No,,4
+"Mar 6, 2023, 9:56 AM",3/6/23,9:45,1380510,Josh Ryan,jwr4671@truman.edu,"Secondary, Music (Pre-Certification)",Junior,Room Reservation,In-Person,15,University Career Center,Yes,No,No,,8
+-,3/6/23,14:45,1351237,Carissa Riney,cab2736@truman.edu,Communication Disorders,Graduate,Mock Interview,Virtual,45,,Yes,No,No,,7
+"Mar 6, 2023, 11:55 AM",3/6/23,12:00,1377972,Paige Snyder,pls5513@truman.edu,"Elementary, Interdisciplinary Studies",Senior,Personal Statement Creation/Final Draft,In-Person,60,,Yes,No,No,,5
+-,3/6/23,14:00,1363517,Danielle Illy,dei4267@truman.edu,Biology,Senior,Resume/CV/Cover Letter Review,In-Person,15,,Yes,Yes,No,,26
+-,3/6/23,8:30,1351237,Carissa Riney,cab2736@truman.edu,Communication Disorders,Graduate,Resume/CV/Cover Letter Review,Virtual,15,,Yes,Yes,No,,7
+"Mar 07, 2023, 8:26 AM",3/7/23,8:30,1364999,Casey Voichahoske,cv4426@truman.edu,"Secondary, History",Senior,Career Coaching/Counseling,In-Person,60,Dave Lusk,Yes,No,No,Career Center Check-in Lobby,25
+"Mar 07, 2023, 4:27 PM",3/7/23,16:27,1372665,Megan Ford,mjf5817@truman.edu,"Political Sci & Intl Relations, Pre-Law",Senior,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,0
+-,3/7/23,11:30,1379342,Gracie LaFoe,gdl7816@truman.edu,"Biology, Pre-Medical",Junior,Mock Interview,Virtual,45,Kayla Cook,Yes,No,No,,9
+"Mar 7, 2023, 10:25 AM",3/7/23,10:45,1380444,Sophia Seibert,scs5314@truman.edu,"Agricultural Science, Pre-Veterinary",Junior,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,No,,3
+-,3/7/23,10:00,1364999,Casey Voichahoske,cv4426@truman.edu,"Secondary, History",Senior,Room Reservation,In-Person,60,VI Suite,Yes,No,No,,25
+-,3/7/23,14:45,1352785,Claire Russotto,ccr2365@truman.edu,Communication Disorders,Graduate,Mock Interview,Virtual,45,,Yes,No,No,,4
+-,3/7/23,10:00,1392654,Tessa Keeton,ca48366@truman.edu,Communication Disorders,Graduate,Resume/CV/Cover Letter Review,Virtual,15,,Yes,No,No,,4
+"Mar 08, 2023, 1:31 PM",3/8/23,13:31,1363031,Hoang Nguyen,mdn5357@truman.edu,"Philosophy & Religion, Psychology",Senior,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,11
+"Mar 8, 2023, 2:42 PM",3/8/23,14:45,1386342,Kennedy Jones,mh48346@truman.edu,Accounting,Sophomore,Mock Interview,In-Person,45,Ellie Bindner,Yes,No,No,,1
+-,3/8/23,12:45,1351596,Paige Devening,ped1283@truman.edu,Communication Disorders,Graduate,Mock Interview,Virtual,45,Genna Tlustos,Yes,No,No,,3
+"Mar 8, 2023, 1:21 PM",3/8/23,13:30,1351631,Amanda Rericker,amr4167@truman.edu,Communication Disorders,Graduate,Mock Interview,In-Person,45,,Yes,No,No,,5
+"Mar 8, 2023, 10:33 AM",3/8/23,10:45,1393034,Bethany Jackson,aq83315@truman.edu,Communication Disorders,Graduate,Resume/CV/Cover Letter Review,In-Person,15,,Yes,No,No,,2
+"Mar 8, 2023, 12:23 PM",3/8/23,12:30,1370250,Nicole Galarza Guilarte,sng7321@truman.edu,Business Administration,Junior,Room Reservation,In-Person,60,,Yes,No,No,,17
+"Mar 09, 2023, 4:05 PM",3/9/23,16:05,1388168,Elias Theall,vn61124@truman.edu,"Communication, Pre-Law",Freshman,,In-Person,,Bryce Cardwell,Yes,No,Yes,Career Center Check-in Lobby,1
+"Mar 09, 2023, 9:24 AM",3/9/23,9:24,1363476,Johnnie Mehl,jcm7268@truman.edu,Exercise Science,Senior,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,0
+"Mar 09, 2023, 10:44 AM",3/9/23,10:44,1386817,Evan Caito,eh84576@truman.edu,Physics,Freshman,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,0
+"Mar 09, 2023, 1:56 PM",3/9/23,13:56,,Grant Gouwens,xl56248@truman.edu,Psychology,Freshman,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,5
+"Mar 09, 2023, 2:27 PM",3/9/23,14:27,1372665,Megan Ford,mjf5817@truman.edu,"Political Sci & Intl Relations, Pre-Law",Senior,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,0
+-,3/9/23,10:45,1354004,Tucker Murry,tmm3867@truman.edu,Communication Disorders,Graduate,Mock Interview,Virtual,45,Kayla Cook,Yes,No,No,,5
+"Mar 9, 2023, 1:54 PM",3/9/23,14:00,1372529,Thad Meadows,tcm5152@truman.edu,"Economics, Mathematics",Senior,Room Reservation,In-Person,60,University Career Center,Yes,No,No,,12
+"Mar 09, 2023, 10:02 AM",3/9/23,10:00,1368317,Zixian Jiang,zj8358@truman.edu,English,Senior,Career Coaching/Counseling,In-Person,60,,Yes,No,No,Career Center Check-in Lobby,7
+-,3/9/23,14:45,1390287,Pujan Gauli,ts48152@truman.edu,Business Administration,Freshman,Career Coaching/Counseling,In-Person,60,,Yes,No,No,,15
+-,3/9/23,10:15,1389005,Bethlehem Alebachew,tk76886@truman.edu,Nursing,Freshman,Career Coaching/Counseling,In-Person,60,,Yes,No,No,,12
+-,3/9/23,13:45,1368547,Nellea Dovin,ncd4435@truman.edu,Science,Graduate,Personal Statement Creation/Final Draft,In-Person,60,,Yes,No,No,,4
+-,3/9/23,12:00,1387798,Ben Taylor,in62545@truman.edu,Business Administration,Freshman,Resume/CV/Cover Letter Review,Virtual,15,,Yes,No,No,,3
+"Mar 10, 2023, 11:44 AM",3/10/23,11:44,1382484,Adam Woo,jw8266@truman.edu,"Philosophy & Religion, Political Sci & Intl Relations",Sophomore,,In-Person,,Bryce Cardwell,Yes,No,Yes,Career Center Check-in Lobby,12
+"Mar 10, 2023, 12:26 PM",3/10/23,12:30,1354736,Audrey Thompson,alt2724@truman.edu,Health Science,Senior,Mock Interview,In-Person,45,Genna Tlustos,Yes,No,No,,13
+"Mar 10, 2023, 9:44 AM",3/10/23,9:45,1351111,Ashley Cichon,aac7765@truman.edu,Communication Disorders,Graduate,Mock Interview,In-Person,45,Kayla Cook,Yes,No,No,,3
+"Mar 10, 2023, 9:16 AM",3/10/23,9:15,1360555,Taryn Gough,tlg6375@truman.edu,Communication Disorders,Graduate,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,No,,7
+-,3/15/23,14:45,1371373,Thomas Schodl,tjs7846@truman.edu,"Biochemistry & Molecular Biol, Pre-Medical",Senior,Mock Interview,In-Person,45,,Yes,No,No,,13
+-,3/15/23,14:30,1371373,Thomas Schodl,tjs7846@truman.edu,"Biochemistry & Molecular Biol, Pre-Medical",Senior,Resume/CV/Cover Letter Review,In-Person,15,,Yes,No,No,,13
+-,3/20/23,14:00,1365051,Murtuza Taqi,mst3288@truman.edu,Physics,Senior,Job/Internship Search Strategy,In-Person,60,Dave Lusk,Yes,No,No,,4
+-,3/20/23,11:45,1372603,Cael Aldridge,cra7782@truman.edu,Exercise Science,Senior,Mock Interview,In-Person,45,Genna Tlustos,Yes,No,No,,4
+-,3/20/23,13:30,1368577,Myranda Anthes,mka5214@truman.edu,"Elementary, English",Junior,Resume/CV/Cover Letter Review,Virtual,15,University Career Center,Yes,No,No,,3
+"Mar 21, 2023, 2:57 PM",3/21/23,15:00,1382484,Adam Woo,jw8266@truman.edu,"Philosophy & Religion, Political Sci & Intl Relations",Sophomore,Career Coaching/Counseling,In-Person,60,Bryce Cardwell,Yes,No,No,Career Center Check-in Lobby,12
+"Mar 21, 2023, 8:26 AM",3/21/23,8:26,1364999,Casey Voichahoske,cv4426@truman.edu,"Secondary, History",Senior,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,25
+"Mar 21, 2023, 10:22 AM",3/21/23,10:45,1380444,Sophia Seibert,scs5314@truman.edu,"Agricultural Science, Pre-Veterinary",Junior,Mock Interview,In-Person,45,Kayla Cook,Yes,No,No,,3
+"Mar 21, 2023, 12:37 PM",3/21/23,12:45,1371175,Sydnie Freese,saf5232@truman.edu,"Health Science, Pre-Physical Therapy",Senior,Mock Interview,In-Person,45,Victoria Lin,Yes,No,No,Career Center Check-in Lobby,2
+"Mar 22, 2023, 1:58 PM",3/22/23,13:58,1365051,Murtuza Taqi,mst3288@truman.edu,Physics,Senior,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,4
+"Mar 22, 2023, 3:28 PM",3/22/23,14:45,1362244,Morgan Tait,mtt7464@truman.edu,Exercise Science,Senior,Mock Interview,In-Person,45,Ellie Bindner,Yes,No,No,,3
+-,3/22/23,13:30,1102676,Brad Lay,bsl6361@truman.edu,Exercise Science,Senior,Mock Interview,Virtual,45,Genna Tlustos,Yes,No,No,,6
+"Mar 23, 2023, 8:03 AM",3/23/23,8:03,1360417,Caity Sarin,cas2883@truman.edu,Health Science,Senior,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,4
+"Mar 23, 2023, 8:57 AM",3/23/23,8:57,1003474,Maddy Baugh,mb1724@truman.edu,Psychology,Senior,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,2
+"Mar 23, 2023, 1:59 PM",3/23/23,14:00,1345860,Sophie Moore,sam1871@truman.edu,"Biology, Pre-Medical",Freshman,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,No,,3
+"Mar 24, 2023, 10:47 AM",3/24/23,10:30,1394003,Elssy Urena,hk67832@truman.edu,Business Administration,Freshman,Career Coaching/Counseling,In-Person,60,Bryce Cardwell,Yes,No,No,Career Center Check-in Lobby,2
+"Mar 24, 2023, 12:58 PM",3/24/23,13:00,1389840,Luke Hinton,mc42173@truman.edu,Psychology,Freshman,Career Coaching/Counseling,In-Person,60,Bryce Cardwell,Yes,No,No,Career Center Check-in Lobby,2
+"Mar 24, 2023, 8:00 AM",3/24/23,8:00,694617,Ed Gonzalez,egonzalez@truman.edu,Data Science Certificate,Graduate,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,6
+"Mar 24, 2023, 2:01 PM",3/24/23,14:01,1365051,Murtuza Taqi,mst3288@truman.edu,Physics,Senior,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,4
+-,3/24/23,9:45,1343459,Miranda Forbes,mlf5265@truman.edu,Foreign Language,Graduate,Resume/CV/Cover Letter Review,Virtual,15,University Career Center,Yes,No,No,,5
+-,3/24/23,8:45,1360741,Kara Pruett,knp8136@truman.edu,"Communication Disorders, Psychology",Senior,Resume/CV/Cover Letter Review,Virtual,15,University Career Center,Yes,No,No,,4
+-,3/24/23,8:30,1360741,Kara Pruett,knp8136@truman.edu,"Communication Disorders, Psychology",Senior,Resume/CV/Cover Letter Review,Virtual,15,University Career Center,Yes,No,No,,4
+"Mar 27, 2023, 12:53 PM",3/27/23,13:00,1389508,Emaleigh Kennedy,pq62456@truman.edu,Undeclared,Freshman,Assessment Interpretation,In-Person,60,Bryce Cardwell,Yes,No,No,Career Center Check-in Lobby,1
+-,3/27/23,11:45,1388068,Calli Hepfinger,zo71161@truman.edu,"Secondary, Undeclared",Sophomore,Assessment Interpretation,In-Person,60,Bryce Cardwell,Yes,No,No,,2
+"Mar 27, 2023, 2:26 PM",3/27/23,14:26,,Eliana S Steinman,ess4218@truman.edu,"Undeclared, Unknown",Freshman,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,2
+"Mar 28, 2023, 10:36 AM",3/28/23,10:36,1394003,Elssy Urena,hk67832@truman.edu,Business Administration,Freshman,,In-Person,,Bryce Cardwell,Yes,No,Yes,Career Center Check-in Lobby,2
+"Mar 28, 2023, 2:58 PM",3/28/23,14:58,1382484,Adam Woo,jw8266@truman.edu,"Philosophy & Religion, Political Sci & Intl Relations",Sophomore,,In-Person,,Bryce Cardwell,Yes,No,Yes,Career Center Check-in Lobby,12
+"Mar 28, 2023, 10:58 AM",3/28/23,10:58,1003474,Maddy Baugh,mb1724@truman.edu,Psychology,Senior,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,2
+"Mar 28, 2023, 11:53 AM",3/28/23,11:53,1360417,Caity Sarin,cas2883@truman.edu,Health Science,Senior,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,4
+-,3/29/23,11:30,1373089,Robert Hartsell,rwh6174@truman.edu,"Health Science, Pre-Medical",Junior,Personal Statement Creation/Final Draft,In-Person,60,Dave Lusk,Yes,No,No,,3
+"Mar 29, 2023, 8:27 AM",3/29/23,8:30,1360741,Kara Pruett,knp8136@truman.edu,"Communication Disorders, Psychology",Senior,Room Reservation,In-Person,60,VI Suite,Yes,No,No,,4
+-,3/29/23,16:15,1375569,Josh Perlman,jfp4173@truman.edu,Linguistics,Junior,Career Coaching/Counseling,In-Person,60,,Yes,No,No,,6
+"Mar 30, 2023, 7:58 AM",3/30/23,7:58,,Eliana S Steinman,ess4218@truman.edu,"Undeclared, Unknown",Freshman,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,2
+-,3/30/23,11:45,1361065,Shane Hawkins,sth7126@truman.edu,Health Science,Senior,Resume/CV/Cover Letter Review,Virtual,15,University Career Center,Yes,No,No,,5
+-,3/30/23,11:30,1370831,Kolton Piva,kmp2468@truman.edu,"Biology, Pre-Medical",Senior,Room Reservation,In-Person,60,VI Suite,Yes,No,No,,13
+"Mar 30, 2023, 10:22 AM",3/30/23,10:30,1370831,Kolton Piva,kmp2468@truman.edu,"Biology, Pre-Medical",Senior,Room Reservation,In-Person,60,VI Suite,Yes,No,No,,13
+"Mar 31, 2023, 11:30 AM",3/31/23,11:30,1388068,Calli Hepfinger,zo71161@truman.edu,"Secondary, Undeclared",Sophomore,Assessment Interpretation,In-Person,60,Dave Lusk,Yes,No,No,,2
+"Mar 31, 2023, 12:26 PM",3/31/23,12:30,1380540,Megan Cluck,mbc5651@truman.edu,Biology,Junior,Mock Interview,In-Person,45,Genna Tlustos,Yes,No,No,,5
+-,3/31/23,9:45,1371373,Thomas Schodl,tjs7846@truman.edu,"Biochemistry & Molecular Biol, Pre-Medical",Senior,Mock Interview,In-Person,45,,Yes,Yes,No,,13
+-,4/3/23,11:00,1359311,Hannah Kirchner,hnk3236@truman.edu,Anthropology,Senior,Job/Internship Search Strategy,In-Person,60,Bryce Cardwell,Yes,No,No,,4
+"Apr 03, 2023, 8:58 AM",4/3/23,8:58,1359405,Bryce Lewin,bl7881@truman.edu,Creative Writing,Senior,,In-Person,,Bryce Cardwell,Yes,No,Yes,Career Center Check-in Lobby,1
+-,4/3/23,11:00,1381009,Hunter King,hak4338@truman.edu,"Secondary, History",Sophomore,Room Reservation,In-Person,60,Dave Lusk,Yes,No,No,,3
+"Apr 03, 2023, 1:28 PM",4/3/23,13:28,1365051,Murtuza Taqi,mst3288@truman.edu,Physics,Senior,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,4
+"Apr 03, 2023, 2:29 PM",4/3/23,14:29,,Eliana S Steinman,ess4218@truman.edu,"Undeclared, Unknown",Freshman,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,2
+"Apr 3, 2023, 2:34 PM",4/3/23,14:45,1371373,Thomas Schodl,tjs7846@truman.edu,"Biochemistry & Molecular Biol, Pre-Medical",Senior,Mock Interview,In-Person,45,Ellie Bindner,Yes,No,No,,13
+"Apr 3, 2023, 12:19 PM",4/3/23,12:30,1371373,Thomas Schodl,tjs7846@truman.edu,"Biochemistry & Molecular Biol, Pre-Medical",Senior,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,No,,13
+"Apr 04, 2023, 1:33 PM",4/4/23,13:33,1382484,Adam Woo,jw8266@truman.edu,"Philosophy & Religion, Political Sci & Intl Relations",Sophomore,,In-Person,,Bryce Cardwell,Yes,No,Yes,Career Center Check-in Lobby,12
+"Apr 04, 2023, 2:55 PM",4/4/23,14:55,1394003,Elssy Urena,hk67832@truman.edu,Business Administration,Freshman,,In-Person,,Bryce Cardwell,Yes,No,Yes,Career Center Check-in Lobby,2
+"Apr 04, 2023, 11:01 AM",4/4/23,11:01,1368317,Zixian Jiang,zj8358@truman.edu,English,Senior,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,7
+"Apr 04, 2023, 1:06 PM",4/4/23,13:06,1373027,Jeongmin Hong,jh6415@truman.edu,Computer Science,Sophomore,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,7
+-,4/4/23,11:30,1379342,Gracie LaFoe,gdl7816@truman.edu,"Biology, Pre-Medical",Junior,Mock Interview,Virtual,45,Kayla Cook,Yes,No,No,,9
+-,4/5/23,10:00,1362847,Grace Edgar,gee1886@truman.edu,Anthropology,Junior,Job/Internship Search Strategy,In-Person,60,Bryce Cardwell,Yes,No,No,,1
+"Apr 05, 2023, 8:27 AM",4/5/23,8:27,1389005,Bethlehem Alebachew,tk76886@truman.edu,Nursing,Freshman,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,12
+"Apr 05, 2023, 12:57 PM",4/5/23,12:57,1379441,Dalton Lodge,dll2522@truman.edu,Anthropology,Junior,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,0
+"Apr 06, 2023, 8:10 AM",4/6/23,8:10,1373027,Jeongmin Hong,jh6415@truman.edu,Computer Science,Sophomore,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,7
+"Apr 06, 2023, 10:57 AM",4/6/23,10:57,1365947,Kayla Cook,kc3116@truman.edu,Communication Disorders,Senior,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,57
+"Apr 06, 2023, 10:57 AM",4/6/23,10:57,1386817,Evan Caito,eh84576@truman.edu,Physics,Freshman,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,0
+"Apr 06, 2023, 2:27 PM",4/6/23,14:27,1380154,Mel Eaton,mre8641@truman.edu,"Secondary, Creative Writing",Senior,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,0
+-,4/6/23,8:30,1372797,Haley Wells,hew7183@truman.edu,Biochemistry & Molecular Biol,Senior,Resume/CV/Cover Letter Review,Virtual,15,University Career Center,Yes,No,No,,8
+-,4/6/23,16:00,1363517,Danielle Illy,dei4267@truman.edu,Biology,Senior,Room Reservation,In-Person,60,VI Suite,Yes,No,No,,26
+"Apr 07, 2023, 8:57 AM",4/7/23,8:57,1359138,Nicole Dorn,nmd2256@truman.edu,Biology,Senior,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,4
+"Apr 07, 2023, 10:36 AM",4/7/23,10:36,,Bethel Samuel Abebe,sm51556@truman.edu,Business Administration,Freshman,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,10
+"Apr 07, 2023, 11:31 AM",4/7/23,11:31,1388068,Calli Hepfinger,zo71161@truman.edu,"Secondary, Undeclared",Sophomore,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,2
+"Apr 7, 2023, 9:45 AM",4/7/23,9:45,1361602,Emma Richardson,edr1145@truman.edu,Economics,Senior,Mock Interview,In-Person,45,University Career Center,Yes,No,No,,6
+"Apr 7, 2023, 3:56 PM",4/7/23,15:45,1365327,Laura Gainza,llg7154@truman.edu,"Business Administration, Pre-Law",Senior,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,No,,7
+"Apr 11, 2023, 11:58 AM",4/11/23,12:00,,Bethel Samuel Abebe,sm51556@truman.edu,Business Administration,Freshman,Career Coaching/Counseling,In-Person,60,Bryce Cardwell,Yes,No,No,Career Center Check-in Lobby,10
+"Apr 11, 2023, 10:01 AM",4/11/23,9:30,1385339,Yuho Kasuga,yk8163@truman.edu,Business Administration,Junior,Job/Internship Search Strategy,In-Person,60,Bryce Cardwell,Yes,No,No,Career Center Check-in Lobby,30
+"Apr 11, 2023, 3:09 PM",4/11/23,15:09,1394003,Elssy Urena,hk67832@truman.edu,Business Administration,Freshman,,In-Person,,Bryce Cardwell,Yes,No,Yes,Career Center Check-in Lobby,2
+"Apr 11, 2023, 10:02 AM",4/11/23,10:02,1368317,Zixian Jiang,zj8358@truman.edu,English,Senior,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,7
+"Apr 11, 2023, 10:54 AM",4/11/23,10:54,1003474,Maddy Baugh,mb1724@truman.edu,Psychology,Senior,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,2
+-,4/11/23,11:00,1361065,Shane Hawkins,sth7126@truman.edu,Health Science,Senior,Resume/CV/Cover Letter Review,Virtual,15,University Career Center,Yes,No,No,,5
+"Apr 12, 2023, 2:27 PM",4/12/23,14:30,1359311,Hannah Kirchner,hnk3236@truman.edu,Anthropology,Senior,Job/Internship Search Strategy,In-Person,60,Bryce Cardwell,Yes,No,No,Career Center Check-in Lobby,4
+"Apr 12, 2023, 12:53 PM",4/12/23,13:00,1365556,Jason Niffen,jjn2582@truman.edu,Physics,Senior,Career Coaching/Counseling,In-Person,60,,Yes,No,No,Career Center Check-in Lobby,1
+"Apr 13, 2023, 8:02 AM",4/13/23,8:02,1359138,Nicole Dorn,nmd2256@truman.edu,Biology,Senior,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,4
+-,4/13/23,10:45,1385594,Justin Watson,jpw2155@truman.edu,Business Administration,Senior,Mock Interview,In-Person,45,Kayla Cook,Yes,No,No,,7
+-,4/13/23,11:30,1365327,Laura Gainza,llg7154@truman.edu,"Business Administration, Pre-Law",Senior,Resume/CV/Cover Letter Review,Virtual,15,University Career Center,Yes,No,No,,7
+"Apr 13, 2023, 2:21 PM",4/13/23,14:30,1364650,Olivia Pinkowski,otp6257@truman.edu,Biology,Sophomore,Mock Interview,In-Person,45,Victoria Lin,Yes,No,No,,3
+-,4/13/23,8:30,1371351,Georgia Hollingsworth,grh6882@truman.edu,Biochemistry & Molecular Biol,Senior,Resume/CV/Cover Letter Review,Virtual,15,,Yes,No,No,,19
+"Apr 14, 2023, 9:59 AM",4/14/23,9:59,1368317,Zixian Jiang,zj8358@truman.edu,English,Senior,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,7
+"Apr 14, 2023, 11:31 AM",4/14/23,11:31,1388068,Calli Hepfinger,zo71161@truman.edu,"Secondary, Undeclared",Sophomore,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,2
+"Apr 14, 2023, 1:26 PM",4/14/23,13:26,1381009,Hunter King,hak4338@truman.edu,"Secondary, History",Sophomore,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,3
+-,4/14/23,13:30,1360829,Madison Post,mpp2313@truman.edu,Communication,Senior,Personal Statement Creation/Final Draft,In-Person,60,,Yes,No,No,,14
+"Apr 17, 2023, 12:59 PM",4/17/23,12:59,1365556,Jason Niffen,jjn2582@truman.edu,Physics,Senior,,In-Person,,Bryce Cardwell,Yes,No,Yes,Career Center Check-in Lobby,1
+"Apr 17, 2023, 2:27 PM",4/17/23,14:27,1360829,Madison Post,mpp2313@truman.edu,Communication,Senior,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,14
+"Apr 17, 2023, 3:25 PM",4/17/23,15:25,1381009,Hunter King,hak4338@truman.edu,"Secondary, History",Sophomore,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,3
+"Apr 17, 2023, 9:26 AM",4/17/23,9:30,1387929,Avery Warlen,bt67717@truman.edu,"Health Science, Pre-Dental",Sophomore,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,No,,3
+"Apr 17, 2023, 9:43 AM",4/17/23,9:45,1394210,Laila Elbakkal,jk12678@truman.edu,"Health Science, Pre-Dental",Sophomore,Room Reservation,In-Person,60,,Yes,No,No,Career Center Check-in Lobby,5
+-,4/18/23,15:30,1365327,Laura Gainza,llg7154@truman.edu,"Business Administration, Pre-Law",Senior,Job/Internship Search Strategy,In-Person,60,Bryce Cardwell,Yes,No,No,,7
+"Apr 18, 2023, 1:26 PM",4/18/23,13:26,1382484,Adam Woo,jw8266@truman.edu,"Philosophy & Religion, Political Sci & Intl Relations",Sophomore,,In-Person,,Bryce Cardwell,Yes,No,Yes,Career Center Check-in Lobby,12
+"Apr 18, 2023, 8:00 AM",4/18/23,8:00,1388068,Calli Hepfinger,zo71161@truman.edu,"Secondary, Undeclared",Sophomore,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,2
+"Apr 18, 2023, 8:57 AM",4/18/23,8:57,1373027,Jeongmin Hong,jh6415@truman.edu,Computer Science,Sophomore,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,7
+"Apr 18, 2023, 9:30 AM",4/18/23,9:30,1360417,Caity Sarin,cas2883@truman.edu,Health Science,Senior,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,4
+"Apr 18, 2023, 2:14 PM",4/18/23,14:14,1346346,Drew Smiser,dts5457@truman.edu,Exercise Science,Senior,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,0
+"Apr 18, 2023, 10:41 AM",4/18/23,10:45,1385720,Adelaide Reaser,asr1327@truman.edu,Accounting,Sophomore,Mock Interview,In-Person,45,Kayla Cook,Yes,No,No,,2
+"Apr 18, 2023, 2:44 PM",4/18/23,14:45,1387472,Anna Capellari,ce64574@truman.edu,"Exercise Science, Pre-Physical Therapy",Sophomore,Mock Interview,In-Person,45,Namuna Sunar,Yes,No,No,,2
+"Apr 18, 2023, 9:28 AM",4/18/23,9:30,1387796,Hanna Ritter,za67664@truman.edu,"Health Science, Pre-Physical Therapy",Freshman,Mock Interview,In-Person,45,Norah Kovac,Yes,No,No,Career Center Check-in Lobby,2
+-,4/18/23,11:45,1379342,Gracie LaFoe,gdl7816@truman.edu,"Biology, Pre-Medical",Junior,Resume/CV/Cover Letter Review,Virtual,15,VI Suite,Yes,No,No,,9
+"Apr 18, 2023, 12:42 PM",4/18/23,12:45,1373156,Alexis Henrikson,alh1866@truman.edu,"Exercise Science, Pre-Medical",Senior,Mock Interview,In-Person,45,Victoria Lin,Yes,No,No,,2
+"Apr 18, 2023, 1:20 PM",4/18/23,13:30,1389338,Abigail Eberwine,yl56856@truman.edu,Communication Disorders,Sophomore,Mock Interview,In-Person,45,Victoria Lin,Yes,No,No,,1
+-,4/19/23,11:45,1381247,Elizabeth Mosher,erm8144@truman.edu,Art,Sophomore,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,No,,1
+"Apr 20, 2023, 11:23 AM",4/20/23,11:30,1386001,Addie VandeWalle,aav5174@truman.edu,"Biology, Pre-Veterinary",Freshman,Career Coaching/Counseling,In-Person,60,Bryce Cardwell,Yes,No,No,Career Center Check-in Lobby,2
+-,4/20/23,15:30,1380642,Spencer Duffendack,sjd6884@truman.edu,Biology,Junior,Mock Interview,In-Person,45,Gabby Winterboer,Yes,Yes,No,,5
+"Apr 20, 2023, 9:40 AM",4/20/23,9:45,1388352,Quentin Perry,cu36248@truman.edu,Nursing,Sophomore,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,No,,3
+"Apr 20, 2023, 8:40 AM",4/20/23,9:00,1371351,Georgia Hollingsworth,grh6882@truman.edu,Biochemistry & Molecular Biol,Senior,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,No,,19
+"Apr 20, 2023, 12:29 PM",4/20/23,12:30,1392874,Ritika Lama,mo77828@truman.edu,Computer Science,Freshman,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,No,,2
+-,4/20/23,14:30,1371876,Brennan Fortel,bmf7426@truman.edu,"Biology, Pre-Veterinary",Senior,Mock Interview,Virtual,45,Victoria Lin,Yes,No,No,,7
+-,4/20/23,10:30,1255320,Blaine DeVolld,brd8381@truman.edu,"Exercise Science, Pre-Physical Therapy",Senior,Personal Statement Creation/Final Draft,In-Person,60,,Yes,No,No,,2
+-,4/21/23,12:30,1387708,Grace Wolford,nm53571@truman.edu,"Elementary, Communication",Freshman,Mock Interview,In-Person,45,Genna Tlustos,Yes,No,No,,2
+"Apr 21, 2023, 10:41 AM",4/21/23,10:45,1388500,Lucas Manalang,vb17533@truman.edu,"Political Sci & Intl Relations, Pre-Law",Freshman,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,No,,2
+"Apr 21, 2023, 9:15 AM",4/21/23,9:15,1390287,Pujan Gauli,ts48152@truman.edu,Business Administration,Freshman,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,No,,15
+-,4/21/23,13:00,1389144,Grace Nicholl,sx16812@truman.edu,"Health Science, Pre-Law",Freshman,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,No,,2
+-,4/24/23,11:00,1362241,Isaac Saathoff,ids4175@truman.edu,"Exercise Science, Pre-Medical",Senior,Personal Statement Creation/Final Draft,In-Person,60,,Yes,No,No,,7
+-,4/25/23,11:15,1387851,Bryson Randolph,yy37676@truman.edu,"Health Science, Pre-Physical Therapy",Freshman,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,No,,2
+-,4/26/23,14:45,1378190,Nathan Shaw,ncs6387@truman.edu,Physics,Junior,Mock Interview,In-Person,45,Ellie Bindner,Yes,No,No,,2
+-,4/27/23,12:45,1362234,Ian Esteban,ire6571@truman.edu,Psychology,Senior,Personal Statement Creation/Final Draft,In-Person,60,Dave Lusk,Yes,No,No,,3
+"Apr 27, 2023, 9:45 AM",4/27/23,9:45,1337141,Zachary Zerwig,ztz5553@truman.edu,Leadership,Graduate,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,7
+"Apr 27, 2023, 2:30 PM",4/27/23,14:30,1360417,Caity Sarin,cas2883@truman.edu,Health Science,Senior,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,4
+"May 1, 2023, 3:22 PM",5/1/23,15:30,1380642,Spencer Duffendack,sjd6884@truman.edu,Biology,Junior,Mock Interview,In-Person,45,Ellie Bindner,Yes,No,No,,5
+"May 2, 2023, 10:25 AM",5/2/23,10:30,1362241,Isaac Saathoff,ids4175@truman.edu,"Exercise Science, Pre-Medical",Senior,Personal Statement Creation/Final Draft,In-Person,60,Dave Lusk,Yes,No,No,,7
+"May 2, 2023, 2:46 PM",5/2/23,14:45,1359138,Nicole Dorn,nmd2256@truman.edu,Biology,Senior,Mock Interview,In-Person,45,Namuna Sunar,Yes,No,No,,4
+-,5/2/23,14:45,1374989,Chase Jones,crj2646@truman.edu,"Secondary, Exercise Science",Junior,Mock Interview,In-Person,45,University Career Center,Yes,No,No,,1
+"May 2, 2023, 9:02 AM",5/2/23,9:00,1380642,Spencer Duffendack,sjd6884@truman.edu,Biology,Junior,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,No,,5
+"May 03, 2023, 12:03 PM",5/3/23,12:03,1388068,Calli Hepfinger,zo71161@truman.edu,"Secondary, Undeclared",Sophomore,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,2
+"May 03, 2023, 1:35 PM",5/3/23,13:35,1373027,Jeongmin Hong,jh6415@truman.edu,Computer Science,Sophomore,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,7
+"May 3, 2023, 12:46 PM",5/3/23,12:45,1387708,Grace Wolford,nm53571@truman.edu,"Elementary, Communication",Freshman,Mock Interview,In-Person,45,Genna Tlustos,Yes,No,No,,2
+"May 4, 2023, 1:26 PM",5/4/23,13:30,1387567,Kaidince Edwards,vr62418@truman.edu,"Elementary, English",Sophomore,Resume/CV/Cover Letter Review,In-Person,15,University Career Center,Yes,No,No,,3
+-,5/4/23,14:30,894322,Nathan Chrisman,nsc5567@truman.edu,Design,Senior,Mock Networking,Virtual,15,,Yes,No,No,,8
+"May 5, 2023, 1:45 PM",5/5/23,13:45,1382241,Collin Hudgens,crh2354@truman.edu,Music (Pre-Certification),Sophomore,Resume/CV/Cover Letter Review,In-Person,15,Joel Brumfield,Yes,No,No,,9
+-,5/5/23,15:30,1362380,Abby Rolen,alr2534@truman.edu,Biology,Senior,Mock Interview,In-Person,45,,Yes,No,No,,5
+"May 08, 2023, 1:29 PM",5/8/23,13:29,,Eliana S Steinman,ess4218@truman.edu,"Undeclared, Unknown",Freshman,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,2
+"May 09, 2023, 10:00 AM",5/9/23,10:00,1249168,Lauri Klump,ltk1124@truman.edu,Anthropology,Senior,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,2
+"May 09, 2023, 10:57 AM",5/9/23,10:57,1380154,Mel Eaton,mre8641@truman.edu,"Secondary, Creative Writing",Senior,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,0
+-,5/9/23,10:45,1372797,Haley Wells,hew7183@truman.edu,Biochemistry & Molecular Biol,Senior,Mock Interview,Virtual,45,Norah Kovac,Yes,No,No,,8
+-,5/10/23,16:15,1371876,Brennan Fortel,bmf7426@truman.edu,"Biology, Pre-Veterinary",Senior,Resume/CV/Cover Letter Review,Virtual,15,University Career Center,Yes,No,No,,7
+-,5/10/23,12:00,1354081,Sam Moulder,srm4257@truman.edu,"Exercise Science, Pre-Medical",Alumnus,Resume/CV/Cover Letter Review,Virtual,15,University Career Center,Yes,No,No,,5
+"May 17, 2023, 11:29 AM",5/17/23,11:29,694617,Ed Gonzalez,egonzalez@truman.edu,Data Science Certificate,Graduate,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,6
+-,5/18/23,9:30,1359405,Bryce Lewin,bl7881@truman.edu,Creative Writing,Senior,Resume/CV/Cover Letter Review,Virtual,15,University Career Center,Yes,No,No,,1
+-,5/22/23,8:00,,Timothy Maxwell Beard,maxb1915@gmail.com,Business Administration,Graduate,Room Reservation,In-Person,60,,Yes,No,No,,6
+-,5/25/23,16:30,,Corey Schmidt,crs2182@truman.edu,Social Science,Alumnus,Resume/CV/Cover Letter Review,Virtual,15,,Yes,No,No,,11
+"May 30, 2023, 8:27 AM",5/30/23,8:27,,Joel Brumfield,jbrumfield@truman.edu,"English, Psychology",Alumnus,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,11
+"May 30, 2023, 8:28 AM",5/30/23,8:28,1362210,Max Beard,tmb2857@truman.edu,Business Administration,Senior,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,5
+"May 30, 2023, 10:07 AM",5/30/23,10:07,1373027,Jeongmin Hong,jh6415@truman.edu,Computer Science,Sophomore,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,7
+"May 30, 2023, 11:29 AM",5/30/23,11:29,1380154,Mel Eaton,mre8641@truman.edu,"Secondary, Creative Writing",Senior,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,0
+"Jun 06, 2023, 11:23 AM",6/6/23,11:23,1380154,Mel Eaton,mre8641@truman.edu,"Secondary, Creative Writing",Senior,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,0
+"Jun 06, 2023, 11:25 AM",6/6/23,11:25,1362193,Seth Overall,wso1827@truman.edu,Psychology,Senior,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,0
+"Jun 06, 2023, 11:27 AM",6/6/23,11:27,,Joel Brumfield,jbrumfield@truman.edu,"English, Psychology",Alumnus,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,12
+"Jun 06, 2023, 9:01 AM",6/6/23,9:01,,Joel Brumfield,jbrumfield@truman.edu,"English, Psychology",Alumnus,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,12
+"Jun 06, 2023, 8:59 AM",6/6/23,8:59,,Joel Brumfield,jbrumfield@truman.edu,"English, Psychology",Alumnus,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,12
+"Jun 06, 2023, 2:05 PM",6/6/23,14:05,1070470,Theo Greer,tdg5385@truman.edu,Music,Graduate,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,3
+"Jun 20, 2023, 11:17 AM",6/20/23,11:17,1380154,Mel Eaton,mre8641@truman.edu,"Secondary, Creative Writing",Senior,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,0
+"Jun 21, 2023, 9:15 AM",6/21/23,9:15,1380154,Mel Eaton,mre8641@truman.edu,"Secondary, Creative Writing",Senior,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,0
+"Jun 22, 2023, 11:42 AM",6/22/23,11:42,756764,Tristan Buckner,tjb2643@truman.edu,Creative Writing,Alumnus,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,0
+"Jun 26, 2023, 4:06 PM",6/26/23,16:06,1070470,Theo Greer,tdg5385@truman.edu,Music,Graduate,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,3
+"Jun 27, 2023, 4:17 PM",6/27/23,16:17,,Eliana S Steinman,ess4218@truman.edu,"Undeclared, Unknown",Freshman,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,2
+"Jun 27, 2023, 2:57 PM",6/27/23,14:57,1372488,Louisa Lopez,lkl6421@truman.edu,"Biology, Pre-Veterinary",Senior,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,7
+"Jun 27, 2023, 2:57 PM",6/27/23,14:57,1362193,Seth Overall,wso1827@truman.edu,Psychology,Senior,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,0
+"Jun 28, 2023, 2:02 PM",6/28/23,14:02,1365236,Stephanie Renasco Guzmann,svr4531@truman.edu,Business Administration,Junior,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,20
+-,7/10/23,9:30,1352230,Stephanie Rehrer,ssr1842@truman.edu,Communication Disorders,Alumnus,Job/Internship Search Strategy,In-Person,60,,Yes,No,No,,8
+"Jul 10, 2023, 4:01 PM",7/10/23,16:01,1070470,Theo Greer,tdg5385@truman.edu,Music,Graduate,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,3
+"Jul 10, 2023, 12:52 PM",7/10/23,12:52,1372488,Louisa Lopez,lkl6421@truman.edu,"Biology, Pre-Veterinary",Senior,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,7
+"Jul 11, 2023, 8:01 AM",7/11/23,8:01,1372488,Louisa Lopez,lkl6421@truman.edu,"Biology, Pre-Veterinary",Senior,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,7
+"Jul 11, 2023, 4:01 PM",7/11/23,16:01,1070470,Theo Greer,tdg5385@truman.edu,Music,Graduate,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,3
+"Jul 13, 2023, 4:02 PM",7/13/23,16:02,1070470,Theo Greer,tdg5385@truman.edu,Music,Graduate,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,3
+"Jul 17, 2023, 4:29 PM",7/17/23,16:29,1070470,Theo Greer,tdg5385@truman.edu,Music,Graduate,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,3
+"Jul 18, 2023, 11:57 AM",7/18/23,11:57,1368740,Dane Winterboer,daw1815@truman.edu,Statistics,Sophomore,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,10
+"Jul 18, 2023, 12:05 PM",7/18/23,12:15,1368740,Dane Winterboer,daw1815@truman.edu,Statistics,Sophomore,Career Coaching/Counseling,In-Person,60,Joel Brumfield,Yes,No,No,Career Center Check-in Lobby,10
+-,7/20/23,9:30,1368740,Dane Winterboer,daw1815@truman.edu,Statistics,Sophomore,Personal Statement Creation/Final Draft,In-Person,60,Dave Lusk,Yes,No,No,,10
+"Jul 20, 2023, 8:30 AM",7/20/23,8:30,1362210,Max Beard,tmb2857@truman.edu,Business Administration,Senior,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,5
+-,7/20/23,8:30,,Yoda AtestStudent,joelwbrumfield@gmail.com,Accounting,Graduate Student,Personal Statement Creation/Final Draft,In-Person,60,Dave Lusk,Yes,No,No,,0
+"Jul 20, 2023, 11:16 AM",7/20/23,11:16,1368740,Dane Winterboer,daw1815@truman.edu,Statistics,Sophomore,,In-Person,,Joel Brumfield,Yes,No,Yes,Career Center Check-in Lobby,10
+"Jul 24, 2023, 10:00 AM",7/24/23,10:00,1365236,Stephanie Renasco Guzmann,svr4531@truman.edu,Business Administration,Junior,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,20
+"Jul 25, 2023, 2:05 PM",7/25/23,14:00,1370262,Emmanuella Goe,eeg6643@truman.edu,Physics,Junior,Career Coaching/Counseling,In-Person,60,Dave Lusk,Yes,No,No,Career Center Check-in Lobby,38
+"Jul 26, 2023, 3:08 PM",7/26/23,15:08,1370262,Emmanuella Goe,eeg6643@truman.edu,Physics,Junior,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,38
+"Jul 27, 2023, 1:58 PM",7/27/23,13:58,1368740,Dane Winterboer,daw1815@truman.edu,Statistics,Sophomore,,In-Person,,Joel Brumfield,Yes,No,Yes,Career Center Check-in Lobby,10
+"Jul 27, 2023, 10:02 AM",7/27/23,10:02,756764,Tristan Buckner,tjb2643@truman.edu,Creative Writing,Alumnus,,In-Person,,Dave Lusk,Yes,No,Yes,Career Center Check-in Lobby,0
+"Jan 18, 2023, 12:02 PM",1/18/2023,12:02 ,001368317,Zixian Jiang,zj8358@truman.edu,English,,Career Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,3
+"Jan 19, 2023, 10:58 AM",1/19/2023,10:58 ,001363278,Grace James,gjj4647@truman.edu,Nursing,,Résumé/CV/Cover Letter Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,3
+"Jan 20, 2023, 1:23 PM",1/20/2023,13:23 ,001380597,Stephanie Vaughn,sv6554@truman.edu,Biochemistry & Molecular Biol,,Résumé/CV/Cover Letter Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,0
+"Jan 23, 2023, 8:55 AM",1/23/2023,8:55 ,001381393,Isabella Wirthlin,irw8417@truman.edu,Anthropology,,Reason: Personal Initiative/Professional Development,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,10
+"Jan 23, 2023, 11:57 AM",1/23/2023,11:57 ,001361669,Lillian Selligman,lgs2647@truman.edu,Biology,,"Résumé/CV/Cover Letter Assistance, Personal Statement Critique, Reason: Personal Initiative/Professional Development",In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,11
+"Jan 23, 2023, 2:21 PM",1/23/2023,14:21 ,001334618,Kelli Ellis,kne2215@truman.edu,"Data Science Certificate, Mathematics",,Career Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,6
+"Jan 23, 2023, 2:56 PM",1/23/2023,14:56 ,001380319,Alex Eby,ake8617@truman.edu,Business Administration,,Career Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,5
+"Jan 24, 2023, 11:17 AM",1/24/2023,11:17 ,001365217,Alycen Greenwood,acg8661@truman.edu,Psychology,,Mock Interview,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,2
+"Jan 24, 2023, 11:23 AM",1/24/2023,11:23 ,001352820,Miles Clopton,mwc1225@truman.edu,Nursing,,Résumé/CV/Cover Letter Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,7
+"Jan 25, 2023, 12:07 PM",1/25/2023,12:07 ,001365436,Margherita Maiani,mm1575@truman.edu,Business Administration,,Résumé/CV/Cover Letter Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,3
+"Jan 25, 2023, 1:37 PM",1/25/2023,13:37 ,001365818,Namuna Sunar,ns3255@truman.edu,Nursing,,Virtual Interview Room Reservation,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,53
+"Jan 26, 2023, 1:18 PM",1/26/2023,13:18 ,001380597,Stephanie Vaughn,sv6554@truman.edu,Biochemistry & Molecular Biol,,Résumé/CV/Cover Letter Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,0
+"Jan 26, 2023, 2:41 PM",1/26/2023,14:41 ,001372529,Thad Meadows,tcm5152@truman.edu,"Economics, Mathematics",,Virtual Interview Room Reservation,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,9
+"Jan 26, 2023, 2:51 PM",1/26/2023,14:51 ,001360601,Haley Peer,hmp3581@truman.edu,Art,,Résumé/CV/Cover Letter Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,0
+"Jan 27, 2023, 9:27 AM",1/27/2023,9:27 ,001381026,Corbyn Harper,chh7567@truman.edu,"Elementary, Interdisciplinary Studies",,Career Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,0
+"Jan 27, 2023, 11:43 AM",1/27/2023,11:43 ,001370693,Olivia Baumann,oab6442@truman.edu,"Accounting, Business Administration",,"On-campus Interview, Virtual Interview Room Reservation",In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,1
+"Jan 27, 2023, 11:56 AM",1/27/2023,11:56 ,001361669,Lillian Selligman,lgs2647@truman.edu,Biology,,"Résumé/CV/Cover Letter Assistance, Personal Statement Critique",In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,11
+"Jan 27, 2023, 1:46 PM",1/27/2023,13:46 ,001380227,Pranavi Pitchyaiah,pgp7884@truman.edu,"Communication, Psychology",,Résumé/CV/Cover Letter Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,11
+"Jan 30, 2023, 10:25 AM",1/30/2023,10:25 ,001355902,Ethan Van Horn,ewv3687@truman.edu,Computer Science,,Résumé/CV/Cover Letter Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,1
+"Jan 30, 2023, 12:05 PM",1/30/2023,12:05 ,,Tyler Jones,se11236@truman.edu,Accounting,,Career Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,5
+"Jan 30, 2023, 4:25 PM",1/30/2023,16:25 ,001248700,Abigail Bidwell,aab4236@truman.edu,Elementary Education,,Reason: Personal Initiative/Professional Development,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,12
+"Feb 1, 2023, 11:48 AM",2/1/2023,11:48 ,001386028,Matt Boyce,mjb5555@truman.edu,Accounting,,Career Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,2
+"Feb 1, 2023, 12:39 PM",2/1/2023,12:39 ,001363031,Hoang Nguyen,mdn5357@truman.edu,"Philosophy & Religion, Psychology",,Résumé/CV/Cover Letter Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,11
+"Feb 2, 2023, 11:05 AM",2/2/2023,11:05 ,001380592,Anthony Sarullo,aws2676@truman.edu,Psychology,,Résumé/CV/Cover Letter Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,6
+"Feb 2, 2023, 1:29 PM",2/2/2023,13:29 ,001361241,Charles Fraser,cbf8843@truman.edu,Exercise Science,,"On-campus Interview, Virtual Interview Room Reservation",In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,7
+"Feb 3, 2023, 10:33 AM",2/3/2023,10:33 ,001390153,Rahul Chaudhari,oe51384@truman.edu,Computer Science,,Résumé/CV/Cover Letter Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,9
+"Feb 6, 2023, 3:25 PM",2/6/2023,15:25 ,001389524,Sierra Snyder,pk33241@truman.edu,"Agricultural Science, Business Administration",,Résumé/CV/Cover Letter Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,1
+"Feb 7, 2023, 1:01 PM",2/7/2023,13:01 ,001363278,Grace James,gjj4647@truman.edu,Nursing,,On-campus Interview,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,4
+"Feb 9, 2023, 1:36 PM",2/9/2023,13:36 ,,Paul D Keiser,pdk6774@truman.edu,Computer Science,,Career Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,10
+"Feb 9, 2023, 2:41 PM",2/9/2023,14:41 ,001381678,Bridget Reichmuth,ber6564@truman.edu,Health Science,,Résumé/CV/Cover Letter Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,1
+"Feb 10, 2023, 1:42 PM",2/10/2023,13:42 ,001361113,Kinsey Keller,kk3413@truman.edu,Psychology,,Personal Statement Critique,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,14
+"Feb 10, 2023, 2:36 PM",2/10/2023,14:36 ,001372529,Thad Meadows,tcm5152@truman.edu,"Economics, Mathematics",,Virtual Interview Room Reservation,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,11
+"Feb 13, 2023, 11:33 AM",2/13/2023,11:33 ,001363232,Samantha Giordanengo,sag7671@truman.edu,Nursing,,Résumé/CV/Cover Letter Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,2
+"Feb 13, 2023, 11:34 AM",2/13/2023,11:34 ,001379896,Danya Tayeh,dt8843@truman.edu,"Health Science, Pre-Physician Assistant",,Résumé/CV/Cover Letter Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,1
+"Feb 13, 2023, 3:26 PM",2/13/2023,15:26 ,001389524,Sierra Snyder,pk33241@truman.edu,"Agricultural Science, Business Administration",,Résumé/CV/Cover Letter Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,1
+"Feb 14, 2023, 3:05 PM",2/14/2023,15:05 ,001381678,Bridget Reichmuth,ber6564@truman.edu,Health Science,,Résumé/CV/Cover Letter Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,1
+"Feb 15, 2023, 12:43 PM",2/15/2023,12:43 ,001363547,Ben Cooper,bhc7712@truman.edu,"Health Science, Pre-Medical",,Résumé/CV/Cover Letter Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,2
+"Feb 15, 2023, 3:26 PM",2/15/2023,15:26 ,001380696,Ainsley Whiting,alw2246@truman.edu,Psychology,,Résumé/CV/Cover Letter Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,1
+"Feb 15, 2023, 4:38 PM",2/15/2023,16:38 ,001383704,Wren Embery,rpe4657@truman.edu,"Mathematics, Psychology",,Résumé/CV/Cover Letter Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,0
+"Feb 16, 2023, 3:13 PM",2/16/2023,15:13 ,001381026,Corbyn Harper,chh7567@truman.edu,"Elementary, Interdisciplinary Studies",,Career Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,0
+"Feb 17, 2023, 2:40 PM",2/17/2023,14:40 ,001388019,Caroline Brink,su78346@truman.edu,Business Administration,,Résumé/CV/Cover Letter Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,1
+"Feb 20, 2023, 11:58 AM",2/20/2023,11:58 ,001381507,Emily Sander,egs5446@truman.edu,"Elementary, Psychology",,Reason: Class Requirement,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,0
+"Feb 20, 2023, 12:31 PM",2/20/2023,12:31 ,001371740,Jacob Brown,jlb7172@truman.edu,"Economics, Political Sci & Intl Relations, Pre-Law",,Résumé/CV/Cover Letter Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,1
+"Feb 20, 2023, 1:19 PM",2/20/2023,13:19 ,001352820,Miles Clopton,mwc1225@truman.edu,Nursing,,Virtual Interview Room Reservation,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,8
+"Feb 20, 2023, 1:34 PM",2/20/2023,13:34 ,001377773,Jincan Sun,js5823@truman.edu,Economics,,Reason: Class Requirement,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,6
+"Feb 20, 2023, 1:54 PM",2/20/2023,13:54 ,001388665,Hannah Wilson,ek16358@truman.edu,"Secondary, Modern Language",,Résumé/CV/Cover Letter Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,2
+"Feb 20, 2023, 2:38 PM",2/20/2023,14:38 ,001389357,Logan Payne,wa51827@truman.edu,Business Administration,,Résumé/CV/Cover Letter Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,0
+"Feb 20, 2023, 2:46 PM",2/20/2023,14:46 ,001376186,Zeyu Wang,zw1282@truman.edu,Economics,,Résumé/CV/Cover Letter Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,4
+"Feb 20, 2023, 3:11 PM",2/20/2023,15:11 ,001390573,Prabeen Giri,vy77538@truman.edu,Computer Science,,Résumé/CV/Cover Letter Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,1
+"Feb 21, 2023, 10:26 AM",2/21/2023,10:26 ,001388990,Bella Wagers,yu21478@truman.edu,"Special Ed, English",,Résumé/CV/Cover Letter Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,1
+"Feb 21, 2023, 11:01 AM",2/21/2023,11:01 ,001380839,Maggie Laux,mel4636@truman.edu,"Secondary, Mathematics",,Reason: Class Requirement,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,1
+"Feb 21, 2023, 11:24 AM",2/21/2023,11:24 ,001364088,Yasmine Ghenima,yg2612@truman.edu,Political Sci & Intl Relations,,Virtual Interview Room Reservation,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,14
+"Feb 21, 2023, 12:12 PM",2/21/2023,12:12 ,001384541,Maryam Nasir,mn8236@truman.edu,"Economics, Pre-Law",,Résumé/CV/Cover Letter Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,0
+"Feb 21, 2023, 12:30 PM",2/21/2023,12:30 ,001384581,Maira Nasir,mn1217@truman.edu,"Economics, Pre-Law",,Résumé/CV/Cover Letter Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,1
+"Feb 21, 2023, 2:56 PM",2/21/2023,14:56 ,001371741,Avery Drake,acd8668@truman.edu,Exercise Science,,Résumé/CV/Cover Letter Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,8
+"Feb 22, 2023, 10:02 AM",2/22/2023,10:02 ,001337723,Hannah Zimmerman,hcz7782@truman.edu,"Biology, Pre-Medical, Psychology",,Virtual Interview Room Reservation,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,8
+"Feb 22, 2023, 2:13 PM",2/22/2023,14:13 ,001361705,Katelyn Hopkins,keh5132@truman.edu,Biology,,"Résumé/CV/Cover Letter Assistance, Reason: Preparing for an Upcoming Interview",In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,4
+"Feb 22, 2023, 2:36 PM",2/22/2023,14:36 ,001377773,Jincan Sun,js5823@truman.edu,Economics,,Reason: Class Requirement,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,6
+"Feb 22, 2023, 2:53 PM",2/22/2023,14:53 ,001361099,Jake Koebel,jtk2174@truman.edu,Business Administration,,Résumé/CV/Cover Letter Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,7
+"Feb 22, 2023, 3:45 PM",2/22/2023,15:45 ,001358853,Keer Zeng,kz6531@truman.edu,Economics,,Résumé/CV/Cover Letter Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,0
+"Feb 24, 2023, 8:56 AM",2/24/2023,8:56 ,001366587,Thang Tran,tdt7447@truman.edu,Computer Science,,On-campus Interview,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,10
+"Feb 24, 2023, 9:29 AM",2/24/2023,9:29 ,001359166,Yuyang Sun,ys1487@truman.edu,Business Administration,,On-campus Interview,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,53
+"Feb 24, 2023, 10:46 AM",2/24/2023,10:46 ,001361935,Victoria (Tori) Lin,rl6612@truman.edu,"Business Administration, Economics",,Mock Interview,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,20
+"Feb 27, 2023, 12:03 PM",2/27/2023,12:03 ,001384771,Nhi Huynh,nph7744@truman.edu,Accounting,,Résumé/CV/Cover Letter Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,1
+"Feb 28, 2023, 2:32 PM",2/28/2023,14:32 ,001381861,Will Murdock,wcm4551@truman.edu,"Economics, Political Sci & Intl Relations",,Career Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,3
+"Mar 1, 2023, 11:25 AM",3/1/2023,11:25 ,001384771,Nhi Huynh,nph7744@truman.edu,Accounting,Sophomore,Résumé/CV/Cover Letter Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,2
+"Mar 1, 2023, 1:26 PM",3/1/2023,13:26 ,001381365,Lauren Munns,lem1877@truman.edu,"Elementary, English",Sophomore,Résumé/CV/Cover Letter Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,4
+"Mar 2, 2023, 11:56 AM",3/2/2023,11:56 ,001369304,Riley Witherbee,rnw8132@truman.edu,"Secondary, Music (Pre-Certification)",Junior,Résumé/CV/Cover Letter Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,0
+"Mar 2, 2023, 11:57 AM",3/2/2023,11:57 ,001379940,Kat Doering,knd6783@truman.edu,"Secondary, Music (Pre-Certification)",Sophomore,Résumé/CV/Cover Letter Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,1
+"Mar 2, 2023, 12:48 PM",3/2/2023,12:48 ,001363485,Parker Pfannenstiel,plp4551@truman.edu,"Special Ed, Communication Disorders",Sophomore,Résumé/CV/Cover Letter Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,0
+"Mar 3, 2023, 10:04 AM",3/3/2023,10:04 ,001363157,Em Smith,ems7485@truman.edu,Interdisciplinary Studies,Senior,Virtual Interview Room Reservation,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,11
+"Mar 3, 2023, 11:00 AM",3/3/2023,11:00 ,001364088,Yasmine Ghenima,yg2612@truman.edu,Political Sci & Intl Relations,Senior,Virtual Interview Room Reservation,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,15
+"Mar 3, 2023, 12:34 PM",3/3/2023,12:34 ,001388138,MaryGrace Schneller,tg63545@truman.edu,"Elementary, Psychology",Sophomore,"Résumé/CV/Cover Letter Assistance, Reason: Class Requirement",In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,1
+"Mar 3, 2023, 1:29 PM",3/3/2023,13:29 ,001380293,Lacey Mihalevich,ljm7883@truman.edu,"Secondary, Music (Pre-Certification)",Junior,Résumé/CV/Cover Letter Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,2
+"Mar 3, 2023, 2:11 PM",3/3/2023,14:11 ,001363517,Danielle Illy,dei4267@truman.edu,Biology,Senior,Résumé/CV/Cover Letter Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,24
+"Mar 4, 2023, 11:48 AM",3/4/2023,11:48 ,001362832,Maria Angulo,mea1311@truman.edu,Business Administration,Senior,Career Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,28
+"Mar 4, 2023, 12:05 PM",3/4/2023,12:05 ,001387858,Makda Gebreegziabher,ab25548@truman.edu,Computer Science,Freshman,Career Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,0
+"Mar 4, 2023, 12:07 PM",3/4/2023,12:07 ,001366572,Ruth Teferi,rat3274@truman.edu,Business Administration,Senior,Career Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,10
+"Mar 4, 2023, 12:08 PM",3/4/2023,12:08 ,001384888,Hasset Teferi,hat7412@truman.edu,Biology,Sophomore,Career Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,2
+"Mar 4, 2023, 12:08 PM",3/4/2023,12:08 ,001371166,Hana Sheto,has6447@truman.edu,"Business Administration, Computer Science",Sophomore,Career Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,7
+"Mar 4, 2023, 12:23 PM",3/4/2023,12:23 ,001385339,Yuho Kasuga,yk8163@truman.edu,Business Administration,Junior,Career Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,21
+"Mar 4, 2023, 1:15 PM",3/4/2023,13:15 ,001393633,Haleluya Merga,if11613@truman.edu,"Biochemistry & Molecular Biol, Pre-Pharmacy",Freshman,Reason: Personal Initiative/Professional Development,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,0
+"Mar 4, 2023, 1:16 PM",3/4/2023,13:16 ,001390878,Yeloza Berhanu,cc24325@truman.edu,Health Science,Freshman,Career Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,3
+"Mar 4, 2023, 1:16 PM",3/4/2023,13:16 ,001387762,Saron Gebremichael,fa45177@truman.edu,Computer Science,Freshman,Career Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,1
+"Mar 4, 2023, 1:18 PM",3/4/2023,13:18 ,001366278,Hildana Assefa,ha5261@truman.edu,Computer Science,Senior,Career Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,33
+"Mar 4, 2023, 1:34 PM",3/4/2023,13:34 ,001392142,Dagmawit Kebede,yi46752@truman.edu,"Interdisciplinary Studies, Pre-Medical",Freshman,Career Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,5
+"Mar 4, 2023, 1:38 PM",3/4/2023,13:38 ,001384734,Ibrahim Sakibu,is3256@truman.edu,Design,Senior,Career Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,0
+"Mar 4, 2023, 1:59 PM",3/4/2023,13:59 ,001390287,Pujan Gauli,ts48152@truman.edu,Business Administration,Freshman,Reason: Personal Initiative/Professional Development,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,11
+"Mar 4, 2023, 2:17 PM",3/4/2023,14:17 ,001365816,Kana Kassa,kgk5184@truman.edu,"Biology, Pre-Medical",Senior,Career Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,7
+"Mar 4, 2023, 2:35 PM",3/4/2023,14:35 ,001381745,Prashansa Dhakal,pd8486@truman.edu,Computer Science,Junior,Reason: Personal Initiative/Professional Development,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,8
+"Mar 6, 2023, 9:43 AM",3/6/2023,9:43 ,001389313,Frank Ponder,ft46112@truman.edu,"Secondary, Music (Pre-Certification)",Sophomore,Résumé/CV/Cover Letter Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,2
+"Mar 6, 2023, 9:51 AM",3/6/2023,9:51 ,001370693,Olivia Baumann,oab6442@truman.edu,"Accounting, Business Administration",Senior,Virtual Interview Room Reservation,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,1
+"Mar 6, 2023, 1:37 PM",3/6/2023,13:37 ,001382603,Ash Wohlschlaeger,eaw2235@truman.edu,"Secondary, Modern Language",Junior,Reason: Class Requirement,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,2
+"Mar 6, 2023, 2:03 PM",3/6/2023,14:03 ,001361935,Victoria (Tori) Lin,rl6612@truman.edu,"Business Administration, Economics",Senior,Virtual Interview Room Reservation,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,21
+"Mar 7, 2023, 11:58 AM",3/7/2023,11:58 ,001386959,Anna Hans,nh61735@truman.edu,Nursing,Sophomore,Résumé/CV/Cover Letter Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,0
+"Mar 7, 2023, 1:00 PM",3/7/2023,13:00 ,001387248,Briggs Maynor,td67136@truman.edu,Chemistry,Sophomore,Reason: Preparing for an Upcoming Interview,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,0
+"Mar 7, 2023, 1:57 PM",3/7/2023,13:57 ,001389414,Jessie Philips,ne12145@truman.edu,"Political Sci & Intl Relations, Pre-Law",Freshman,"Mock Interview, Résumé/CV/Cover Letter Assistance",In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,0
+"Mar 7, 2023, 3:28 PM",3/7/2023,15:28 ,001368317,Zixian Jiang,zj8358@truman.edu,English,Senior,Career Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,7
+"Mar 8, 2023, 8:35 AM",3/8/2023,8:35 ,001387711,Hermella Assefa,sf18661@truman.edu,Computer Science,Freshman,Résumé/CV/Cover Letter Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,8
+"Mar 8, 2023, 8:56 AM",3/8/2023,8:56 ,001102676,Brad Lay,bsl6361@truman.edu,Exercise Science,Senior,Personal Statement Critique,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,6
+"Mar 8, 2023, 10:25 AM",3/8/2023,10:25 ,001392654,Tessa Keeton,ca48366@truman.edu,Communication Disorders,Graduate,Résumé/CV/Cover Letter Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,4
+"Mar 8, 2023, 2:37 PM",3/8/2023,14:37 ,001362451,Jaylyn Singleton,jms3284@truman.edu,Biochemistry & Molecular Biol,Senior,Personal Statement Critique,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,4
+"Mar 8, 2023, 2:55 PM",3/8/2023,14:55 ,001385212,Becky George,rlg4147@truman.edu,Communication Disorders,Graduate,Résumé/CV/Cover Letter Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,0
+"Mar 10, 2023, 10:29 AM",3/10/2023,10:29 ,001361904,Abdul Annaba,aa6345@truman.edu,"Physics, Pre-Medical",Senior,Résumé/CV/Cover Letter Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,1
+"Mar 10, 2023, 1:16 PM",3/10/2023,13:16 ,001352785,Claire Russotto,ccr2365@truman.edu,Communication Disorders,Graduate,Mock Interview,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,4
+"Mar 10, 2023, 1:27 PM",3/10/2023,13:27 ,001386959,Anna Hans,nh61735@truman.edu,Nursing,Sophomore,Résumé/CV/Cover Letter Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,0
+"Mar 10, 2023, 2:29 PM",3/10/2023,14:29 ,001387248,Briggs Maynor,td67136@truman.edu,Chemistry,Sophomore,Reason: Preparing for an Upcoming Interview,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,0
+"Mar 10, 2023, 3:26 PM",3/10/2023,15:26 ,001389414,Jessie Philips,ne12145@truman.edu,"Political Sci & Intl Relations, Pre-Law",Freshman,"Mock Interview, Résumé/CV/Cover Letter Assistance",In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,0
+"Mar 20, 2023, 8:25 AM",3/20/2023,8:25 ,001102676,Brad Lay,bsl6361@truman.edu,Exercise Science,Senior,Personal Statement Critique,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,6
+"Mar 20, 2023, 2:41 PM",3/20/2023,14:41 ,001387787,Nahom Jember,cr64444@truman.edu,"Business Administration, Pre-Athletic Training",Freshman,Résumé/CV/Cover Letter Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,1
+"Mar 20, 2023, 3:21 PM",3/20/2023,15:21 ,001393728,Hannah Hilsenbeck,gw51171@truman.edu,"Accounting, Business Administration",Junior,Résumé/CV/Cover Letter Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,0
+"Mar 22, 2023, 8:19 AM",3/22/2023,8:19 ,001362995,Alex Wheeler,agw4558@truman.edu,Physics,Senior,Career Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,0
+"Mar 22, 2023, 8:50 AM",3/22/2023,8:50 ,001389005,Bethlehem Alebachew,tk76886@truman.edu,Health Science,Freshman,Résumé/CV/Cover Letter Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,12
+"Mar 22, 2023, 9:32 AM",3/22/2023,9:32 ,001393860,Rocio Fuertes Navarro,gg57666@truman.edu,"Elementary, Communication Disorders",Sophomore,Résumé/CV/Cover Letter Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,3
+"Mar 22, 2023, 11:48 AM",3/22/2023,11:48 ,001393860,Rocio Fuertes Navarro,gg57666@truman.edu,"Elementary, Communication Disorders",Sophomore,Résumé/CV/Cover Letter Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,3
+"Mar 23, 2023, 2:23 PM",3/23/2023,14:23 ,001365556,Jason Niffen,jjn2582@truman.edu,Physics,Senior,Résumé/CV/Cover Letter Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,0
+"Mar 24, 2023, 9:19 AM",3/24/2023,9:19 ,001364088,Yasmine Ghenima,yg2612@truman.edu,Political Sci & Intl Relations,Senior,Virtual Interview Room Reservation,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,15
+"Mar 27, 2023, 12:27 PM",3/27/2023,12:27 ,001370250,Nicole Galarza Guilarte,sng7321@truman.edu,Business Administration,Junior,Virtual Interview Room Reservation,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,17
+"Mar 27, 2023, 1:29 PM",3/27/2023,13:29 ,001365051,Murtuza Taqi,mst3288@truman.edu,Physics,Senior,Career Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,4
+"Mar 28, 2023, 3:06 PM",3/28/2023,15:06 ,,Grant Gouwens,xl56248@truman.edu,Psychology,Freshman,Résumé/CV/Cover Letter Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,5
+"Mar 28, 2023, 3:07 PM",3/28/2023,15:07 ,001362986,Anna Poole,acp6263@truman.edu,Economics,Senior,Résumé/CV/Cover Letter Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,143
+"Mar 30, 2023, 9:05 AM",3/30/2023,9:05 ,001368341,Kiersten Dooley,kmd8668@truman.edu,"Accounting, Business Administration",Senior,"Career Assistance, Résumé/CV/Cover Letter Assistance",In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,15
+"Mar 30, 2023, 2:58 PM",3/30/2023,14:58 ,001373089,Robert Hartsell,rwh6174@truman.edu,"Health Science, Pre-Medical",Junior,Personal Statement Critique,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,3
+"Apr 3, 2023, 3:29 PM",4/3/2023,15:29 ,000886108,Abby Richmond,acr7474@truman.edu,Communication,Senior,Career Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,0
+"Apr 5, 2023, 2:27 PM",4/5/2023,14:27 ,001368341,Kiersten Dooley,kmd8668@truman.edu,"Accounting, Business Administration",Senior,"Career Assistance, Résumé/CV/Cover Letter Assistance",In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,15
+"Apr 7, 2023, 2:43 PM",4/7/2023,14:43 ,001361498,Hannah Grisham,hmg3543@truman.edu,Psychology,Senior,Virtual Interview Room Reservation,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,0
+"Apr 7, 2023, 3:04 PM",4/7/2023,15:04 ,001381715,Logan Kammerer,ljk2458@truman.edu,"Secondary, History",Junior,Résumé/CV/Cover Letter Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,6
+"Apr 11, 2023, 8:10 AM",4/11/2023,8:10 ,001389005,Bethlehem Alebachew,tk76886@truman.edu,Nursing,Freshman,Résumé/CV/Cover Letter Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,12
+"Apr 11, 2023, 8:49 AM",4/11/2023,8:49 ,000886108,Abby Richmond,acr7474@truman.edu,Communication,Senior,Career Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,0
+"Apr 14, 2023, 11:24 AM",4/14/2023,11:24 ,001382021,Jake Closser,jlc5463@truman.edu,"Biology, Health Science",Sophomore,Résumé/CV/Cover Letter Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,1
+"Apr 14, 2023, 2:09 PM",4/14/2023,14:09 ,001393194,Idongesitabasi Ekanem,wn28884@truman.edu,"Health Science, Pre-Medical",Freshman,Résumé/CV/Cover Letter Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,0
+"Apr 14, 2023, 3:30 PM",4/14/2023,15:30 ,001373089,Robert Hartsell,rwh6174@truman.edu,"Health Science, Pre-Medical",Junior,Personal Statement Critique,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,3
+"Apr 14, 2023, 3:58 PM",4/14/2023,15:58 ,001389306,Alexandra Kliethermes,rj14547@truman.edu,"Biology, Pre-Medical",Sophomore,Career Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,0
+"Apr 18, 2023, 10:23 AM",4/18/2023,10:23 ,001393194,Idongesitabasi Ekanem,wn28884@truman.edu,"Health Science, Pre-Medical",Freshman,Résumé/CV/Cover Letter Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,0
+"Apr 19, 2023, 2:33 PM",4/19/2023,14:33 ,001365236,Stephanie Renasco Guzmann,svr4531@truman.edu,Business Administration,Junior,Career Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,20
+"Apr 20, 2023, 12:05 PM",4/20/2023,12:05 ,001365818,Namuna Sunar,ns3255@truman.edu,Nursing,Senior,Virtual Interview Room Reservation,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,53
+"Apr 20, 2023, 2:33 PM",4/20/2023,14:33 ,001361656,Joseph Dougherty,jjd7383@truman.edu,"Communication, Creative Writing",Senior,On-campus Interview,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,17
+"Apr 27, 2023, 9:44 AM",4/27/2023,9:44 ,001378190,Nathan Shaw,ncs6387@truman.edu,Physics,Junior,Mock Interview,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,2
+"Apr 27, 2023, 2:01 PM",4/27/2023,14:01 ,001364245,Vicky Yan,xy2141@truman.edu,Statistics,Junior,Résumé/CV/Cover Letter Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,3
+"May 1, 2023, 8:59 AM",5/1/2023,8:59 ,001337141,Zachary Zerwig,ztz5553@truman.edu,Leadership,Graduate,Career Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,7
+"May 2, 2023, 2:36 PM",5/2/2023,14:36 ,001359405,Bryce Lewin,bl7881@truman.edu,Creative Writing,Senior,Mock Interview,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,1
+"May 4, 2023, 12:11 PM",5/4/2023,12:11 ,001372816,Sara Klamm,smk2272@truman.edu,Communication,Junior,Résumé/CV/Cover Letter Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,1
+"May 5, 2023, 9:05 AM",5/5/2023,9:05 ,001337141,Zachary Zerwig,ztz5553@truman.edu,Leadership,Graduate,Career Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,7
+"May 9, 2023, 2:50 PM",5/9/2023,14:50 ,001362380,Abby Rolen,alr2534@truman.edu,Biology,Senior,Mock Interview,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,5
+"May 10, 2023, 3:11 PM",5/10/2023,15:11 ,000894322,Nathan Chrisman,nsc5567@truman.edu,Design,Senior,Mock Interview,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,8
+"May 11, 2023, 3:20 PM",5/11/2023,15:20 ,001355924,Laney Wohlschlaeger,lcw5717@truman.edu,"Secondary, Art, English",Sophomore,Résumé/CV/Cover Letter Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,2
+"Jun 27, 2023, 11:56 AM",6/27/2023,11:56 ,1380154,Mel Eaton,mre8641@truman.edu,"Secondary, Creative Writing",Senior,Résumé/CV/Cover Letter Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,0
+"Jun 28, 2023, 12:56 PM",6/28/2023,12:56 ,1249168,Lauri Klump,ltk1124@truman.edu,Anthropology,Senior,Personal Statement Critique,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,2
+"Jul 11, 2023, 11:23 AM",7/11/2023,11:23 ,1380154,Mel Eaton,mre8641@truman.edu,"Secondary, Creative Writing",Senior,What: Résumé/CV/Cover Letter Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,0
+"Jul 13, 2023, 10:21 AM",7/13/2023,10:21 ,1359902,Olivia Halma,ogh2676@truman.edu,Data Sci & Analytic Storytell,Graduate,What: Résumé/CV/Cover Letter Assistance,In-Person,,,Yes,No,Yes,Career Center Check-in Lobby,3
