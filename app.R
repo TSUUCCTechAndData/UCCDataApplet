@@ -9,9 +9,9 @@ library(DT)
 library(shinyjs)
 library(shinythemes)
 
-# Data
-
-load("/Users/dane_winterboer/Desktop/UCC Data/S23 - Services Applet/Data Cleaning/Data Cleaning/UCCClean.RData")
+# Services Data
+services_url <- "https://github.com/TSUUCCTechAndData/UCCDataApplet/raw/main/Data/Services/ServicesClean.RData"
+load(url(services_url))
 
 # Generates List of Majors
 majors_list = unique(c(levels(clean_data$Major1st), levels(clean_data$Major2nd)))
@@ -55,7 +55,6 @@ ui <- fluidPage(
                                   "Class Level"               = "ClassLevel", 
                                   "Career Center Service"     = "CareerCenterService", 
                                   "Meeting Format"            = "MeetingFormat", 
-                                  "Appointment Length"        = "AppointmentLength",
                                   "Counselor"                 = "Counselor",
                                   "Appointment Cancellations" = "AppointmentCancelled",
                                   "Meeting Type"              = "WalkInAppointment"
@@ -89,7 +88,6 @@ ui <- fluidPage(
                                 "Class Level"               = "ClassLevel", 
                                 "Career Center Service"     = "CareerCenterService", 
                                 "Meeting Format"            = "MeetingFormat", 
-                                "Appointment Length"        = "AppointmentLength",
                                 "Counselor"                 = "Counselor",
                                 "Appointment Cancellations" = "AppointmentCancelled",
                                 "Meeting Type"              = "WalkInAppointment"
@@ -174,16 +172,6 @@ ui <- fluidPage(
             multiple = TRUE
           ),
           
-          # Appointment Length
-          pickerInput(
-            inputId = "SelectLength",
-            label = "Select Appointment Length (mins): ",
-            choices = levels(clean_data$AppointmentLength),
-            selected = levels(clean_data$AppointmentLength),
-            options = list(`actions-box` = TRUE, `live-search` = TRUE),
-            multiple = TRUE
-          ),
-          
           # Reset Button
           actionButton(
             inputId = "reset_filters",
@@ -264,7 +252,6 @@ server <- function(input, output, session) {
         ClassLevel %in% input$SelectClassLevel,
         CareerCenterService %in% input$SelectService,
         Counselor %in% input$SelectCounselor,
-        AppointmentLength %in% input$SelectLength
       )
     
       # Filter by additional options:
